@@ -1,0 +1,14 @@
+http://abc.sourceforge.net/NMD/nmd/jigs.txt
+http://abc.sourceforge.net/NMD/nmd/hpps.txt
+http://abc.sourceforge.net/NMD/nmd/morris.txt
+http://abc.sourceforge.net/NMD/nmd/playford.txt
+http://abc.sourceforge.net/NMD/nmd/reelsa-c.txt
+http://abc.sourceforge.net/NMD/nmd/reelsd-g.txt
+http://abc.sourceforge.net/NMD/nmd/reelsh-l.txt
+http://abc.sourceforge.net/NMD/nmd/reelsm-q.txt
+http://abc.sourceforge.net/NMD/nmd/reelsr-t.txt
+http://abc.sourceforge.net/NMD/nmd/reelsu-z.txt
+http://abc.sourceforge.net/NMD/nmd/slip.txt
+http://abc.sourceforge.net/NMD/nmd/waltzes.txt
+http://abc.sourceforge.net/NMD/nmd/xmas.txt
+http://abc.sourceforge.net/NMD/nmd/ashover.txt
