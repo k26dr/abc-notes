@@ -59,3 +59,9 @@ cat bach_files/* > bach.abc
 	* `Found X:.*`
 	* `Mismatch: X.*`
 	* `&amp;A BArFly optimized version.`
+
+6. Replace multiple empty lines with single empty lines
+
+```
+cat -s bach.abc > bach.abc
+```
