@@ -60,7 +60,7 @@ cat bach_files/* > bach.abc
 	* `Mismatch: X.*`
 	* `&amp;A BArFly optimized version.`
 
-6. Replace multiple empty lines with single empty lines
+6. Replace multiple empty lines with single empty lines. You may require more than just the cat command to do this, get creative with your find and replaces
 
 ```
 cat -s bach.abc > bach.abc
