@@ -33,8 +33,7 @@ links = [...document.querySelectorAll('a')]
 
 3. Copy output to bach_files.txt. The `bach_files.txt` file in the repo contains a couple additional URLs that have been manually aggregated from the internet. 
 
-4. In terminal. There are about 400 files that require to be downloaded with this. You might be better off using a Node script to download all of them asyncronously, but I didn't bother for now. 
-
+4. In terminal. There are about 400 files that require to be downloaded with this.
 ```bash
 wget -i bach_files.txt -P bach_files
 cat bach_files/* > bach.abc
