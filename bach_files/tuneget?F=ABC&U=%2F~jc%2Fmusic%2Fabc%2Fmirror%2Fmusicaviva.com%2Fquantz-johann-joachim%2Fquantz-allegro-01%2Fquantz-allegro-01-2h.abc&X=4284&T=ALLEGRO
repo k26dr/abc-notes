@@ -1,0 +1,117 @@
+<html>
+<head>
+	<title>quantz [ABC] </title>
+	<link rel='SHORTCUT ICON' href='/~jc/img/music.gif'>
+	<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+	<meta name=viewport content='width=device-width'>
+	<meta name='keywords' content='sheet,music,musician,musical,ABC,notation,instrument,lesson,manuscript'>
+<style type='text/css'>
+	body          {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted blue;}
+	div.inline    {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted red;}
+	div.exit      {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted orange;}
+	object.inline {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted green;}
+</style>
+</head>
+<body>
+<center>
+</center>
+<hr><TT><pre>
+X: 1
+T:Allegro
+C:Johann Joachim Quantz
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/quantz-johann-joachim/quantz-allegro-01-2h.abc
+V:1 Program 1 73 %Flute
+V:2 Program 1 72 %Piccolo
+M:2/4
+L:1/16
+Q:1/4=132
+K:D
+V:1
+A2|.a2.g2.f2.e2|d4A4|.a2.g2.f2.e2|d6g2|f2fg fga2|e2e2 efg2|
+V:2
+z2|z4z2A2|.a2.g2.f2.e2|d4A4|.a2.g2.f2.e2|.d2.d2 def2|c2c2 cde2|
+%
+V:1
+f2f2 fga2|e6g2|(fe)fg (fg)af|(ed)ef (ef)ge|(fe)fg (fg)af|e4z2a2|
+V:2
+d2d2 def2|A2B2c2 e2|(dc)de (de)fd|(cB)cd (cd)ec|(dc)de (de)fd|A2B2c2 c2|
+%
+V:1
+b2a^g a2ga|b2a^g a2 A2|d2cB c2Bc|d2cB c2e2|c2BA B2(T^G2 {F/G/})|A6::e2|
+V:2
+d2cB c2Bc|d2cB c2 A2|B2A^G A2GA|B2A^G A2B2|A2^GA B2B,2|C6::^G2|
+%
+V:1
+c2BA B2e2|d2cB c2f2|d2cB c2f2|b2(b^a) b2 f2|(gf)ef g2f2|b2(b^a) b2f2|
+V:2
+A2 z2 ^G2 z2|B2 z2 ^A2 z2|B2 z2 ^A2c2|d2(dc) d2d2|(ed)cd e2d2|d2(dc) d2d2|
+%
+V:1
+(Mg2f2) z2 f2|e2(ed) (ed)(ce)|d2(dc) (dc)(Bd)|e2(ed) (ed)(ce)|(Md2c2) z2 f2|(b^ab)c (Tc3B)|
+V:2
+(Me2d2) z2 d2|c2(cB) (cB)(^Ac)|B4 z2^G2|c2(cB) (cB)(^Ac)|(MB2^A2) (Bc)(dB)|(d2B2) (T^A3A)|
+%
+V:1
+B6d2|A2d2A2d2|(3f2g2a2 A4|A2d2A2d2|(3f2g2a2 A2 f2|g2fe f2ef|g2fe f2a2|
+V:2
+B6A2|F2A2F2A2|(3d2e2f2 f4|F2A2F2A2|(3d2e2f2 f2 d2|e2dc d2cd|e2dc d2f2|
+%
+V:1
+b2ag a2f2|b2ag a2 A2|a2g2f2e2|d4A4|a2g2f2e2|d6a2|(fg)af (ba)bg|
+V:2
+g2fe f2d2|g2fe f2 z2|z4z2A2|a2g2f2e2|d4A4|a2g2f2e2|(de)fd (gf)ge|
+%
+V:1
+(ef)ge (ag)af|(de)fd (ga)gf|e6e2|f2ef g2fe|f2ef g2fe|f2ga A2(Tc2{B/c/})|d6:|
+V:2
+(cd)ec (fe)fd|(Bc)dB (ef)ed|(cd)cB A2 c2|d2cd e2dc|d2cd e2dc|d2ef F2E2|F6:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+</pre></TT>
+<div class=inline>
+</div><!-- class=inline -->
+<div class=exit>
+<center>
+P=tuneget V=1 B=1 200x200 
+<br>
+<table border=2 style='border-collapse:collapse; margin:1px;'>
+<tr><th>file</th><th>size</th><th>description</th></tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-84728.abc" rel="nofollow">Tune-84728.abc</a></td>
+	<td align=right>1597</td>
+	<td>ABC music file with the extracted tunes</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-84728.log" rel="nofollow">Tune-84728.log</a></td>
+	<td align=right>3085</td>
+	<td>Log file, useful mostly for debugging</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-84728.txt" rel="nofollow">Tune-84728.txt</a></td>
+	<td align=right>1597</td>
+	<td>Plain-text file with the extracted tunes</td>
+	</tr>
+</table>
+These files should be available for 24 hours.
+</center>
+<div class="ads">
+<div align=center class='PPdonatef'>
+<div class=donate>
+If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+</div>
+</div><!-- class=exit-->
+</body>
+</html>

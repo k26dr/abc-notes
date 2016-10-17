@@ -1,0 +1,110 @@
+<html>
+<head>
+	<title>bwv0942 [ABC] </title>
+	<link rel='SHORTCUT ICON' href='/~jc/img/music.gif'>
+	<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+	<meta name=viewport content='width=device-width'>
+	<meta name='keywords' content='sheet,music,musician,musical,ABC,notation,instrument,lesson,manuscript'>
+<style type='text/css'>
+	body          {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted blue;}
+	div.inline    {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted red;}
+	div.exit      {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted orange;}
+	object.inline {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted green;}
+</style>
+</head>
+<body>
+fromCache: pth1='http/trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/bach-johann-sebastian/bwv0942/bwv0942.abc:/%1245:PRELUDEBWV942.abc'<br>
+fromCache: pth2='http/trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/bach-johann-sebastian/bwv0942/bwv0942.abc:/%1245:PRELUDEBWV942.abc'<br>
+fromCache: pth3='http/trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/bach-johann-sebastian/bwv0942/bwv0942.abc:/%1245:PRELUDEBWV942.abc'<br>
+Found X:1245 &#34;(Prelude) BWV 942&#34; matches &#34;PRELUDEBWV942&#34;<br>
+<center>
+</center>
+<hr><TT><pre>
+X: 1
+T:(Prelude) BWV 942
+C:Johann Sebastian Bach
+O:Germany
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/bach-johann-sebastian/bwv0942/bwv0942.abc
+V:1 Program 1 6 %Harpsichord
+V:2 Program 1 6 bass %Harpsichord
+M:9/8
+L:1/8
+F:http://trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/tunes/bach-johann-sebastian/bwv0942/bwv0942.abc	 2016-10-17 212824 UT
+K:Am
+V:1
+aef ade ace|aBc A3/c/B/A/ ^dcB|g^de c'g^f b^fe|a^f^d g^f/e/^d/e/ g=d^c|
+V:2
+A,2zC2zF2z|E2zC2zA,2z|EB,C EA,B, EG,A,|E^F,G, E,3/G,/F,/E,/ ^C^A,=A,|
+%
+V:1
+=f^cd fe/d/^c/d/ e=cB|eBc eAB eGA|e^FG E3/G/^F/E/ ^c_BA|
+V:2
+DE,F, D,3/F,/E,/D,/ =B,_A,G,|C^G,A, B,^F,=G, A,E,F,|G,^D,E,^C2zA,2z|
+%
+V:1
+dE=F D3/F/E/D/ ^GFE|=c^GA dGA eGA|\
+F/=G/F/E/D/E/ F/G/A/B/c/d/ e/^f/^g/a/b/c'/|
+V:2
+=F,^C,D,^G,2zE,2z|A,2zB,2z=C2z|D,3z2zz2z|
+%
+V:1
+de=f e^ga BcA|^Gfe Aed Bdc|cBA fc^G e=G^F|d=FE c^GA ^F^GA|
+V:2
+B,,C,/B,,/A,,/B,,/ C,D,/C,/B,,/C,/ D,E,/D,/C,/D,/|E,3z2zz2z|\
+A,E,F, A,D,E, A,^C,D,|A,B,,C, A,,3/C,/B,,/A,,/ ^D,C,B,,|
+%
+V:1
+^G/e/d/c/B/A/ G/^F/E/D/C/B,/ xx2|x2x/E/ A/c/e/B/c/A/ EA^G|\
+A=G/=F/E/D/ C/B,/A,/^G,/A,/E,/ xx2|]
+V:2
+E,2zz2zA,/^G,/^F,/E,/F,/G,/|A,/ C,/E,/A,/C/z/ z2D,E,2E,,|A,,2zz2zA,,2x|]
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+</pre></TT>
+<div class=inline>
+</div><!-- class=inline -->
+<div class=exit>
+<center>
+P=tuneget V=1 B=1 200x200 
+<br>
+<table border=2 style='border-collapse:collapse; margin:1px;'>
+<tr><th>file</th><th>size</th><th>description</th></tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-88557.abc" rel="nofollow">Tune-88557.abc</a></td>
+	<td align=right>1304</td>
+	<td>ABC music file with the extracted tunes</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-88557.log" rel="nofollow">Tune-88557.log</a></td>
+	<td align=right>4919</td>
+	<td>Log file, useful mostly for debugging</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-88557.txt" rel="nofollow">Tune-88557.txt</a></td>
+	<td align=right>1304</td>
+	<td>Plain-text file with the extracted tunes</td>
+	</tr>
+</table>
+These files should be available for 24 hours.
+</center>
+<div class="ads">
+<div align=center class='PPdonatef'>
+<div class=donate>
+If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+</div>
+</div><!-- class=exit-->
+</body>
+</html>

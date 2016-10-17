@@ -1,0 +1,126 @@
+<html>
+<head>
+	<title>bwv0512 [ABC] </title>
+	<link rel='SHORTCUT ICON' href='/~jc/img/music.gif'>
+	<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+	<meta name=viewport content='width=device-width'>
+	<meta name='keywords' content='sheet,music,musician,musical,ABC,notation,instrument,lesson,manuscript'>
+<style type='text/css'>
+	body          {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted blue;}
+	div.inline    {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted red;}
+	div.exit      {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted orange;}
+	object.inline {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted green;}
+</style>
+</head>
+<body>
+.<br>
+.<br>
+.<br>
+fromCache: pth1='http/trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/bach-johann-sebastian/bwv0512/bwv0512-pno2.abc:/%3522:BWV512.abc'<br>
+fromCache: pth2='http/trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/bach-johann-sebastian/bwv0512/bwv0512-pno2.abc:/%3522:BWV512.abc'<br>
+fromCache: pth3='http/trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/bach-johann-sebastian/bwv0512/bwv0512-pno2.abc:/%3522:BWV512.abc'<br>
+Found X:3522 &#34;BWV 512&#34; matches &#34;BWV512&#34;<br>
+<center>
+</center>
+<hr><TT><pre>
+X: 1
+T:BWV 512
+C:Johann Sebastian Bach
+R:Chorale
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/bach-johann-sebastian/bwv0512/bwv0512-pno2.abc
+V:2 bass
+m: Tn = (3o//n//o//n/
+M:C
+L:1/8
+Q:1/4=72
+F:http://trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/bach-johann-sebastian/bwv0512/bwv0512-pno2.abc	 2016-10-17 210949 UT
+K:Em
+V:1
+B|G2(AB/c/)B3A|GF FG/A/ GF HE2|
+w:Gib dich zu---frie-den, und_ sei__ stil--le
+V:2
+E,,|E,^D,E,F, G,F,G,A,|B,A,B,B,, E,B,,G,,B,,|
+%
+V:1
+cBB2 edd2|Fc BA A2G B|G2 (AB/c/) B3A|
+w:In_ dem Got--te dei--nes_ Le-bens. In Ihm ruht__ al-ler
+V:2
+E,,E,2D, C,C2B,|A,2G,2 D,2G,,E,,|E,^D,E,F, G,F,G,A,|
+%
+V:1
+GF FG/A/ GFHE2|cBB2 edd2|Fc BA A2G||
+w: Freu--den__ F\"ul--le, Ohn'_ Ihn m\"uhst_ du dich_ ver--ge-bens.
+V:2
+B,A,B,B,, E,B,,G,,B,,|E,,E,2D, C,C2B,|A,2G,2 D,2G,,||
+%
+V:1
+B|A2(BA/G/) A2Bc|dc cB cB HA c|F2(e^d) (e/f/g) cB|
+w: Er ist dein__ Quell und_ dei--ne_ Son--ne, Scheint t\"ag-lich_ hell__ zu_
+V:2
+G,|F,D,G,G,, D,E,D,C,|B,,2E,2 HA,,3A,|B,A,G,F, G,F,E,D,|
+%
+V:1
+Aa fe ^d^c HB e|(dc) (BA) B^D E A|(G2TFE) HE3|]
+w: dei--ner_ Won--ne. Gib dich_ zu--frie--den, zu-frie---den.
+V:2
+C,B,,A,,2 HB,,3G,|A,2F,2 G,B,CA,|B,A,B,B,, HE,3|]
+W:
+W:Gib dich zufrieden, und sei stille
+W:In dem Gotte deines Lebens.
+W:
+W:In Ihm ruht aller Freuden F\"ulle,
+W:Ohn' Ihn m\"uhst du dich vergebens.
+W:
+W:Er ist dein Quell und deine Sonne,
+W:Scheint t\"aglich hell zu deiner Wonne.
+W:Gib dich zufrieden, zufrieden.
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+</pre></TT>
+<div class=inline>
+</div><!-- class=inline -->
+<div class=exit>
+<center>
+P=tuneget V=1 B=1 200x200 
+<br>
+<table border=2 style='border-collapse:collapse; margin:1px;'>
+<tr><th>file</th><th>size</th><th>description</th></tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-85217.abc" rel="nofollow">Tune-85217.abc</a></td>
+	<td align=right>1575</td>
+	<td>ABC music file with the extracted tunes</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-85217.log" rel="nofollow">Tune-85217.log</a></td>
+	<td align=right>5414</td>
+	<td>Log file, useful mostly for debugging</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-85217.txt" rel="nofollow">Tune-85217.txt</a></td>
+	<td align=right>1575</td>
+	<td>Plain-text file with the extracted tunes</td>
+	</tr>
+</table>
+These files should be available for 24 hours.
+</center>
+<div class="ads">
+<div align=center class='PPdonatef'>
+<div class=donate>
+If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+</div>
+</div><!-- class=exit-->
+</body>
+</html>

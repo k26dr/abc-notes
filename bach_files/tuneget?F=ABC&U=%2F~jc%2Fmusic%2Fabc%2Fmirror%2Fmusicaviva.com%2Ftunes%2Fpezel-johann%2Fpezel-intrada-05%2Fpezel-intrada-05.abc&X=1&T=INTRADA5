@@ -1,0 +1,123 @@
+<html>
+<head>
+	<title>pezel [ABC] </title>
+	<link rel='SHORTCUT ICON' href='/~jc/img/music.gif'>
+	<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+	<meta name=viewport content='width=device-width'>
+	<meta name='keywords' content='sheet,music,musician,musical,ABC,notation,instrument,lesson,manuscript'>
+<style type='text/css'>
+	body          {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted blue;}
+	div.inline    {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted red;}
+	div.exit      {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted orange;}
+	object.inline {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted green;}
+</style>
+</head>
+<body>
+<center>
+</center>
+<hr><TT><pre>
+X: 1
+T:Intrada 5
+C:Johann Pezel
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/pezel-johann/pezel-intrada-05.abc
+V:1 Program 1 56 %Trumpet
+V:2 Program 1 56 %Trumpet
+V:3 Program 1 56 %Trumpet
+V:4 Program 1 56 bass %Trumpet
+V:5 Program 1 56 bass %Trumpet
+M:C
+L:1/8
+K:C
+V:1
+z8|z8|z8|z8|
+V:2
+z8|z8|z8|ccAB cABG|
+V:3
+GGEF GEFD|EFDE ^FG2F|G2 z2 z E CD|E3D ECDB,|
+V:4
+z4 CCA,B,|CA,B,G, A,B,A,2|G,B,/A,/ G,A, B,C A,B,|G,2 z2 z A, F,G,|
+V:5
+z8|z8|G,G,E,F, G,E,F,D,|E,C,F,2E,F,D,E,|
+%
+V:1
+z8|ggef gefd|ecdB c&gt;de^f|g8:|
+V:2
+Ac2B cG2^F|G2 z2 z cAB|GAG2 A&gt;Bc2|B8:|
+V:3
+CEF2EDC2|DEC2DCD2|CEG2E&gt;DC2|D8:|
+V:4
+F,CF,2G,2A,2|B,2G,2G,4|G,CB,2A,4|B,8:|
+V:5
+F,E,D,2C,B,,A,,2|G,,2C,2B,,C,2B,,|C,A,,B,,G,,A,,2D,2|G,,8:|
+%
+V:1
+|:G&gt;AB&gt;cd3d|c3cB2cc|B4A4|z8|
+V:2
+|:z4 D&gt;EF&gt;G|A3A ^G2AA|A3^GA4|z8|
+V:3
+|:z8|A,&gt;B,C&gt;D E&gt;DC&gt;B,|E4A,4|z8|
+V:4
+|:z8|z8|z8|G,&gt;A,B,&gt;C D3D|
+V:5
+|:z8|z8|z4 A,,&gt;B,,C,&gt;D,|E,3E, D,&gt;E,F,&gt;G,|
+%
+V:1
+z8|F&gt;GA&gt;B c&gt;de&gt;f|g3g fge2|d4c4:|
+V:2
+C&gt;DE&gt;F G3G|F&gt;EF&gt;DE2c2|G3d cBc2-|c2B2c4:|
+V:3
+z4 B,&gt;CD&gt;E|F3FE3E|D3G CDEF|G4G4:|
+V:4
+C3C B,3B,|A,2 z2 E,&gt;F,G,&gt;A,|B,3B, A,2G,2|G,A, B,/C/D E4:|
+V:5
+A,3A,G,3G,|D,4C,4|B,,2G,,2A,,B,, C,E,|G,2G,,2C,4:|
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+</pre></TT>
+<div class=inline>
+</div><!-- class=inline -->
+<div class=exit>
+<center>
+P=tuneget V=1 B=1 200x200 
+<br>
+<table border=2 style='border-collapse:collapse; margin:1px;'>
+<tr><th>file</th><th>size</th><th>description</th></tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-86721.abc" rel="nofollow">Tune-86721.abc</a></td>
+	<td align=right>1277</td>
+	<td>ABC music file with the extracted tunes</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-86721.log" rel="nofollow">Tune-86721.log</a></td>
+	<td align=right>3005</td>
+	<td>Log file, useful mostly for debugging</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-86721.txt" rel="nofollow">Tune-86721.txt</a></td>
+	<td align=right>1277</td>
+	<td>Plain-text file with the extracted tunes</td>
+	</tr>
+</table>
+These files should be available for 24 hours.
+</center>
+<div class="ads">
+<div align=center class='PPdonatef'>
+<div class=donate>
+If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+</div>
+</div><!-- class=exit-->
+</body>
+</html>

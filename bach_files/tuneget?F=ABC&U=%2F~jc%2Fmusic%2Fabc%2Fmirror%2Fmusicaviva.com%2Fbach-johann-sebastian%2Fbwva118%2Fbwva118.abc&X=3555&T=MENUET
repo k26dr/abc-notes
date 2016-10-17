@@ -1,0 +1,104 @@
+<html>
+<head>
+	<title>bwva118 [ABC] </title>
+	<link rel='SHORTCUT ICON' href='/~jc/img/music.gif'>
+	<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+	<meta name=viewport content='width=device-width'>
+	<meta name='keywords' content='sheet,music,musician,musical,ABC,notation,instrument,lesson,manuscript'>
+<style type='text/css'>
+	body          {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted blue;}
+	div.inline    {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted red;}
+	div.exit      {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted orange;}
+	object.inline {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted green;}
+</style>
+</head>
+<body>
+.<br>
+.<br>
+.<br>
+<center>
+</center>
+<hr><TT><pre>
+X: 1
+T:Menuet
+T:BWV Anh. 118
+C:Johann Sebastian Bach?
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/bach-johann-sebastian/bwva118/bwva118.abc
+V:2 bass
+M:3/4
+L:1/8
+K:Bb
+V:1
+B2 B2 F&gt;G|{F}E4 D2|C2 (c3d/e/)|{B}A4 B2|c2 F2 e2|
+V:2
+B,,C D,C,D,B,,|C,B,,C,F,,B,,2|E,,G,F,E,D,C,|F,C,E,D,C,B,,|A,,C,B,,A,,G,,F,,|
+%
+V:1
+dcBA B2|(e/f/g) fede|[1c6:|[2c6|:A2 A&gt;B TB3/2(A//B//)|
+V:2
+B,,2 C,2 D,2|G,,2 A,,2 B,,2|[1F,,=E,,F,,G,,A,,F,,:|[2F,,2 A,,2 C,2|:F,E,D,C,D,B,,|
+%
+V:1
+c2 BAGF|B2 AGAF|GF=ED=EC|CD=EFGA|B2 =e2 (e/f/g)|
+V:2
+F,F,,G,,A,,B,,C,|D,2 =E,2 F,2|C,2 C2 B,2|A,2 G,2 F,2|=E,D,C,B,,A,,G,,|
+%
+V:1
+c2 BA GA|F6|F2 B2 (B/c/)d|F2 c2 (c/d/)e|dfedcB|
+V:2
+A,,2 B,,2 C,2|F,,C,F,D,_E,C,|D,F,E,D,C,B,,|A,,C,B,,A,,G,,F,,|B,,2 G,,2 E,,2|
+%
+V:1
+A2 GA F2|B2 B2 A2|G2 FE D2|e2 d2 c2|[1B6:|[2B6|]
+V:2
+F,,F,E,D,E,C,|D,C,D,B,,C,D,|E,F,G,A,B,A,|G,2 E,2 F,2|[1B,,A,,B,,C,D,E,:|[2B,,6|]
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+</pre></TT>
+<div class=inline>
+</div><!-- class=inline -->
+<div class=exit>
+<center>
+P=tuneget V=1 B=1 200x200 
+<br>
+<table border=2 style='border-collapse:collapse; margin:1px;'>
+<tr><th>file</th><th>size</th><th>description</th></tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-87048.abc" rel="nofollow">Tune-87048.abc</a></td>
+	<td align=right>1015</td>
+	<td>ABC music file with the extracted tunes</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-87048.log" rel="nofollow">Tune-87048.log</a></td>
+	<td align=right>2913</td>
+	<td>Log file, useful mostly for debugging</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-87048.txt" rel="nofollow">Tune-87048.txt</a></td>
+	<td align=right>1015</td>
+	<td>Plain-text file with the extracted tunes</td>
+	</tr>
+</table>
+These files should be available for 24 hours.
+</center>
+<div class="ads">
+<div align=center class='PPdonatef'>
+<div class=donate>
+If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+</div>
+</div><!-- class=exit-->
+</body>
+</html>

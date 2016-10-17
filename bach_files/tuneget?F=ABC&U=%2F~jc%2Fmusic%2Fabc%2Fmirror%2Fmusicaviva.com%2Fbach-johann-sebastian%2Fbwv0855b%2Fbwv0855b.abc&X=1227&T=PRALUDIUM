@@ -1,0 +1,149 @@
+<html>
+<head>
+	<title>bwv0855b [ABC] </title>
+	<link rel='SHORTCUT ICON' href='/~jc/img/music.gif'>
+	<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+	<meta name=viewport content='width=device-width'>
+	<meta name='keywords' content='sheet,music,musician,musical,ABC,notation,instrument,lesson,manuscript'>
+<style type='text/css'>
+	body          {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted blue;}
+	div.inline    {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted red;}
+	div.exit      {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted orange;}
+	object.inline {margin:0;padding:0;width:'100%';height:'100%';border:1px dotted green;}
+</style>
+</head>
+<body>
+<center>
+</center>
+<hr><TT><pre>
+X: 1
+T:Pr\"aludium
+T:(Prelude) BWV 855b
+C:Johann Sebastian Bach
+O:Germany
+S:From "Klavierb\"uchlein f\"ur Wilhelm Friedemann Bach"
+N:An extended version of this prelude appears in "Das Wohltemperierte
+N:Klavier" (book 1 no. 10).
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+F:http://abc.musicaviva.com/tunes/bach-johann-sebastian/bwv0855b/bwv855b.abc
+V:1 Program 1 6 %Harpsichord
+V:2 Program 1 6 bass %Harpsichord
+I:This abc file is formatted for BarFly 1d24. It uses
+I:some features that has not at the moment (August 1999)
+I:been standarized in abc. Because of that some modifications
+I:might be necessary to display or play it with other abc programs.
+M:C
+L:1/4
+K:Em
+V:1
+[G2B2e2]z2 z4[B2e2g2]z2 z4|[A2c2f2]z2 z4[A2c2f2]z2 z4|
+V:2
+E,G,A,B, A,B,A,G,  E,G,A,B, A,B,A,G,|\
+E,A,B,C B,CB,A, E,A,B,C B,CB,A,|
+%
+V:1
+[B2f2]z2 z4[B2f2a2]z2 z4|[B2e2g2]z2 z4[B2e2g2]z2 z4|
+V:2
+^D,F,G,A, G,A,G,F, D,F,G,A, G,A,G,F,|\
+E,G,A,B, A,B,A,G,  E,G,A,B, A,B,A,G,|
+%
+V:1
+[A2c2f2]z2 z4[B2f2b2]z2 z4|[G2B2e2]z2 z4[A2e2a2]z2 z4|
+V:2
+E,F,G,A, G,A,G,F, D,F,G,A, G,A,G,F,|\
+D,E,F,G, F,G,F,E, C,E,F,G, F,G,F,E,|
+%
+V:1
+[F2A2d2]z2 z4[G2d2g2]z2 z4|[E2G2c2]z2 z4[F2A2c2]z2 z4|
+V:2
+C,F,G,A, G,A,G,F, B,,G,A,B, A,B,A,G,|\
+B,,E,F,G, F,G,F,E, A,,F,G,A, G,A,G,F,|
+%
+V:1
+[D2F2A2c2]z2 z4[D2G2B2]z2 z4|[E2A2e2]z2 z4[A2c2f2]z2 z4|
+V:2
+G,A,B,C B,CB,A, G,B,CD CDCB,|G,^CDE DEDC F,^DEFE FED|
+%
+V:1
+[G2B2e2g2]z2 z4[G2B2]z2 z4|[=F2A2c2]z2 z4[F2B2d2]z2 z4|
+V:2
+E,F,G,A, G,A,G,F, E,G,A,B, A,B,A,G,|E,A,B,C B,CB,A, D,B,CD CDCB,|
+%
+V:1
+[G2c2e2]z2 z4[G2E2]z2 z4|[D2F2A2]z2 z4[D2^G2B2]z2 z4|
+V:2
+C,D,E,=F, E,F,E,D, C,E,^F,G, F,G,F,E,|\
+C,F,G,A, G,A,G,F, B,,^G,A,B,A, B,A,G,|
+%
+V:1
+[E2A2c2]z2 z4[E2A2c2]z2 z4|[^D2A2c2]z2 z4[E2A2c2]z2 z4|
+V:2
+A,B,CD CDCB, =G,A,B,C B,CB,A,|F,A,B,C B,CB,A, E,A,B,C B,CB,A,|
+%
+V:1
+[F2A2c2]z2 z4[F2A2B2]z2 z4|[E2^G2B2e2]z2 z4[E2=G2^A2e2]z2 z4|
+V:2
+^D,A,B,C B,CB,A, D,F,G,A, G,A,G,F,|\
+D,G,A,B, A,B,A,G, ^C,E,F,=G, F,G,F,E,|
+%
+V:1
+[F2A2^d2]z2 z4[G2B2e2]z2 z4|[G2^c2e2]z2 z4[F2B2^d2]z2 z4|
+V:2
+C,F,G,A, G,A,G,F, B,,E,F,G, F,G,F,E,|\
+^A,,E,F,G, F,G,F,E, B,,F,G,=A, G,A,G,F,|
+%
+V:1
+[G2B2e2]z2 z4[E2^G2B2d2]z2 z4|\
+[E2A2c2]z2 z4^DA,B,C B,CB,A,|H[^G,16B,16E16]|]
+V:2
+E,F,G,A, G,A,G,F, E,^G,A,B, A,B,A,G,|\
+E,A,B,C B,CB,A, [F,2E,2]z2 z4|H[E,,16E,16]|]
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+</pre></TT>
+<div class=inline>
+</div><!-- class=inline -->
+<div class=exit>
+<center>
+P=tuneget V=1 B=1 200x200 
+<br>
+<table border=2 style='border-collapse:collapse; margin:1px;'>
+<tr><th>file</th><th>size</th><th>description</th></tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-87833.abc" rel="nofollow">Tune-87833.abc</a></td>
+	<td align=right>2348</td>
+	<td>ABC music file with the extracted tunes</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-87833.log" rel="nofollow">Tune-87833.log</a></td>
+	<td align=right>2955</td>
+	<td>Log file, useful mostly for debugging</td>
+	</tr>
+	<tr>
+	<td><a href="/~jc/tmp/Tune-87833.txt" rel="nofollow">Tune-87833.txt</a></td>
+	<td align=right>2348</td>
+	<td>Plain-text file with the extracted tunes</td>
+	</tr>
+</table>
+These files should be available for 24 hours.
+</center>
+<div class="ads">
+<div align=center class='PPdonatef'>
+<div class=donate>
+If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</div>
+</div>
+</div><!-- class=exit-->
+</body>
+</html>
