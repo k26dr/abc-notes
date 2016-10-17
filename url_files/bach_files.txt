@@ -1,0 +1,8 @@
+http://trillian.mit.edu/~jc/music/abc/test/Bach.abc
+http://trillian.mit.edu/~jc/music/abc/test/Bach_Cello_Prelude.abc
+http://trillian.mit.edu/~jc/music/abc/test/Bach_Praeludium_II.abc
+http://www.mit.edu/~jcb/little-fugue-two-violins.abc
+http://www.mit.edu/~jcb/little-fugue-two-violas.abc
+http://www.mit.edu/~jcb/little-fugue-violin-viola.abc
+http://www.mit.edu/~jcb/little-fugue-violin-cello.abc
+http://www.mit.edu/~jcb/little-fugue-viola-cello.abc
