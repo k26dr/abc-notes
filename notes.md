@@ -34,7 +34,28 @@ links = [...document.querySelectorAll('a')]
 3. Copy output to bach_files.txt. The `bach_files.txt` file in the repo contains a couple additional URLs that have been manually aggregated from the internet. 
 
 4. In terminal. There are about 400 files that require to be downloaded with this.
+
 ```bash
 wget -i bach_files.txt -P bach_files
 cat bach_files/* > bach.abc
 ```
+
+5. Replace all the useless crap in the file with these regex
+	* HTML tags `<.+>`
+	* CSS `{.+}`
+	* Comments `^%.*`
+	* Filenames `^F:.*`
+	* Hidden inputs `<input .+`, `">`
+	* `P=tuneget V=1 B=1 200x200`
+	* `W:.*`
+	* `fromCache.*`
+	* `body`          
+	* `div.inline`    
+	* `div.exit`      
+	* `object.inline`
+	* `These files should be available for 24 hours.`
+	* `If you'd like to donate to the upkeep of the Tune Finder, we have a Paypal button:`
+	* `^\.$`
+	* `Found X:.*`
+	* `Mismatch: X.*`
+	* `&amp;A BArFly optimized version.`
