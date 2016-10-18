@@ -1,0 +1,2188 @@
+X: 1
+T: from ./bjsbmm11.mid
+M: 1/4
+L: 1/16
+Q:1/4=97
+K:D % 2 sharps
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+V:1
+% Instrument  1
+%%MIDI program 68
+x4| \
+x2 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D EFG ABc edc| \
+d3/2x4x/2 FGA Bcd| \
+A3/2x8x2x/2|
+x6 cde3/2x/2A3/2x/2| \
+A3/2x/2d3/2x/2f3/2x/2 a3/2x/2f3/2x/2d3/2x/2| \
+x2B3/2x/2d3/2x/2 f3/2x/2d3/2x/2B3/2x/2| \
+A6 Bcd efd|
+B4-BA ^GAB cdB| \
+c3/2x8x2x/2| \
+x2A3/2x/2c3/2x/2 e3/2x/2c3/2x/2BA| \
+B3/2x8x2x/2|
+x2B3/2x/2d3/2x/2 ^g3/2x/2B3/2x/2A^G| \
+A4x2 ABc dec| \
+a3/2x/2A3/2x2x/2 F^GA BcA| \
+e3/2x/2E3/2x/2A3/2x/2 c3/2x/2A3/2x/2E3/2x/2|
+x2F3/2x/2^d3/2x/2 f3/2x/2B3/2x/2F3/2x/2| \
+x2B4 A^G2<A2B/2c/2| \
+B12| \
+x2F ^G/2A/2A3/2x/2 F^G/2A/2A3/2x2x/2|
+x2E F/2=G/2G3/2x/2 EF/2G/2G3/2x/2FE| \
+F3/2x/2=D EF^G AFB A^GF| \
+^GFE F^GA BAc BA^G| \
+A^GF ^GAB cBd cBA|
+BA^G ABc dce dcB| \
+A^GA Bc3/2x6x/2| \
+A=GA Bc3/2x6x/2| \
+^dc^d ef3/2x6x/2|
+=cB=c =de3/2x6x/2| \
+A^GA B=c3/2x6x/2| \
+^GF^G AB3/2x6x/2| \
+xEF ^GAB ^cde f=ge|
+fed cBA ^GAB cdB| \
+edc BA^G F^GA BcA| \
+dEF ^GAF ^GAB cdB| \
+^Ged cBA ^GFE F^GE|
+ABc ded fed cBc| \
+A4x8| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x2d4 cB2<c2d/2e/2| \
+d3/2x/2B3/2x/2d3/2x/2 f3/2x/2d3/2x/2cB| \
+c3/2x/2F3/2x/2F3/2x/2 F3/2x/2F3/2x/2F3/2x/2| \
+F3/2x/2^A3/2x/2c3/2x/2 e3/2x/2c3/2x/2B^A|
+B3/2x/2B c/2d/2d3/2x/2 Bc/2d/2d3/2x/2cB| \
+B4x8| \
+x2=A3/2x/2c3/2x/2 e3/2x/2c3/2x/2A3/2x/2| \
+x2F3/2x/2A3/2x/2 c3/2x/2A3/2x/2F3/2x/2|
+F6 ^GAB cdB| \
+^G4-^GF =F^F^G AB^G| \
+A4x2 c3/2x/2f3/2x/2a3/2x/2| \
+f3/2x/2c3/2x2x/2 f3/2x/2a3/2x/2c'3/2x/2|
+a3/2x/2f3/2x2x/2 a3/2x/2f3/2x/2^d3/2x/2| \
+f3/2x/2a3/2x2x/2 a3/2x/2f3/2x/2c3/2x/2| \
+f3/2x/2a3/2x2x/2 a3/2x/2f3/2x/2^d3/2x/2| \
+=f3/2x/2^g3/2x2x/2 ^g3/2x/2=f3/2x/2c3/2x/2|
+^f3/2x/2c3/2x2x/2 c3/2x/2f3/2x/2c3/2x/2| \
+A^GA Bc3/2x/2 A3/2x/2c3/2x/2A3/2x/2| \
+F3/2x/2A ^GF3/2x/2 A3/2x/2B3/2x/2=d3/2x/2| \
+^G3/2x/2B A^G3/2x/2 B3/2x/2c3/2x/2e3/2x/2|
+^A3/2x/2c B^A3/2x/2 c3/2x/2F3/2x/2f3/2x/2| \
+e/2d/2e/2d/2c dB3/2x/2 F3/2x/2D3/2x/2F3/2x/2| \
+B^AB cdc Bcd cBc| \
+dcB cde fe=g fed|
+edc def gf=a gfe| \
+fe^d ef^g a^gb a^gf| \
+e3/2x/2B3/2x/2e3/2x/2 B3/2x/2^G AB3/2x/2| \
+B3/2x/2B3/2x/2e3/2x/2 B3/2x/2^G AB2-|
+BA^G ABe =dec4-| \
+cAd ef=g efd4-| \
+dcB cdc BAB cAB| \
+A3/2x/2e3/2x/2a3/2x/2 e3/2x/2c de3/2x/2|
+e4x2 E3/2x/2A4-| \
+AGF GAB GAF GAF| \
+BAG ABc ABG4-| \
+GFE FGF EDE3/2x/2dc|
+d3/2x/2A3/2x/2d3/2x/2 A3/2x/2F GA2-| \
+AGF ED3/2x/2 A3/2x/2A4-| \
+A3/2x/2d cd3/2x/2 =c3/2x/2B4-| \
+B3/2x/2e ^de3/2x/2 =d3/2x/2=c4-|
+=cBA B=cB AGF AGF| \
+G3/2x/2g3f ede d^cB| \
+c12-| \
+c3/2x/2f3e dcd cBA|
+B12-| \
+B3/2x/2E FGA Bcd cBc| \
+cBA Bcd efg feg| \
+f4x2 A3/2x/2d3/2x/2f3/2x/2|
+d3/2x/2A3/2x2x/2 d3/2x/2f3/2x/2a3/2x/2| \
+^g3/2x/2d3/2x2x/2 =f3/2x/2d3/2x/2B3/2x/2| \
+d3/2x/2=f3/2x2x/2 =f3/2x/2d3/2x/2A3/2x/2| \
+d3/2x/2=f3/2x2x/2 =f3/2x/2d3/2x/2B3/2x/2|
+c3/2x/2e3/2x2x/2 e3/2x/2c3/2x/2A3/2x/2| \
+d3/2x/2d cd8-| \
+d3/2x/2e de8-| \
+e3/2x/2^f ef8-|
+f3/2x/2=g fg8-| \
+g3/2x/2a ga8-| \
+a3/2x/2d cd8-| \
+d3/2x/2e Bc8-|
+c3/2x/2d AB8-| \
+BAG ABG ABc de2-| \
+e3/2x/2e de3/2x/2 g3/2x/2f3/2x/2e3/2x/2| \
+d3/2x/2d3/2x/2d3/2x/2 d3/2x/2d3/2x/2c3/2x/2|
+d12|
+V:2
+% Trumpet
+%%MIDI program 56
+x4 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+F4x4| \
+x6 [dA]x[afA] x[d'af]x| \
+[afd]x[geA] [fd][g4e4A4]x4| \
+x6 [geA]x[c'ge] x[d'c'g]x|
+[age]x[fdA] [ec][f4-d4-A4][f4-d4-]| \
+[f4-d4-][f4-d4-D4][f4-d4-]| \
+[f4-d4-][f4-d4-A4][f4-d4-]| \
+[f4d4-][e8-d8-]|
+[e4-d4][e3/2-A3/2]e/2 [A3/2A3/2A3/2]x/2[A3/2A3/2A3/2]x/2[A3/2A3/2A3/2]x/2| \
+[A3/2A3/2A3/2]x/2[A3/2A3/2A3/2]x/2[A3/2A3/2A3/2]x6x/2| \
+x6 [e3/2e3/2e3/2]x/2[e3/2e3/2e3/2]x/2[e3/2e3/2e3/2]x/2| \
+[e3/2e3/2e3/2]x/2[e3/2e3/2e3/2]x/2[e3/2e3/2e3/2]x6x/2|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x4[e2-A2-] [e3/2-e3/2A3/2-][e/2A/2]a3/2x/2c'3/2x/2| \
+a3/2x/2e3/2x/2[a2-e2-] [a3/2-a3/2e3/2-][a/2e/2]c'3/2x/2e'3/2x/2| \
+c'3/2x/2a3/2x2x/2 =c'3/2x/2a3/2x/2f3/2x/2| \
+a3/2x/2=c'3/2x/2[e2-A2-] [=c'3/2e3/2-A3/2-][e/2A/2]a3/2x/2e3/2x/2|
+a3/2x/2=c'3/2x2x/2 =c'3/2x/2a3/2x/2f3/2x/2| \
+a3/2x/2b3/2x/2[^g2-e2-] [b3/2^g3/2-e3/2-][^g/2e/2]^g3/2x/2e3/2x/2| \
+^g3/2x/2b3/2x/2[a3/2e3/2-A3/2-][e/2-A/2-] [^c'e-A-][beA]c'2-[c'3/2-a3/2e3/2]c'/2-| \
+[c'3/2-a3/2e3/2]c'/2-[c'3/2-a3/2e3/2]c'/2-[c'2f2-A2-] [bf-A-][afA]b2-[b3/2-d3/2]b/2-|
+[b3/2-e3/2]b/2-[b3/2-f3/2]b/2-[b2e2-] [ae-][^ge]a2-[a3/2-A3/2A3/2]a/2-| \
+[a3/2-d3/2A3/2]a/2-[a3/2-e3/2A3/2]a/2-[a2d2-F2-] [bd-F-][c'/2d/2-F/2-][d'/2d/2F/2]d'3/2x/2bc'/2d'/2| \
+d'3/2x/2b c'/2d'/2d'6d'3/2x/2| \
+c'3/2x/2b3/2x/2a^g [aeA][beA][c'3/2e3/2A3/2]x/2[c'3/2a3/2A3/2]x/2|
+[d'3/2e3/2e3/2]x/2[b3/2^g3/2e3/2]x/2[c'4a4e4]x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x4[c'4-a4-e4][c'4-a4-]| \
+[c'4-a4-][c'4-a4-e4][c'4-a4-]| \
+[c'4a4-][b8-a8-]|
+[b4a4][b8-^g8-]| \
+[b4^g4][af][^ge] [af][b^g][c'3/2a3/2]x2x/2| \
+x4[af][^ge] [af][b^g][c'3/2a3/2]x2x/2| \
+x4[af][^ge] [af][^ge][a3/2f3/2]x2x/2|
+x4[af][^ge] [af][^ge][a3/2f3/2]x2x/2| \
+x4[af][^ge] [af][^ge][a3/2f3/2]x2x/2| \
+x4[c'^g][d'f] [c'^g][d'f][c'3/2^g3/2]x2x/2| \
+x4[c'a][d'b] [c'^g][d'b][c'3/2a3/2]x2x/2|
+x4[c'a][d'b] [c'a][b^g][a-f] a/2x2x/2| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x4[f4d4A4]x4| \
+x4[a4f4d4]x4|
+x4[d'4^g4d4]x4| \
+x4[d'4a4d4]x4| \
+x4[d'4b4d4]x4| \
+x4[c'4a4e4]x4|
+x4[d'4a4f4]x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x4[f2-A2-] [af-A-][=gfA]f ede| \
+[fd-A-][gd-A-][ad-A-] [fdA][bd-D-][ad-D-] [gd-D-][fdD]e dcd| \
+[e-eA-][fe-A-][ge-A-] [eeA][af-A-][gf-A-] [f-fA-][feA]d edc|
+[b-dD-][b-eD-][b-fD-] [bdD][b3/2-g3/2d3/2-][b/2-d/2-] [b-ed-][b/2-f/2d/2-][b/2g/2d/2]g3/2x/2ef/2g/2| \
+[g3/2e3/2-]e/2-[e-e] [f/2e/2-][g/2e/2][g4-e4A4]g2[ae-A-][g/2-e/2A/2]g/2| \
+[f/2d/2-A/2-][g/2d/2-A/2-][d/2A/2]f/2[g/2-e/2A/2-][g/2-f/2A/2-] [g/2A/2]e/2[f-dD-][f/2e/2-D/2]e/2 [a-fA-][a/2g/2-A/2]g/2[ad-A-] [g/2-d/2A/2]g/2[bd-D-][a/2-d/2D/2]a/2| \
+[gd-A-][f/2-d/2A/2]f/2[eA-A-] [f/2-A/2A/2]f/2[d8-A8-F8-]|
+[d4A4F4]
+V:3
+% Timpani
+%%MIDI program 47
+x12| \
+x4| \
+x2 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D,D,| \
+D,xD, xD,D, D,D,A,,4|
+x8x2A,,/2x/2A,,/2x/2| \
+A,,xA,, xA,,A,, A,,A,,D,4| \
+x8D,4| \
+x8D,4|
+x12| \
+x8A,,4| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x8A,,4| \
+x8A,,4| \
+x12|
+x8A,,4| \
+x12| \
+x8D,4| \
+x8A,,4|
+x2A,,3/2x/2A,,3/2x/2 A,,3/2x/2D,4| \
+x12| \
+x2A,,3/2x/2A,,3/2x/2 A,,3/2x/2D,4| \
+x12|
+x8x2A,,A,,| \
+A,,3/2x/2A,,3/2x/2D,3/2x/2 D,3/2x/2A,,4| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x8A,,4| \
+x8A,,4|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x8D,4|
+x8D,4| \
+x8D,4| \
+x8D,4| \
+x8D,4|
+x8A,,4| \
+x8D,4| \
+x12| \
+x12|
+x12| \
+x12| \
+x8D,4| \
+x4D,4D,4|
+x4A,,4A,,4| \
+x4D,4D,4| \
+x8A,,4| \
+x2A,,3/2x/2D,3/2x/2 A,,3/2x/2D,3/2x/2D,D,|
+D,3/2x/2D,3/2x/2A,,3/2x/2 A,,3/2x/2D,4-|D,8
+V:4
+% Flute
+%%MIDI program 73
+x6 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+DEF GAB| \
+ced cd3/2x4x/2[A-F][A/2G/2-]G/2| \
+[d-A][d/2B/2-]B/2[ec] [fd][eA-][f/2-A/2]f/2 edc BA^G| \
+ABc dc3/2x4x/2[cA-][d/2-A/2]d/2|
+[e3/2e3/2]x/2[fA-] [=g/2-A/2]g/2[f3/2A3/2]x/2 [f3/2d3/2]x/2[a3/2f3/2]x/2[d'3/2a3/2]x/2| \
+[a3/2f3/2]x/2[f3/2d3/2]x2x/2 [d3/2B3/2]x/2[f3/2d3/2]x/2[b3/2f3/2]x/2| \
+[f3/2d3/2]x/2[d3/2B3/2]x/2[A6A6][BB][cc]| \
+[dd][ee][ff] [dd][B4-B4-][BB] [AA][^G^G][AA]|
+[BB][cc][dd] [BB][c3/2c3/2]x6x/2| \
+x6 [c3/2A3/2]x/2[e3/2c3/2]x/2[a3/2e3/2]x/2| \
+[e3/2c3/2]x/2[dB] [cA][d3/2B3/2]x6x/2| \
+x6 [d3/2B3/2]x/2[^g3/2d3/2]x/2[b3/2^g3/2]x/2|
+[d3/2B3/2]x/2[cA] [B^G][c4A4]x2[AA][BB]| \
+[cc][dd][ee] [cc][a3/2a3/2]x/2 [A3/2A3/2]x2x/2[FF][^G^G]| \
+[AA][BB][cc] [AA][e3/2e3/2]x/2 [c3/2E3/2]x/2[e3/2A3/2]x/2[a3/2c3/2]x/2| \
+[e3/2A3/2]x/2[c3/2E3/2]x2x/2 [B3/2F3/2]x/2[f3/2^d3/2]x/2[a3/2f3/2]x/2|
+[f3/2B3/2]x/2[B3/2F3/2]x2x/2 [^g4B4][fA][e^G]| \
+[f3A3] [^g/2B/2][a/2c/2][^g8-B8-]| \
+[^g4B4]x2 [AF][B/2^G/2][c/2A/2][c3/2A3/2]x/2[AF][B/2^G/2][c/2A/2]| \
+[c3/2A3/2]x4x/2 [cE][=d/2F/2][e/2=G/2][e3/2G3/2]x/2[cE][d/2F/2][e/2G/2]|
+[e3/2G3/2]x/2[dF] [cE][d3/2F3/2]x/2 [DD][EE][FF] [^G^G][AA][FF]| \
+[BB][AA][^G^G] [FF][^G^G][FF] [EE][FF][^G^G] [AA][BB][AA]| \
+[cc][BB][AA] [^G^G][AA][^G^G] [FF][^G^G][AA] [BB][cc][BB]| \
+[dd][cc][BB] [AA][BB][AA] [^G^G][AA][BB] [cc][dd][cc]|
+[ee][dd][cc] [BB][cA][B^G] [cA][dB][e3/2c3/2]x2x/2| \
+x4[cA][B=G] [cA][dB][e3/2c3/2]x2x/2| \
+x4[f^d][ec] [f^d][^ge][a3/2f3/2]x2x/2| \
+x4[a=c][^gB] [a=c][b=d][=c'3/2e3/2]x2x/2|
+x4[fA][e^G] [fA][^gB][a3/2=c3/2]x2x/2| \
+x4[e^G][dF] [e^G][fA][^g3/2B3/2]x2x/2| \
+x4x[EE] [FF][^G^G][AA] [BB][^cc][dd]| \
+[ee][ff][=gg] [ee][ff][ee] [dd][cc][BB] [AA][^G^G][AA]|
+[BB][cc][dd] [BB][ee][dd] [cc][BB][AA] [^G^G][FF][^G^G]| \
+[AA][BB][cc] [AA][dd][EE] [FF][^G^G][AA] [FF][^G^G][AA]| \
+[BB][cc][dd] [BB][^G^G][ee] [dd][cc][BB] [AA][^G^G][FF]| \
+[EE][FF][^G^G] [EE][AA][BB] [cc][dd][ee] [dd][ff][ee]|
+[dd][cc][BB] [cc][A4A4]x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x6 [f4d4][ec][dB]|
+[e3c3] [f/2d/2][=g/2e/2][f3/2d3/2]x/2 [d3/2B3/2]x/2[f3/2d3/2]x/2[b3/2f3/2]x/2| \
+[f3/2d3/2]x/2[ec] [dB][e3/2c3/2]x/2 [F3/2F3/2]x/2[F3/2F3/2]x/2[F3/2F3/2]x/2| \
+[F3/2F3/2]x/2[F3/2F3/2]x/2[F3/2F3/2]x/2 [e3/2^A3/2]x/2[^a3/2c3/2]x/2[c'3/2e3/2]x/2| \
+[e3/2c3/2]x/2[dB] [c^A][d3/2B3/2]x/2 [dB][e/2c/2][f/2d/2][f3/2d3/2]x/2[dB][e/2c/2][f/2d/2]|
+[f3/2d3/2]x/2[ec] [dB][^g4B4]x4| \
+x6 [c3/2=A3/2]x/2[e3/2c3/2]x/2[a3/2e3/2]x/2| \
+[e3/2c3/2]x/2[c3/2A3/2]x2x/2 [A3/2F3/2]x/2[c3/2A3/2]x/2[f3/2c3/2]x/2| \
+[c3/2A3/2]x/2[A3/2F3/2]x/2[F6F6][^G^G][AA]|
+[BB][cc][dd] [BB][^G4-^G4-][^G^G] [FF][=F=F][^FF]| \
+[^G^G][AA][BB] [^G^G][A3/2-A3/2]A/2- [c3/2A3/2-]A/2f3/2x/2[a3/2c3/2]x/2| \
+[f3/2f3/2]x/2[a3/2c3/2]x/2f3/2x/2 [f3/2c3/2]x/2a3/2x/2[c'3/2f3/2]x/2| \
+[a3/2a3/2]x/2[c'3/2f3/2]x/2a3/2x/2 [a3/2f3/2]x/2f3/2x/2[a3/2^d3/2]x/2|
+[f3/2f3/2]x/2[a3/2^d3/2]x/2f3/2x/2 [a3/2a3/2]x/2f3/2x/2[a3/2c3/2]x/2| \
+[f3/2f3/2]x/2[a3/2c3/2]x/2f3/2x/2 [a3/2a3/2]x/2f3/2x/2[a3/2^d3/2]x/2| \
+[f3/2f3/2]x/2[^g3/2^d3/2]x/2=f3/2x/2 [^g3/2^g3/2]x/2=f3/2x/2[^g3/2c3/2]x/2| \
+[=f3/2=f3/2]x/2[^g3/2c3/2]x/2^f3/2x/2 [c3/2c3/2]x/2A3/2x/2[c3/2c3/2]x/2|
+[f3/2f3/2]x/2[c3/2c3/2]x/2[AA][^G^G] [AA][BB][c3/2c3/2]x/2[A3/2A3/2]x/2| \
+[c3/2c3/2]x/2[A3/2A3/2]x/2[F3/2F3/2]x/2 [AA][^G^G][F3/2F3/2]x/2[A3/2A3/2]x/2| \
+[B3/2B3/2]x/2[=d3/2d3/2]x/2[^G3/2^G3/2]x/2 [BB][AA][^G3/2^G3/2]x/2[B3/2B3/2]x/2| \
+[c3/2c3/2]x/2[e3/2e3/2]x/2[^A3/2^A3/2]x/2 [cc][BB][^A3/2^A3/2]x/2[c3/2c3/2]x/2|
+[F3/2F3/2]x/2[f3/2f3/2]x/2[e/2e/2][d/2d/2][e/2e/2][d/2d/2] [cc][dd][B3/2B3/2]x/2[F3/2F3/2]x/2| \
+[D3/2D3/2]x/2[F3/2F3/2]x/2[BB][^A^A] [BB][cc][dd] [cc][BB][cc]| \
+[dd][cc][BB] [cc][dd][cc] [BB][cc][dd] [ee][ff][ee]| \
+[=gg][ff][ee] [dd][ee][dd] [cc][dd][ee] [ff][gg][ff]|
+[=aa][gg][ff] [ee][ff][ee] [^d^d][ee][ff] [^g^g][aa][^g^g]| \
+[bb][aa][^g^g] [ff][e3/2e3/2]x/2 [B3/2B3/2]x/2[e3/2e3/2]x/2[B3/2B3/2]x/2| \
+[^G^G][AA][B3/2B3/2]x/2[B3/2B3/2]x/2 [B3/2B3/2]x/2[e3/2e3/2]x/2[B3/2B3/2]x/2| \
+[^G^G][AA][B3B3][AA] [^G^G][AA][BB] [ee][=dd][ee]|
+[c4-c4-][cc][AA] [dd][ee][ff] [=gg][ee][ff]| \
+[d4-d4-][dd][cc] [BB][cc][dd] [cc][BB][AA]| \
+[B-B][c/2-B/2]c/2[aA] [^gB][a3/2-A3/2]a/2- [a3/2-e3/2]a/2a3/2x/2[e3/2e3/2]x/2| \
+[a-c][a/2d/2-]d/2[e3/2e3/2]x/2[e-c][e-B] [e-c][ed]e3/2x/2[c3/2E3/2]x/2|
+[e3/2A3/2-]A/2-[c3/2A3/2-]A/2-[A-A][A/2=G/2-]G/2 [cF][BG][A-A] [B/2-A/2]B/2[c-G][c/2A/2-]A/2| \
+[d-F][d/2G/2-]G/2[f-A] [f/2F/2-]F/2[B-B][B/2A/2-]A/2 [dG][cA][B-B] [c/2-B/2]c/2[d-A][d/2B/2-]B/2| \
+[e3/2G3/2-]G/2-[g3/2G3/2-]G/2-[c-G][c/2F/2-]F/2 [eE][dF][c-G] [c/2F/2-]F/2[e-E][e/2D/2-]D/2| \
+[A3/2E3/2]x/2[g-d] [g/2c/2-]c/2[f3/2d3/2]x/2 [eA-][f/2-A/2]f/2[d3/2d3/2]x/2[A3/2A3/2]x/2|
+[F-F][G/2-F/2]G/2[A3/2-A3/2]A/2-[AD][GE] [FD][EE][FD-] [E/2-D/2]E/2[A-D][A/2E/2-]E/2| \
+[A-F][A-E][A-D] [A-E][A-F][AE] [dD][cE][d-F] [d/2G/2-]G/2[=c-A][=c/2G/2-]G/2| \
+[B-B][B-A][B-G] [B-F][B-G][BF] [eE][^dF][e-G] [e/2A/2-]A/2[=d-B][d/2A/2-]A/2| \
+[=c-=c][=c-B][=c-A] [=c-G][=cA][BG] [AF][BG][=cA] [BB][=cA][BG]|
+[dF][=cA][BG] [AF][G-G][G/2F/2-]F/2 [g-G][g-A][gB-] [fB-][eB-][dB-]| \
+[eB-][dB-][^cB-] [B-B][c2-B2] [c-B][c-A][c3/2-G3/2]c/2-[c3/2-B3/2]c/2-| \
+[c3/2-c3/2]c/2-[e3/2c3/2-]c/2-[c-A][cG] [f-F][f-G][fA-] [eA-][dA-][cA-]| \
+[dA-][cA-][BA-] [A-A][B2-A2] [B-A][B-G][B3/2-F3/2]B/2-[B3/2-A3/2]B/2-|
+[B3/2-B3/2]B/2-[B3/2-F3/2]B/2-[B-G][BF] [EE][FF][GG] [AA][BB][cc]| \
+[dd][cc][BB] [cc][cc][BB] [AA][BB][cc] [dd][ee][ff]| \
+[gg][ff][ee] [gg][ff][ec] [fd][ge][a3/2f3/2]x2x/2| \
+x4[fd][ec] [fd][ge][a3/2f3/2]x2x/2|
+x4[b^g][af] [b^g][c'a][d'3/2b3/2]x2x/2| \
+x4[=fd][ec] [=fd][=ge][a3/2=f3/2]x2x/2| \
+x4[dB][cA] [dB][ec][=f3/2d3/2]x2x/2| \
+x4[cA][B^G] [cA][dB][e3/2c3/2]x2x/2|
+x6 [^FF][=GG][AA] [BB][=c=c][BB]| \
+[dd][=c=c][BB] [AA][BB][AA] [GG][AA][BB] [^cc][dd][cc]| \
+[ee][dd][cc] [BB][cc][BB] [AA][BB][cc] [dd][ee][dd]| \
+[ff][ee][dd] [cc][dd][cc] [BB][cc][dd] [ee][ff][ee]|
+[gg][ff][ee] [dd][ee][dd] [cc][dd][ee] [ff][gg][ff]| \
+[aa][gg][ff] [ee][f3/2f3/2]x/2 [A3/2A3/2]x/2[d3/2d3/2]x/2[f3/2f3/2]x/2| \
+[a3/2a3/2]x/2[=c'3/2=c'3/2]x/2[b3/2b3/2]x/2 [G3/2G3/2]x/2[^c3/2c3/2]x/2[e3/2e3/2]x/2| \
+[g3/2g3/2]x/2[b3/2b3/2]x/2[a3/2a3/2]x/2 [F3/2F3/2]x/2[A3/2A3/2]x/2[d3/2d3/2]x/2|
+[f3/2f3/2]x/2[a3/2a3/2]x/2[g3/2g3/2]x/2 [bb][aa][g3/2g3/2]x/2[gg][ff]| \
+[e3/2e3/2]x/2[ee] [dd][cc][aa] [gg][ff][ee] [dd][cc][BB]| \
+[AA][BB][cc] [AA][dd][ee] [ff][gg][aa] [gg][bb][aa]| \
+[gg][ff][ee] [ff][d8-d8-]|
+[d4d4]
+V:5
+% Bassoon
+%%MIDI program 70
+x4 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+[D4F,4]x4| \
+x6 D,3/2x/2D,,3/2x/2D,3/2x/2| \
+D,,3/2x/2D,3/2x/2C,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2|
+A,,3/2x/2A,3/2x/2D,3/2x/2 DA,A, F,F,D,| \
+D,F,F, D,B,,3/2x/2 B,F,F, D,D,B,,| \
+B,,D,D, B,,F,,3/2x/2 F,D,D, A,,A,,F,,| \
+F,,A,,A,, F,,^G,,3/2x/2 ^G,E,E, B,,B,,^G,,|
+^G,,B,,B,, ^G,,A,,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2| \
+A,,3/2x/2A,3/2x/2^G,4x4| \
+x6 E,3/2x/2E,,3/2x/2E,3/2x/2|
+E,,3/2x/2E,3/2x/2A,,3/2x/2 A,E,E, C,C,A,,| \
+A,,C,C, A,,F,,3/2x/2 F,C,C, A,,A,,F,,| \
+F,,A,,A,, F,,C,,3/2x/2 C,A,,A,, E,,E,,C,,| \
+C,,E,,E,, C,,^D,,3/2x/2 ^D,B,,B,, F,,F,,^D,,|
+^D,,F,,F,, ^D,,E,,4x4| \
+x6 =F,3/2x/2=F,,3/2x/2=F,3/2x/2| \
+=F,,3/2x/2=F,3/2x/2^F,,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2|
+A,,3/2x/2A,3/2x/2=D,,3/2x/2 D,C,D,3/2x/2B,,3/2x/2| \
+C,3/2x/2D,3/2x/2E,,3/2x/2 E,D,E,3/2x/2C,3/2x/2| \
+D,3/2x/2E,3/2x/2F,,3/2x/2 F,E,F,3/2x/2D,3/2x/2| \
+E,3/2x/2F,3/2x/2^G,,3/2x/2 ^G,F,^G,3/2x/2E,3/2x/2|
+F,3/2x/2^G,3/2x/2A,3/2x/2 A,,3/2x/2A,,3/2x/2A,,3/2x/2| \
+A,,3/2x/2A,,3/2x/2=G,3/2x/2 G,,3/2x/2G,,3/2x/2G,,3/2x/2| \
+G,,3/2x/2G,,3/2x/2F,3/2x/2 F,,3/2x/2F,,3/2x/2F,,3/2x/2| \
+F,,3/2x/2F,,3/2x/2E,3/2x/2 E,,3/2x/2E,,3/2x/2E,,3/2x/2|
+E,,3/2x/2E,,3/2x/2^D,3/2x/2 ^D,,3/2x/2^D,,3/2x/2^D,,3/2x/2| \
+^D,,3/2x/2^D,,3/2x/2=D,3/2x/2 D,,3/2x/2D,,3/2x/2D,,3/2x/2| \
+D,,3/2x/2D,,3/2x/2C,,3/2x/2 A,B,A,3/2x/2^G,3/2x/2| \
+F,3/2x/2E,3/2x/2D,3/2x/2 ^G,A,^G,3/2x/2F,3/2x/2|
+E,3/2x/2D,3/2x/2C,3/2x/2 F,^G,F,3/2x/2E,3/2x/2| \
+D,3/2x/2C,3/2x/2B,,C, D,C,B,,3/2x/2A,,3/2x/2| \
+^G,,3/2x/2F,,3/2x/2E,,3/2x/2 F,,3/2x/2^G,,3/2x/2E,,3/2x/2| \
+A,,3/2x/2E,3/2x/2F,3/2x/2 E,D,C,3/2x/2D,3/2x/2|
+E,3/2x/2E,,3/2x/2A,,4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x4B,,4x4|
+x6 B,3/2x/2B,,3/2x/2B,3/2x/2| \
+B,,3/2x/2B,3/2x/2^A,4x4| \
+x6 F,3/2x/2F,,3/2x/2F,3/2x/2| \
+F,,3/2x/2F,3/2x/2B,,4x4|
+x6 E,3/2x/2E,,3/2x/2E,3/2x/2| \
+E,,3/2x/2E,3/2x/2=A,,3/2x/2 A,E,E, C,C,A,,| \
+A,,C,C, A,,F,,3/2x/2 F,C,C, A,,A,,F,,| \
+F,,A,,A,, F,,^D,,3/2x/2 ^D,B,,B,, F,,F,,^D,,|
+^D,,F,,F,, ^D,,=F,,3/2x/2 =F,C,C, ^G,,^G,,=F,,| \
+=F,,^G,,^G,, =F,,^F,,3/2x/2 F,3/2x/2F,3/2x/2F,3/2x/2| \
+F,3/2x/2F,3/2x/2E,,3/2x/2 E,3/2x/2E,3/2x/2E,3/2x/2| \
+E,3/2x/2E,3/2x/2^D,,3/2x/2 ^D,3/2x/2^D,3/2x/2^D,3/2x/2|
+^D,3/2x/2^D,3/2x/2C,,3/2x/2 C,3/2x/2C,3/2x/2C,3/2x/2| \
+C,3/2x/2C,3/2x/2=C,3/2x/2 =C3/2x/2=C3/2x/2=C3/2x/2| \
+=C3/2x/2=C3/2x/2B,,3/2x/2 B,3/2x/2B,3/2x/2B,3/2x/2| \
+B,3/2x/2B,3/2x/2A,3/2x/2 =F,3/2x/2^F,3/2x/2A,,3/2x/2|
+B,,3/2x/2^C,3/2x/2F,,4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x8x2A,3/2x/2|
+=D3/2x/2A,3/2x/2F,E, F,=G,A,3/2x/2F,3/2x/2| \
+A,3/2x/2F,3/2x/2D,3/2x/2 F,E,D,3/2x/2F,3/2x/2| \
+G,3/2x/2B,3/2x/2E,3/2x/2 G,F,E,3/2x/2G,3/2x/2| \
+A,3/2x/2=C3/2x/2F,3/2x/2 A,G,F,3/2x/2A,3/2x/2|
+D,3/2x/2=C,3/2x/2B,,=C, B,,A,,G,,3/2x/2G,F,| \
+G,3/2x/2B,3/2x/2E,D, ^C,D,E, F,G,F,| \
+A,G,F, E,F,3/2x/2 F,,3/2x2x/2F,E,| \
+F,3/2x/2A,3/2x/2^D,C, B,,C,^D, E,F,E,|
+G,F,E, ^D,E,3/2x/2 E,,3/2x2x/2E,3/2x/2| \
+F,3/2x/2^G,3/2x/2A,3/2x/2 A,,3/2x2x/2A,3/2x/2| \
+B,3/2x/2C3/2x/2=D3/2x/2 D,3/2x/2D,3/2x/2D,3/2x/2| \
+D,3/2x/2D,3/2x/2=C3/2x/2 =C,3/2x/2=C,3/2x/2=C,3/2x/2|
+=C,3/2x/2=C,3/2x/2B,3/2x/2 B,,3/2x/2B,,3/2x/2B,,3/2x/2| \
+B,,3/2x/2B,,3/2x/2A,3/2x/2 A,,3/2x/2A,,3/2x/2A,,3/2x/2| \
+A,,3/2x/2A,,3/2x/2^G,3/2x/2 ^G,,3/2x/2^G,,3/2x/2^G,,3/2x/2| \
+^G,,3/2x/2^G,,3/2x/2=G,3/2x/2 G,,3/2x/2G,,3/2x/2G,,3/2x/2|
+G,,3/2x/2G,,3/2x/2F,,3/2x/2 F,E,F,3/2x/2D,3/2x/2| \
+E,3/2x/2F,3/2x/2G,,3/2x/2 G,F,G,3/2x/2E,3/2x/2| \
+F,3/2x/2G,3/2x/2A,,3/2x/2 A,G,A,3/2x/2F,3/2x/2| \
+G,3/2x/2A,3/2x/2B,,3/2x/2 B,A,B,3/2x/2G,3/2x/2|
+A,3/2x/2B,3/2x/2^C,3/2x/2 CB,C3/2x/2A,3/2x/2| \
+B,3/2x/2C3/2x/2D,3/2x/2 DED3/2x/2C3/2x/2| \
+B,3/2x/2A,3/2x/2G,3/2x/2 CDC3/2x/2B,3/2x/2| \
+A,3/2x/2G,3/2x/2F,3/2x/2 B,CB,3/2x/2A,3/2x/2|
+G,3/2x/2F,3/2x/2E,F, G,F,E,3/2x/2D,3/2x/2| \
+C,3/2x/2B,,3/2x/2A,,3/2x/2 B,,3/2x/2C,3/2x/2A,,3/2x/2| \
+D,3/2x/2A,,3/2x/2B,,3/2x/2 A,,G,,F,,3/2x/2G,,3/2x/2| \
+A,,4D,,8-|
+D,,4
+V:6
+% Violin I
+%%MIDI program 48
+x6 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D3/2x/2D3/2x/2D3/2x/2| \
+D3/2x/2D3/2x/2D3/2x/2 d'aa ffd| \
+dAA AA3/2x/2 A,3/2x/2A,3/2x/2A,3/2x/2| \
+A,3/2x/2A,3/2x/2A,3/2x/2 c'gg eec|
+cAA AA4x2de| \
+fga fd'3/2x/2 d3/2x2x/2Bc| \
+def da3/2x/2 A3/2x/2d3/2x/2f3/2x/2| \
+d3/2x/2A3/2x2x/2 B3/2x/2d3/2x/2e3/2x/2|
+d3/2x/2B3/2x/2A^G ABc def| \
+^gba ^ga3/2x/2 aee ccA| \
+AEE EE3/2x6x/2| \
+x6 ^gdd BB^G|
+^GEE EE3/2x/2 c3/2x/2e3/2x/2a3/2x/2| \
+e3/2x/2c3/2x2x/2 A3/2x/2c3/2x/2f3/2x/2| \
+c3/2x/2A4<E4F^G| \
+ABc AF4-F E^DE|
+F^GA F^G3/2x/2 E3/2x/2E3/2x/2E3/2x/2| \
+E3/2x/2E3/2x/2C4x4| \
+x6 C3/2x/2C3/2x/2C3/2x/2| \
+C3/2x/2C3/2x/2A,3/2x/2 A,3/2x/2C3/2x/2E3/2x/2|
+C3/2x/2A,3/2x/2A3/2x/2 =DEF ^GAF| \
+BA^G F^GF EF^G ABA| \
+cBA ^GA^G F^GA BcB| \
+dcB ABA ^GAB cdc|
+edc Bc3/2x/2 ecc AAE| \
+ECC A,A,3/2x/2 ecc AAE| \
+ECC A,A,3/2x/2 ^d=c=c AAF| \
+F^D^D A,A,3/2x/2 e=c=c AAE|
+E=C=C A,A,3/2x/2 f=c=c AAF| \
+FA,A, ^G,^G,3/2x/2 ^gee BB^G| \
+^GEE A,A,E F^GA B^c=d| \
+ef=g ef3/2x/2 D3/2x/2^G3/2x/2B3/2x/2|
+d3/2x/2f3/2x/2e3/2x/2 C3/2x/2F3/2x/2A3/2x/2| \
+c3/2x/2e3/2x/2d3/2x/2 fed3/2x/2dc| \
+B3/2x/2B A^Ge dcB A^GF| \
+EF^G EAB cde dfe|
+dcB cA4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x6 B,3/2x/2B,3/2x/2B,3/2x/2|
+B,3/2x/2B,3/2x/2B,3/2x/2 bff ddB| \
+Bcc dc3/2x/2 c4B^A| \
+B3 c/2d/2c3/2x/2 c'^a^a eec| \
+cdd ed4x4|
+x6 dBB ^G^GE| \
+EEE EE4x2=AB| \
+cde ca3/2x/2 A3/2x2x/2F^G| \
+ABc Af3/2x/2 F3/2x/2A3/2x/2B3/2x/2|
+A3/2x/2F3/2x2x/2 C3/2x/2^G3/2x/2B3/2x/2| \
+^G3/2x/2C3/2x/2F3/2x/2 c'aa ffc| \
+cAA FF3/2x/2 c'aa ffc| \
+cAA FF3/2x/2 =c'aa ff^d|
+^d=c=c FF3/2x/2 ^c'aa ffc| \
+cAA FF3/2x/2 ^dAA FF^D| \
+^DFF ^G^G3/2x/2 =fcc ^G^G=F| \
+=F^G,^G, A,A,4x2c3/2x/2|
+^f3/2x/2c3/2x/2A^G ABc3/2x/2A3/2x/2| \
+c3/2x/2A3/2x/2F3/2x/2 A^GF3/2x/2A3/2x/2| \
+B3/2x/2=d3/2x/2^G3/2x/2 BA^G3/2x/2B3/2x/2| \
+c3/2x/2e3/2x/2^A3/2x/2 cB^A3/2x/2c3/2x/2|
+F3/2x/2f3/2x/2e/2d/2e/2d/2 cdB3/2x/2F3/2x/2| \
+D3/2x/2F3/2x/2B^A Bcd cBc| \
+dcB cdc Bcd efe| \
+=gfe ded cde fgf|
+=agf efe ^def ^ga^g| \
+ba^g fe3/2x/2 B3/2x/2e3/2x/2B3/2x/2| \
+^GAB4<B4e^d| \
+e4-e=d cde4-|
+e4-e3/2x/2 A3/2x/2d3/2x/2A3/2x/2| \
+^G3/2x/2F3/2x/2E3/2x/2 e4e2-| \
+e2e3f dec3/2x/2e3/2x/2| \
+a3/2x/2e3/2x/2cB cde3/2x/2c3/2x/2|
+e3/2x/2c3/2x/2A3/2x/2 cBA3/2x/2c3/2x/2| \
+d3/2x/2f3/2x/2B3/2x/2 dcB3/2x/2d3/2x/2| \
+e3/2x/2=g3/2x/2c3/2x/2 edc3/2x/2e3/2x/2| \
+A3/2x/2g3/2x/2g/2f/2g/2f/2 efd3/2x/2A3/2x/2|
+F3/2x/2A3/2x/2DC DEF EDE| \
+FED EFE DEF GAG| \
+BAG FGF EFG ABA| \
+=cBA GAG FGA B=cB|
+d=cB AGF GAB4-| \
+B4-B3/2x/2 BAG3/2x/2B3/2x/2| \
+^c3/2x/2e3/2x/2AG FGA4-| \
+A4-A3/2x/2 AGF3/2x/2A3/2x/2|
+B3/2x/2F3/2x/2GF EFG ABc| \
+dcB ccB ABc def| \
+gfe gf3/2x/2 aff ddA| \
+AFF DD3/2x/2 aff ddA|
+AFF DD3/2x/2 ^g=f=f ddB| \
+B^G^G DD3/2x/2 a=f=f ddA| \
+A=F=F DD3/2x/2 b=f=f ddB| \
+BDD CC3/2x/2 c'aa eec|
+cAA DDE ^F=GA B=cB| \
+d=cB ABA GAB ^cdc| \
+edc BcB ABc ded| \
+fed cdc Bcd efe|
+gfe ded cde fgf| \
+agf ef3/2x/2 A3/2x/2d3/2x/2f3/2x/2| \
+a3/2x/2=c'3/2x/2b3/2x/2 G3/2x/2^c3/2x/2e3/2x/2| \
+g3/2x/2b3/2x/2a3/2x/2 F3/2x/2A3/2x/2d3/2x/2|
+f3/2x/2a3/2x/2g3/2x/2 bag3/2x/2gf| \
+e3/2x/2e dca gfe dcB| \
+ABc Ade fga gba| \
+gfe fd8-|
+d4
+V:7
+% Violin II
+%%MIDI program 48
+x6 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D3/2x/2D3/2x/2D3/2x/2| \
+D3/2x/2D3/2x/2D3/2x/2 aff ddA| \
+AFF FA3/2x/2 A,3/2x/2A,3/2x/2A,3/2x/2| \
+A,3/2x/2A,3/2x/2A,3/2x/2 gee ccA|
+AGG GF4x2A3/2x/2| \
+d3/2x/2d3/2x/2f3/2x/2 B3/2x2x/2F3/2x/2| \
+B3/2x/2B3/2x/2d3/2x/2 F3/2x/2A3/2x/2d3/2x/2| \
+A3/2x/2F3/2x2x/2 E3/2x/2B3/2x/2B3/2x/2|
+B3/2x/2E3/2x/2E3/2x6x/2| \
+x6 ecc AAE| \
+ECC CE3/2x/2 BA^G FE^D| \
+EF^G A^G3/2x/2 =dBB ^G^GE|
+EB,B, B,A,3/2x/2 A3/2x/2c3/2x/2e3/2x/2| \
+c3/2x/2A3/2x2x/2 F3/2x/2A3/2x/2c3/2x/2| \
+A3/2x/2F3/2x/2c3/2x/2 E4F^G| \
+ABc AF4-F E^DE|
+F^GA F^G3/2x/2 E3/2x/2E3/2x/2E3/2x/2| \
+E3/2x/2E3/2x/2C4x4| \
+x6 C3/2x/2C3/2x/2C3/2x/2| \
+C3/2x/2C3/2x/2A,3/2x/2 A,3/2x/2C3/2x/2E3/2x/2|
+C3/2x/2A,3/2x/2A3/2x/2 A,3/2x/2=D3/2x/2F3/2x/2| \
+E3/2x/2D3-D/2x/2 B,3/2x/2E3/2x/2^G3/2x/2| \
+F3/2x/2E3-E/2x/2 C3/2x/2F3/2x/2A3/2x/2| \
+^G3/2x/2F3-F/2x/2 E3/2x/2^G3/2x/2B3/2x/2|
+A3/2x/2E3/2x/2A3/2x/2 ecc AAE| \
+ECC A,A,3/2x/2 ecc AAE| \
+ECC A,A,3/2x/2 ^d=c=c AAF| \
+F^D^D A,A,3/2x/2 e=c=c AAE|
+E=C=C A,A,3/2x/2 f=c=c AAF| \
+FA,A, ^G,^G,3/2x/2 ^gee BB^G| \
+^GEE A,A,3/2x/2 ^C3/2x/2E3/2x/2A^G| \
+A3/2x/2C3/2x/2=D3/2x/2 B,3/2x/2D3/2x/2^GF|
+^G3/2x/2B,3/2x/2C3/2x/2 A,3/2x/2C3/2x/2FE| \
+F3/2x/2A,3/2x/2B,3/2x/2 F3/2x/2F3/2x/2F3/2x/2| \
+F3/2x/2F3/2x/2B,4x2^G3/2x/2| \
+A3/2x/2B3/2x/2F3/2x/2 F3/2x/2E3/2x/2A3/2x/2|
+A3/2x/2^G3/2x/2E4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x6 B,3/2x/2B,3/2x/2B,3/2x/2|
+B,3/2x/2B,3/2x/2B,3/2x/2 fdd BBF| \
+F^A^A BF3/2x/2 E4DC| \
+D3 E/2F/2E3/2x/2 ^aee cc^A| \
+^ABB cB4x4|
+x6 B^G^G EEB,| \
+B,B,B, B,=A,4x2E3/2x/2| \
+A3/2x/2A3/2x/2c3/2x/2 F3/2x2x/2C3/2x/2| \
+F3/2x/2F3/2x/2A3/2x/2 B,3/2x/2B,3/2x/2F3/2x/2|
+F3/2x/2B,3/2x2x/2 ^G,3/2x/2C3/2x/2=F3/2x/2| \
+^G3/2x/2=F3/2x/2C3/2x/2 c'aa ^ffc| \
+cAA FF3/2x/2 c'aa ffc| \
+cAA FF3/2x/2 =c'aa ff^d|
+^d=c=c FF3/2x/2 ^c'aa ffc| \
+cAA FF3/2x/2 ^dAA FF^D| \
+^DFF ^G^G3/2x/2 =fcc ^G^G=F| \
+=F^G,^G, A,A,3/2x/2 cAA ^FF=D|
+D^G,^G, CC3/2x6x/2| \
+x12| \
+x12| \
+x12|
+x8x2F3/2x/2| \
+B3/2x/2F3/2x/2DC DEF3/2x/2D3/2x/2| \
+F3/2x/2D3/2x/2B,3/2x/2 DCB,3/2x/2D3/2x/2| \
+E3/2x/2=G3/2x/2C3/2x/2 EDC3/2x/2E3/2x/2|
+F3/2x/2A3/2x/2^D3/2x/2 FE^D3/2x/2F3/2x/2| \
+B,3/2x/2B3/2x/2^G3/2x/2 F^GE3/2x/2B3/2x/2| \
+^G3/2x/2B3/2x/2E=D EF^G FEF| \
+^GFE F^GF EF^G ABA|
+cBA ^GA^G F^GA BcB| \
+dcB ABA ^GAB cdc| \
+edc BA3/2x/2 e3/2x/2a3/2x/2e3/2x/2| \
+cde3-e/2x/2 E3/2x/2A3/2x/2E3/2x/2|
+CD2<E2D CDE F=GF| \
+A3/2x/2A3-A/2x/2 D3/2x/2G3/2x/2D3/2x/2| \
+C3/2x/2B,3/2x/2A,3/2x/2 A6-| \
+A2A3-A/2x/2 GAF GEF|
+D3/2x/2C B,A,3/2x/2 A3/2x/2d3/2x/2A3/2x/2| \
+FG2<A2G FGA3/2x/2F3/2x/2| \
+D4-D3/2x/2 BAB3/2x/2E3/2x/2| \
+AGF ED3/2x/2 d4d2-|
+d2d3D EFG AGA| \
+BAG FGF EFG3/2x2x/2| \
+x4xG ABA GFG| \
+AGF EFE ^DEF3/2x2x/2|
+x6 B3/2x/2e3/2x/2^G3/2x/2| \
+A3/2x/2B3/2x/2AB c=de3/2x/2c3/2x/2| \
+d3/2x/2e3/2x/2A3/2x/2 aff ddA| \
+AFF DD3/2x/2 aff ddA|
+AFF DD3/2x/2 ^g=f=f ddB| \
+B^G^G DD3/2x/2 a=f=f ddA| \
+A=F=F DD3/2x/2 b=f=f ddB| \
+BDD CC3/2x/2 c'aa eec|
+cAA DD3/2x/2 D3/2x/2^F3/2x/2A3/2x/2| \
+=G3/2x/2F3-F/2x/2 E3/2x/2G3/2x/2B3/2x/2| \
+A3/2x/2G3-G/2x/2 F3/2x/2A3/2x/2c3/2x/2| \
+B3/2x/2A3-A/2x/2 G3/2x/2B3/2x/2d3/2x/2|
+c3/2x/2B3-B/2x/2 A3/2x/2c3/2x/2e3/2x/2| \
+d3/2x/2c BA3/2x/2 F3/2x/2A3/2x/2dc| \
+d3/2x/2F3/2x/2G3/2x/2 E3/2x/2G3/2x/2cB| \
+c3/2x/2E3/2x/2F3/2x/2 D3/2x/2F3/2x/2BA|
+B3/2x/2D3/2x/2E3/2x/2 E3/2x/2B3/2x/2B3/2x/2| \
+B3/2x/2B3/2x/2e4x2c3/2x/2| \
+d3/2x/2e3/2x/2d3/2x/2 d3/2x/2d3/2x/2d3/2x/2| \
+d3/2x/2c3/2x/2A8-|
+A4
+V:8
+% Viola
+%%MIDI program 48
+x6 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D3/2x/2D3/2x/2D3/2x/2| \
+D3/2x/2D3/2x/2D3/2x/2 Fdd AAF| \
+FDD DA,3/2x/2 A,3/2x/2A,3/2x/2A,3/2x/2| \
+A,3/2x/2A,3/2x/2A,3/2x/2 ecc GGE|
+ECC CA,4x2F3/2x/2| \
+A3/2x/2A3/2x/2B3/2x/2 F3/2x2x/2D3/2x/2| \
+F3/2x/2F3/2x/2F3/2x/2 D3/2x/2F3/2x/2A3/2x/2| \
+d3/2x/2D3/2x2x/2 B,3/2x/2E3/2x/2^G3/2x/2|
+E3/2x/2^G3/2x/2C3/2x6x/2| \
+x6 cAA EEC| \
+CA,A, A,A,3/2x6x/2| \
+x6 B^G^G EEB,|
+B,^G,^G, ^G,E,3/2x/2 E3/2x/2A3/2x/2c3/2x/2| \
+e3/2x/2E3/2x2x/2 C3/2x/2F3/2x/2A3/2x/2| \
+c3/2x/2C3/2x/2A3/2x/2 A,3/2x/2C3/2x/2E3/2x/2| \
+A3/2x/2A,3/2x2x/2 ^D3/2x/2B,3/2x/2F,3/2x/2|
+B,3/2x/2^D3/2x/2B,3/2x/2 E3/2x/2E3/2x/2E3/2x/2| \
+E3/2x/2E3/2x/2C4x4| \
+x6 C3/2x/2C3/2x/2C3/2x/2| \
+C3/2x/2C3/2x/2A,3/2x/2 A,3/2x/2C3/2x/2E3/2x/2|
+C3/2x/2A,3/2x/2A3/2x/2 F,3/2x/2A,3/2x/2=D3/2x/2| \
+C3/2x/2B,3-B,/2x/2 ^G,3/2x/2B,3/2x/2E3/2x/2| \
+D3/2x/2C3-C/2x/2 A,3/2x/2D3/2x/2F3/2x/2| \
+E3/2x/2D3-D/2x/2 B,3/2x/2E3/2x/2^G3/2x/2|
+C3/2x/2E3/2x/2E4x2AE| \
+ECC A,A,4x2AE| \
+ECC A,A,4x2AF| \
+F^D^D A,A,4x2AE|
+E=C=C A,A,4x2AF| \
+FA,A, ^G,^G,4x2B^G| \
+^GEE A,A,3/2x/2 A,3/2x/2^C3/2x/2E3/2x/2| \
+A,4-A,3/2x/2 ^G,3/2x/2B,3/2x/2=D3/2x/2|
+^G,4-^G,3/2x/2 F,3/2x/2A,3/2x/2C3/2x/2| \
+F,4-F,3/2x/2 B,3/2x/2B,3/2x/2B,3/2x/2| \
+B,3/2x/2B,3/2x/2E4x2B,3/2x/2| \
+C3/2x/2D3/2x/2CD CB,A,3/2x/2C3/2x/2|
+B,3/2x/2D3/2x/2C4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x6 B,3/2x/2B,3/2x/2B,3/2x/2|
+B,3/2x/2B,3/2x/2B,3/2x/2 dBB FFD| \
+DEE FE3/2x6x/2| \
+x6 ecc ^A^AE| \
+EFF ^AF4x4|
+x6 ^GDD B,B,^G,| \
+^G,^G,^G, ^G,E,4x2C3/2x/2| \
+E3/2x/2E3/2x/2F3/2x/2 C3/2x2x/2=A,3/2x/2| \
+C3/2x/2C3/2x/2F,3/2x/2 F,3/2x/2^D3/2x/2^D3/2x/2|
+B,3/2x/2B,3/2x2x/2 C3/2x/2B,3/2x/2^G,3/2x/2| \
+C3/2x/2^G,3/2x/2C,4x2Fc| \
+cAA FF4x2Fc| \
+cAA FF4x2F^d|
+^d=c=c FF4x2F^c| \
+cAA FF4x2F^D| \
+^DFF ^G^G4x2^G=F| \
+=F^G,^G, A,A,3/2x/2 cAA ^FF=D|
+D^G,^G, CC3/2x6x/2| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x8x2B,3/2x/2| \
+E3/2x/2B,3/2x/2^G,F, ^G,A,B,3/2x/2^G,3/2x/2| \
+B,3/2x/2^G,3/2x/2E,3/2x/2 ^G,F,E,3/2x/2^G,3/2x/2|
+A,3/2x/2C3/2x/2F,3/2x/2 A,^G,F,3/2x/2A,3/2x/2| \
+B,3/2x/2D3/2x/2^G,3/2x/2 B,A,^G,3/2x/2B,3/2x/2| \
+E,3/2x/2E3/2x/2D/2C/2D/2C/2 B,CA,3/2x/2E3/2x/2| \
+C3/2x/2E3/2x/2A,^G, A,B,C B,A,B,|
+CB,A, B,CB, A,B,C DED| \
+FED CDC B,CD EFE| \
+=GFE DED CDE FGF| \
+AGF ED6CB,|
+A,4-A,3/2x/2 DCD4-| \
+DB,A, G,F,3/2x/2 A,3/2x/2D4-| \
+D=CB, A,G,4-G, F,G,F,| \
+E,3/2x/2A,3B, =CB,A, G,F,G,|
+A,F,G, A,B,A, B,=CD3/2x/2G2-| \
+GFE DEF2<G2 FED| \
+^CB,A, G,A,B, C3- C/2x/2A,3/2x/2| \
+FED C^DE2<F2 E^DC|
+B,4-B,A, G,A,B,3/2x/2E3/2x/2| \
+A3/2x/2E3/2x/2E3/2x/2 E3/2x/2A3/2x/2A3/2x/2| \
+=D3/2x/2A3/2x/2A4x2dA| \
+AFF DD4x2dA|
+AFF DD4x2dB| \
+B^G^G DD4x2dA| \
+A=F=F DD4x2dB| \
+BDD CC4x2ec|
+cAA DDC DCD3/2x/2^F3/2x/2| \
+E3/2x/2D3-D/2x/2 =G3/2x/2B,3/2x/2G3/2x/2| \
+F3/2x/2E3-E/2x/2 A3/2x/2C3/2x/2A3/2x/2| \
+G3/2x/2F3-F/2x/2 G3/2x/2D3/2x/2B,3/2x/2|
+C3/2x/2D3/2x/2C3/2x/2 E4C3/2x/2| \
+D3/2x/2A GF3/2x/2 D3/2x/2F3/2x/2A3/2x/2| \
+D4-D3/2x/2 C3/2x/2E3/2x/2G3/2x/2| \
+C4-C3/2x/2 B,3/2x/2D3/2x/2F3/2x/2|
+B,4-B,3/2x/2 B,3/2x/2E3/2x/2E3/2x/2| \
+E3/2x/2E3/2x/2E4x2E3/2x/2| \
+F3/2x/2C3/2x/2FG FED3/2x/2B,3/2x/2| \
+E3/2x/2E3/2x/2F8-|
+F4
+V:9
+% Cello
+%%MIDI program 48
+x4 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D,,4x4| \
+x6 D,3/2x/2D,,3/2x/2D,3/2x/2| \
+D,,3/2x/2D,3/2x/2C,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2|
+A,,3/2x/2A,3/2x/2D,3/2x/2 DA,A, F,F,D,| \
+D,F,F, D,B,,3/2x/2 B,F,F, D,D,B,,| \
+B,,D,D, B,,F,,3/2x/2 F,D,D, A,,A,,F,,| \
+F,,A,,A,, F,,^G,,3/2x/2 ^G,E,E, B,,B,,^G,,|
+^G,,B,,B,, ^G,,A,,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2| \
+A,,3/2x/2A,3/2x/2^G,4x4| \
+x6 E,3/2x/2E,,3/2x/2E,3/2x/2|
+E,,3/2x/2E,3/2x/2A,,3/2x/2 A,E,E, C,C,A,,| \
+A,,C,C, A,,F,,3/2x/2 F,C,C, A,,A,,F,,| \
+F,,A,,A,, F,,C,,3/2x/2 C,A,,A,, E,,E,,C,,| \
+C,,E,,E,, C,,^D,,3/2x/2 ^D,B,,B,, F,,F,,^D,,|
+^D,,F,,F,, ^D,,E,,4x4| \
+x6 =F,3/2x/2=F,,3/2x/2=F,3/2x/2| \
+=F,,3/2x/2=F,3/2x/2^F,,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2|
+A,,3/2x/2A,3/2x/2=D,,3/2x/2 D,C,D,3/2x/2B,,3/2x/2| \
+C,3/2x/2D,3/2x/2E,,3/2x/2 E,D,E,3/2x/2C,3/2x/2| \
+D,3/2x/2E,3/2x/2F,,3/2x/2 F,E,F,3/2x/2D,3/2x/2| \
+E,3/2x/2F,3/2x/2^G,,3/2x/2 ^G,F,^G,3/2x/2E,3/2x/2|
+F,3/2x/2^G,3/2x/2A,3/2x/2 A,,3/2x/2A,,3/2x/2A,,3/2x/2| \
+A,,3/2x/2A,,3/2x/2=G,3/2x/2 G,,3/2x/2G,,3/2x/2G,,3/2x/2| \
+G,,3/2x/2G,,3/2x/2F,3/2x/2 F,,3/2x/2F,,3/2x/2F,,3/2x/2| \
+F,,3/2x/2F,,3/2x/2E,3/2x/2 E,,3/2x/2E,,3/2x/2E,,3/2x/2|
+E,,3/2x/2E,,3/2x/2^D,3/2x/2 ^D,,3/2x/2^D,,3/2x/2^D,,3/2x/2| \
+^D,,3/2x/2^D,,3/2x/2=D,3/2x/2 D,,3/2x/2D,,3/2x/2D,,3/2x/2| \
+D,,3/2x/2D,,3/2x/2C,,3/2x/2 A,B,A,3/2x/2^G,3/2x/2| \
+F,3/2x/2E,3/2x/2D,3/2x/2 ^G,A,^G,3/2x/2F,3/2x/2|
+E,3/2x/2D,3/2x/2C,3/2x/2 F,^G,F,3/2x/2E,3/2x/2| \
+D,3/2x/2C,3/2x/2B,,C, D,C,B,,3/2x/2A,,3/2x/2| \
+^G,,3/2x/2F,,3/2x/2E,,3/2x/2 F,,3/2x/2^G,,3/2x/2E,,3/2x/2| \
+A,,3/2x/2E,3/2x/2F,3/2x/2 E,D,C,3/2x/2D,3/2x/2|
+E,3/2x/2E,,3/2x/2A,E, F,^G,A,3/2x/2E,3/2x/2| \
+C,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2A,B,| \
+C3/2x/2A,3/2x/2F,3/2x/2 F,,3/2x2x/2A,=G,| \
+F,3/2x/2D,3/2x/2G,3/2x/2 G,,3/2x2x/2B,A,|
+G,3/2x/2E,3/2x/2A,3/2x/2 A,,3/2x2x/2A,B,| \
+C3/2x/2A,3/2x/2D3/2x/2 A,G,F, G,A,G,| \
+F,E,D, C,D,3/2x/2 D,,3/2x2x/2F,E,| \
+D,3/2x/2F,3/2x/2B,,3/2x/2 E,3/2x2x/2E,3/2x/2|
+A,3/2x/2A,,3/2x/2D,4x4| \
+B,,4E,4x4| \
+^G,4A,3/2x/2 A,,3/2x2x/2F,3/2x/2| \
+B,,3/2x/2D,3/2x/2E,3/2x/2 E,,3/2x2x/2D,3/2x/2|
+C,3/2x/2A,,3/2x/2D,3/2x/2 D,,3/2x3/2 D,C,B,,| \
+C,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2A,,3/2x/2| \
+A,3/2x/2=G,3/2x/2F,3/2x/2 F,,3/2x2x/2A,,3/2x/2| \
+D,3/2x/2B,,3/2x/2G,,3/2x/2 G,3/2x2x/2F,,3/2x/2|
+E,,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2B,,3/2x/2| \
+C,3/2x/2A,,3/2x/2D,3/2x/2 D,,3/2x2x/2A,,3/2x/2| \
+D,3/2x/2A,,3/2x/2F,,3/2x/2 F,3/2x2x/2F,,3/2x/2| \
+A,,3/2x/2F,,3/2x/2D,,3/2x/2 D,3/2x2x/2F,,3/2x/2|
+G,,3/2x/2B,,3/2x/2E,,3/2x/2 E,3/2x2x/2G,,3/2x/2| \
+A,,3/2x/2=C,3/2x/2F,,3/2x/2 F,3/2x2x/2A,,3/2x/2| \
+D,,3/2x/2D,3/2x/2B,,3/2x/2 A,,B,,G,,3/2x/2G,3/2x/2| \
+^C,3/2x/2E,3/2x/2F,E, D,E,F, ^G,A,F,|
+B,A,^G, F,^G,F, E,F,^G, ^A,B,^A,| \
+CB,^A, ^G,^A,^G, F,^G,^A, B,C^A,| \
+DCB, ^A,B,3/2x/2 B,,C,D,3/2x/2E,3/2x/2| \
+F,3/2x/2F,,3/2x/2B,,4x4|
+x6 B,3/2x/2B,,3/2x/2B,3/2x/2| \
+B,,3/2x/2B,3/2x/2^A,4x4| \
+x6 F,3/2x/2F,,3/2x/2F,3/2x/2| \
+F,,3/2x/2F,3/2x/2B,,4x4|
+x6 E,3/2x/2E,,3/2x/2E,3/2x/2| \
+E,,3/2x/2E,3/2x/2=A,,3/2x/2 A,E,E, C,C,A,,| \
+A,,C,C, A,,F,,3/2x/2 F,C,C, A,,A,,F,,| \
+F,,A,,A,, F,,^D,,3/2x/2 ^D,B,,B,, F,,F,,^D,,|
+^D,,F,,F,, ^D,,=F,,3/2x/2 =F,C,C, ^G,,^G,,=F,,| \
+=F,,^G,,^G,, =F,,^F,,3/2x/2 F,3/2x/2F,3/2x/2F,3/2x/2| \
+F,3/2x/2F,3/2x/2E,,3/2x/2 E,3/2x/2E,3/2x/2E,3/2x/2| \
+E,3/2x/2E,3/2x/2^D,,3/2x/2 ^D,3/2x/2^D,3/2x/2^D,3/2x/2|
+^D,3/2x/2^D,3/2x/2C,,3/2x/2 C,3/2x/2C,3/2x/2C,3/2x/2| \
+C,3/2x/2C,3/2x/2=C,,3/2x/2 =C,3/2x/2=C,3/2x/2=C,3/2x/2| \
+=C,3/2x/2=C,3/2x/2B,,3/2x/2 B,3/2x/2B,3/2x/2B,3/2x/2| \
+B,3/2x/2B,3/2x/2A,3/2x/2 =F,3/2x/2^F,3/2x/2A,,3/2x/2|
+B,,3/2x/2^C,3/2x/2F,,3/2x/2 F,3/2x2x/2F,^G,| \
+A,3/2x/2F,3/2x/2=D,3/2x/2 D,,3/2x2x/2D,C,| \
+D,3/2x/2B,,3/2x/2E,3/2x/2 E,,3/2x2x/2E,D,| \
+E,3/2x/2C,3/2x/2F,3/2x/2 F,,3/2x2x/2F,^G,|
+^A,3/2x/2F,3/2x/2B,3/2x/2 B,,3/2x2x/2DC| \
+B,3/2x/2^A,3/2x/2B,3/2x/2 F,3/2x/2D, E,F,3/2x/2| \
+B,,3/2x/2D, F,B,3/2x/2 B,,3/2x2x/2B,3/2x/2| \
+B,3/2x/2B,3/2x/2B,3/2x/2 B,,3/2x2x/2B,3/2x/2|
+=A,3/2x/2A,3/2x/2A,3/2x/2 A,,3/2x2x/2F,3/2x/2| \
+^G,3/2x/2E,3/2x/2DD,2<D2 EDC| \
+B,CB, A,^G,^G,,2<^G,2 A,^G,F,| \
+E,F,^G, E,C,3/2x/2 D,3/2x/2C,3/2x/2B,,3/2x/2|
+A,,3/2x/2A,3/2x/2D,3/2x/2 E,3/2x/2D,3/2x/2C,3/2x/2| \
+B,,3/2x/2B,3/2x/2E,3/2x/2 ^G,F,E,3/2x/2D,3/2x/2| \
+C,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2CB,| \
+A,3/2x/2^G,3/2x/2A,3/2x/2 E,3/2x/2C, D,E,3/2x/2|
+A,,3/2x/2C,3/2x/2F,,3/2x/2 =G,,3/2x/2F,,3/2x/2E,,3/2x/2| \
+D,,3/2x/2D,3/2x/2G,,3/2x/2 A,,3/2x/2G,,3/2x/2F,,3/2x/2| \
+E,,3/2x/2E,3/2x/2A,,3/2x/2 C,B,,A,,3/2x/2G,,3/2x/2| \
+F,,3/2x/2A,,3/2x/2D,3/2x/2 D,,3/2x/2F,,3/2x/2A,,3/2x/2|
+D,3/2x/2A,,3/2x/2F,,E,, F,,G,,A,,3/2x/2F,,3/2x/2| \
+A,,3/2x/2F,,3/2x/2D,,3/2x/2 F,,E,,D,,3/2x/2F,,3/2x/2| \
+G,,3/2x/2B,,3/2x/2E,,3/2x/2 G,,F,,E,,3/2x/2G,,3/2x/2| \
+A,,3/2x/2=C,3/2x/2F,,3/2x/2 A,,G,,F,,3/2x/2A,,3/2x/2|
+D,,3/2x/2=C,3/2x/2B,,=C, B,,A,,G,,3/2x/2G,F,| \
+G,3/2x/2B,3/2x/2E,D, ^C,D,E, F,G,F,| \
+A,G,F, E,F,3/2x/2 F,,3/2x2x/2F,E,| \
+F,3/2x/2A,3/2x/2^D,C, B,,C,^D, E,F,E,|
+G,F,E, ^D,E,3/2x/2 E,,3/2x2x/2E,3/2x/2| \
+F,3/2x/2^G,3/2x/2A,3/2x/2 A,,3/2x2x/2A,3/2x/2| \
+B,3/2x/2C3/2x/2=D3/2x/2 D,3/2x/2D,3/2x/2D,3/2x/2| \
+D,3/2x/2D,3/2x/2=C3/2x/2 =C,3/2x/2=C,3/2x/2=C,3/2x/2|
+=C,3/2x/2=C,3/2x/2B,3/2x/2 B,,3/2x/2B,,3/2x/2B,,3/2x/2| \
+B,,3/2x/2B,,3/2x/2A,3/2x/2 A,,3/2x/2A,,3/2x/2A,,3/2x/2| \
+A,,3/2x/2A,,3/2x/2^G,3/2x/2 ^G,,3/2x/2^G,,3/2x/2^G,,3/2x/2| \
+^G,,3/2x/2^G,,3/2x/2=G,3/2x/2 G,,3/2x/2G,,3/2x/2G,,3/2x/2|
+G,,3/2x/2G,,3/2x/2F,,3/2x/2 F,E,F,3/2x/2D,3/2x/2| \
+E,3/2x/2F,3/2x/2G,,3/2x/2 G,F,G,3/2x/2E,3/2x/2| \
+F,3/2x/2G,3/2x/2A,,3/2x/2 A,G,A,3/2x/2F,3/2x/2| \
+G,3/2x/2A,3/2x/2B,,3/2x/2 B,A,B,3/2x/2G,3/2x/2|
+A,3/2x/2B,3/2x/2^C,3/2x/2 CB,C3/2x/2A,3/2x/2| \
+B,3/2x/2C3/2x/2D,3/2x/2 DED3/2x/2C3/2x/2| \
+B,3/2x/2A,3/2x/2G,3/2x/2 CDC3/2x/2B,3/2x/2| \
+A,3/2x/2G,3/2x/2F,3/2x/2 B,CB,3/2x/2A,3/2x/2|
+G,3/2x/2F,3/2x/2E,F, G,F,E,3/2x/2D,3/2x/2| \
+C,3/2x/2B,,3/2x/2A,,3/2x/2 B,,3/2x/2C,3/2x/2A,,3/2x/2| \
+D,3/2x/2A,,3/2x/2B,,3/2x/2 A,,G,,F,,3/2x/2G,,3/2x/2| \
+A,,4D,,8-|
+D,,4
+V:10
+% Soprano I
+%%MIDI program 52
+x12| \
+x4| \
+x4| \
+x4|
+x4| \
+x2 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+A3/2x/2| \
+e3/2x/2c3/2x/2d3/2x/2 efe3/2x/2A3/2x/2| \
+A3/2x/2A Ae3/2x/2 fgf4-|
+f12-| \
+f12-| \
+f8e4-| \
+e8e3/2x/2A3/2x/2|
+e3/2x/2c3/2x/2d3/2x/2 efe3/2x/2c3/2x/2| \
+c3/2x/2c de3/2x/2 e3/2x/2e3/2x/2B3/2x/2| \
+x8x2e3/2x/2| \
+e3/2x/2e ee3/2x/2 e3/2x/2e4-|
+e8f4-| \
+f8e4-| \
+e8f3/2x/2f3/2x/2| \
+f3/2x/2f ff3/2x/2 f3/2x/2e3/2x/2B3/2x/2|
+x8x2B3/2x/2| \
+Bcd4 cBA3/2x/2cB| \
+A12-| \
+A8A3/2x/2A3/2x/2|
+F^GA ^GBA ^GF^G FEF| \
+^GAB AcB A^GA ^GF^G| \
+ABc Bdc BAB A^GA| \
+Bcd ced cBc4-|
+c12| \
+c3/2x/2c3/2x/2c3/2x/2 c3/2x/2=c4-| \
+=c12-| \
+=c12-|
+=c4-=c3/2x/2 B3/2x/2B4-| \
+B4x2 ^G3/2x/2A EF^G| \
+AB^c def =gef edc| \
+BA^G ABc dBe dcB|
+A^GF ^GAB cAd3/2x/2fe| \
+d3/2x/2d cB3/2x/2 BA^G3/2x/2FE| \
+e6 ^G3/2x/2A4-| \
+A2f edc BcA4|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x2d3/2x/2a3/2x/2 d3/2x/2c Bcd| \
+e3/2x/2c3/2x/2e3/2x/2 c3/2x/2A3/2x/2cB| \
+A3/2x/2c3/2x/2d3/2x/2 f3/2x/2B3/2x/2dc| \
+B3/2x/2d3/2x/2e3/2x/2 =g3/2x/2c3/2x/2ed|
+c3/2x/2e3/2x/2A3/2x/2 g3/2x/2f3/2x/2ef| \
+d3/2x3x/2G FED CDE| \
+FED EFE DEF EDE| \
+FGA GBA GFG FEF|
+GAB A=cB AGA GFG| \
+AB=c Bd=c BAG B^cd| \
+e4-ed cB^A3/2x/2F3/2x/2| \
+x2f4 ede4-|
+e8-e3/2x/2^AB| \
+cde dfe dcd cde| \
+f3/2x/2B3/2x/2^A4B4| \
+x12|
+x12| \
+x12| \
+x8d4-| \
+d4d4x2^G3/2x/2|
+B3/2x/2e3/2x/2d3/2x/2 cBc4| \
+x12| \
+x8B4-| \
+B4B4x2c3/2x/2|
+=f3/2x/2^g ^g^g3/2x/2 c3/2x/2c3/2x/2=A3/2x/2| \
+x2c3/2x/2^f8| \
+f3/2x/2f3/2x/2f3/2x/2 f3/2x/2f4-| \
+f12-|
+f12-| \
+f4-f3/2x/2 ^d3/2x/2=f4-| \
+=f4x8| \
+x2c3/2x/2^f3/2x/2 c3/2x/2A ^GAB|
+c3/2x/2A3/2x/2c3/2x/2 A3/2x/2F3/2x/2A^G| \
+F3/2x/2A3/2x/2B3/2x/2 =d3/2x/2^G3/2x/2BA| \
+^G3/2x/2B3/2x/2c3/2x/2 e3/2x/2^A3/2x/2cB| \
+^A3/2x/2c3/2x/2F3/2x/2 f3/2x/2d3/2x/2cd|
+B3/2x3x/2e dcB ^ABc| \
+dcB cdc Bcd cBc| \
+def e=gf ede dcd| \
+e4-eg fef e^de|
+f4-f=a ^gfe4| \
+e4x6B3/2x/2| \
+e3/2x/2B3/2x/2^GA B3/2x/2B4| \
+x2E4<e4AA|
+=d3/2x/2A3/2x/2^G3/2x/2 F3/2x/2E4| \
+E4x6e3/2x/2| \
+a3/2x/2e3/2x/2cd e3/2x/2e4| \
+x2E3/2x/2A4-A =GFG|
+A3/2x/2G AF3/2x/2 A3/2x/2B AGA| \
+BcA BG4-G FEF| \
+GFE DE3/2x/2 dcd3/2x/2A3/2x/2| \
+d3/2x/2A3/2x/2FG2<A2 GFE|
+D3/2x/2A4<A4dc| \
+d3/2x/2=c4<B4e^d| \
+e3/2x/2=d3/2x/2=c4-=c BAB| \
+=cBA GF4G3/2x/2D3/2x/2|
+B8-B3/2x/2BA| \
+G3/2x/2B3/2x/2^c3/2x/2 e3/2x/2A GF3/2x/2| \
+x2A4<A4AG| \
+F3/2x/2A3/2x/2B3/2x/2 F3/2x/2G FEF|
+GAB cdc Bcc BAB| \
+cde fgf egf efe| \
+d3/2x8x/2A3/2x/2| \
+A3/2x/2A AA3/2x/2 A3/2x/2=f4-|
+=f12-| \
+=f12-| \
+=f4-=f3/2x/2 e3/2x/2e4-| \
+e4x2 A3/2x/2A G^FG|
+AB=c Bd=c BAB AGA| \
+B^cd ced cBc BAB| \
+cde dfe dcd cBc| \
+def egf ede dcd|
+efg fag fef3/2x/2fe| \
+f8-f3/2x/2ed| \
+e8-e3/2x/2dc| \
+d8-d cBc|
+dBc def gec3/2x/2A3/2x/2| \
+x2g3/2x/2f3/2x/2 efd efg| \
+a3/2x/2d3/2x/2d3/2x/2 c3/2x/2d4-|d8
+V:11
+% Soprano II
+%%MIDI program 52
+x6 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D3/2x/2A3/2x/2F3/2x/2| \
+G3/2x/2A BA3/2x/2 A3/2x/2A3/2x/2AA| \
+d3/2x/2e fe3/2x/2 A3/2x4x/2| \
+x6 c3/2x/2c3/2x/2cc|
+c3/2x/2d ed8-| \
+d12-| \
+d12-| \
+d12-|
+d4c3/2x6x/2| \
+x12| \
+x6 E3/2x/2B3/2x/2^G3/2x/2| \
+A3/2x/2B cB3/2x/2 E3/2x/2B3/2x/2BB|
+B3/2x/2c dc8-| \
+c12-| \
+c12-| \
+c4B8-|
+B4B3/2x6x/2| \
+x6 ^G3/2x/2^G AB2-| \
+B2A ^GF3/2x/2 A^GF4-| \
+F2^G A=G8-|
+G4F3/2x/2 A3/2x/2F ^GA^G| \
+BA^G F^GF EF^G ABA| \
+cBA ^GA^G F^GA BcB| \
+dcB ABA ^GAB cdc|
+edc BA8-| \
+A8A3/2x/2A3/2x/2| \
+A3/2x/2A3/2x/2A8-| \
+A12-|
+A12-| \
+A3/2x/2F3/2x/2^G8| \
+x2E3/2x/2A3/2x/2 cBc4-| \
+c4-c3/2x/2 BAB4-|
+B4-B3/2x/2 A=GA4-| \
+A8d4-| \
+d8-d2ed| \
+c3/2x/2B3/2x/2A^G ABc3/2x/2A3/2x/2|
+E3/2x/2^G3/2x/2A4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x6 A3/2x/2d3/2x/2A3/2x/2| \
+F=G2<A2G FED3/2x/2A3/2x/2| \
+A4-A3/2x/2 dcd3/2x/2=c3/2x/2|
+B4-B3/2x/2 e^de3/2x/2=d3/2x/2| \
+=c4-=cB AB=c BAG| \
+F4G4x B^cd| \
+e4-e3/2x/2 fed3/2x/2c3/2x/2|
+d4-d3/2x/2 ^GAB cdc| \
+edc Bc8-| \
+c4-c3/2x/2 B^AB3/2x/2e3/2x/2| \
+c4B4x4|
+x12| \
+x12| \
+x12| \
+x4B8|
+B4x2 B3/2x/2e3/2x/2B3/2x/2| \
+B3/2x/2=A ^GA4x4| \
+x12| \
+x4A8|
+A4x2 ^G3/2x/2c3/2x/2cc| \
+c3/2x/2^G3/2x/2A3/2x/2 F3/2x2x/2A3/2x/2| \
+c8c3/2x/2c3/2x/2| \
+c3/2x/2c3/2x/2=c8-|
+=c4^c8-| \
+c4^d8-| \
+^d4c8| \
+x2=f3/2x/2^f3/2x/2 ccc3/2x/2f3/2x/2|
+f3/2x/2=f3/2x/2^f4x4| \
+x12| \
+x12| \
+x12|
+x6 F3/2x/2B3/2x/2F3/2x/2| \
+=DEF3/2x/2F4x4| \
+x6 F3/2x/2B4-| \
+Bdc BcB ^ABc3/2x/2cc|
+c3/2x/2F3/2x/2B8-| \
+B4B3/2x/2 B3/2x/2e3/2x/2B3/2x/2| \
+^G=AB3/2x/2B4x2B3/2x/2| \
+e4-ed cde3/2x/2de|
+c3/2x/2e3/2x/2fe def =gef| \
+d4-dc Bcd cBA| \
+B3/2x/2A ^GA3/2x/2 E3/2x2x/2e3/2x/2| \
+a3/2x/2e3/2x/2cB cde3/2x/2c3/2x/2|
+e3/2x/2c3/2x/2A3/2x/2 cBA3/2x/2c3/2x/2| \
+d3/2x/2f3/2x/2B3/2x/2 dcB3/2x/2d3/2x/2| \
+e3/2x/2=g3/2x/2c3/2x/2 edc3/2x/2e3/2x/2| \
+A3/2x/2g3/2x/2f3/2x/2 efd3/2x2x/2|
+xGF EDC DEF EDE| \
+FED EFE DEF GAG| \
+BAG FGF EFG ABA| \
+=cBA GAG FGA B=cB|
+d=cB AG3/2x/2 d3/2x/2g fed| \
+ed^c Bc8-| \
+c4-c3/2x/2 f3 edc| \
+dcB AB8-|
+B4-B3/2x/2 e4de| \
+A3/2x/2E3/2x/2AB cde3/2x/2c3/2x/2| \
+d3/2x/2e3/2x/2dc d3/2x/2A3/2x2x/2| \
+x6 d3/2x/2d3/2x/2dd|
+d3/2x/2d3/2x/2d8-| \
+d12-| \
+d12-| \
+d3/2x/2B3/2x/2c8|
+x2c3/2x/2d3/2x/2 AAd4-| \
+d4-d3/2x/2 B3/2x/2e4-| \
+e4-e3/2x/2 c3/2x/2f4-| \
+f4-f3/2x/2 c3/2x/2g4-|
+g4-gf g3/2x/2A4| \
+x2A3/2x/2A3/2x/2 dcd4-| \
+d4-d3/2x/2 e3/2x/2c4| \
+c4-c3/2x/2 d3/2x/2B4|
+B4-BA GAB GAB| \
+cde3/2x/2e3/2x/2 c3/2x2x/2c3/2x/2| \
+d3/2x/2c cd3/2x/2 d3/2x/2d3/2x/2g3/2x/2| \
+e4d8-|
+d4
+V:12
+% Alto
+%%MIDI program 52
+x12| \
+x4| \
+x4| \
+x4|
+x4| \
+x2 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+C3/2x/2| \
+G3/2x/2E3/2x/2F3/2x/2 GAG3/2x/2G3/2x/2| \
+G3/2x/2G GG3/2x/2 C3/2x/2A4-|
+A8B4-| \
+B8A4-| \
+A8B3/2x/2B3/2x/2| \
+B3/2x/2B BB3/2x/2 B3/2x/2A3/2x/2A3/2x/2|
+x8x2E3/2x/2| \
+E3/2x/2E EA3/2x/2 BcB3/2x/2E3/2x/2| \
+x8x2B3/2x/2| \
+^G3/2x/2^G ^G^G3/2x/2 ABA4-|
+A12-| \
+A12-| \
+A12-| \
+A8^G3/2x2x/2|
+x12| \
+x8x2A,3/2x/2| \
+A,B,C4 B,A,E3/2x/2=GF| \
+E8D3/2x/2F3/2x/2|
+DEF3/2x/2E3/2x/2 D3- D/2x/2B,3/2x/2| \
+EF^G3/2x/2F3/2x/2 E3- E/2x/2C3/2x/2| \
+F^GA3/2x/2^G3/2x/2 F3- F/2x/2EF| \
+^GAB3/2x/2A3/2x/2 E3/2x/2E4-|
+E12| \
+E3/2x/2E3/2x/2E3/2x/2 E3/2x/2^D4-| \
+^D8E4-| \
+E8F4-|
+F8E4-| \
+E4x2 E3/2x/2E3/2x/2C3/2x/2| \
+E3/2x/2A ^GA3/2x/2 C3/2x/2=D3/2x/2B,3/2x/2| \
+D3/2x/2^G F^G3/2x/2 B,3/2x/2C3/2x/2A,3/2x/2|
+C3/2x/2F EF3/2x/2 A,3/2x/2B,3/2x/2F2-| \
+F2F FF3/2x/2 F3/2x/2^G3/2x/2B,3/2x/2| \
+x2^G3/2x/2A3/2x/2 B3/2x/2F4| \
+E3/2x/2A4 E3/2x/2E4|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x2A3/2x/2d3/2x/2 A3/2x/2F EF=G| \
+A3/2x/2F3/2x/2A3/2x/2 F3/2x/2D3/2x/2GF| \
+E3/2x/2G3/2x/2A3/2x/2 c3/2x/2F3/2x/2AG|
+F3/2x/2A3/2x/2B3/2x/2 d3/2x/2^G3/2x/2BA| \
+^G3/2x/2B3/2x/2E3/2x/2 d3/2x/2c3/2x/2Bc| \
+AAB cdc BA=G4-| \
+GEF GAB AGF EDE|
+F3/2x/2A,3/2x3/2D CB,A, ^G,A,B,| \
+CB,A, B,CB, A,B,C B,A,B,| \
+CDE DFE DCD CB,C| \
+DEF E=GF EDE DCD|
+EFG FAG FED AGA| \
+FGE FD3/2x/2 C3/2x2x/2A3/2x/2| \
+d3/2x/2A3/2x/2FG2<A2 GFG| \
+A3/2x/2D4<D4BA|
+B3/2x/2E3/2x/2AG FED4-| \
+D8D4| \
+xDE FG3/2x/2 E3/2x/2C3/2x/2B,3/2x/2| \
+^A,3/2x4x/2 ^A,3/2x/2B,3/2x/2E2-|
+E2D EC3/2x/2 C3/2x/2F4-| \
+F8-F EDC| \
+B,3/2x/2G3/2x/2F4F4| \
+x12|
+x12| \
+x12| \
+x8F4-| \
+F4F4x2E3/2x/2|
+^G3/2x/2B3/2x/2^G3/2x/2 E3/2x/2E4| \
+x12| \
+x8F4-| \
+F4F4x2B3/2x/2|
+B3/2x/2B BB3/2x/2 B3/2x/2=A3/2x/2C3/2x/2| \
+x2F3/2x/2A8| \
+A3/2x/2A3/2x/2A3/2x/2 A3/2x/2A4-| \
+A12-|
+A12-| \
+A4-A3/2x/2 ^G3/2x/2^G4-| \
+^G4x2 ^G3/2x/2F3/2x/2^G^G| \
+A3/2x/2A3/2x/2^G4F4|
+x12| \
+x12| \
+x12| \
+x12|
+x2F3/2x/2B3/2x/2 F3/2x/2D CDE| \
+F3/2x/2D3/2x/2F3/2x/2 D3/2x/2B,3/2x/2DC| \
+B,3/2x/2D3/2x/2E3/2x/2 =G3/2x/2C3/2x/2ED| \
+C3/2x/2E3/2x/2F3/2x/2 A3/2x/2^D3/2x/2FE|
+^D3/2x/2F3/2x/2B,3/2x/2 B3/2x/2^G3/2x/2F^G| \
+E3/2x3x/2A ^GFE =DEF| \
+^GFE F^GF EF^G FEF| \
+^GAB AcB A^GA ^GF^G|
+ABc Bdc BAB A^GA| \
+Bcd ced cBA4| \
+A4x6E3/2x/2| \
+A3/2x/2E3/2x/2CD E3/2x/2E4|
+x2A,4<A4DD| \
+=G3/2x/2D3/2x/2C3/2x/2 B,3/2x/2A,4| \
+A,4x4x AGA| \
+FGE FD3/2x/2 C3/2x2x/2A3/2x/2|
+d3/2x/2A3/2x/2FG2<A2 GFG| \
+A3/2x/2F4<D4BA| \
+B3/2x/2E3/2x/2AG FED4-| \
+D4D4x FGA|
+BAG ABA GFG FEF| \
+G3/2x/2G3/2x4x3/2 GAB| \
+AGF GAG FEF E^DE| \
+F3/2x/2F3/2x6x/2BA|
+GF^G3/2x/2A3/2x/2 B3/2x/2E =DCB,| \
+A,3/2x/2A3/2x/2D3/2x/2 A3/2x/2A =GAG| \
+F3/2x8x/2F3/2x/2| \
+F3/2x/2F FF3/2x/2 F3/2x/2^G4-|
+^G8A4-| \
+A8B4-| \
+B8A4-| \
+A4x2 E3/2x/2D CDE|
+A,3/2x/2A3/2x/2=G3/2x/2 F3- F/2x/2E3/2x/2| \
+G3/2x/2B3/2x/2A3/2x/2 G3- G/2x/2F3/2x/2| \
+A3/2x/2c3/2x/2B3/2x/2 A3- A/2x/2G3/2x/2| \
+B3/2x/2d3/2x/2c3/2x/2 B3- B/2x/2A3/2x/2|
+c3/2x/2e3/2x/2d3/2x/2 A3- A/2x/2AG| \
+A3/2x/2d cd3/2x/2 F3/2x/2G4-| \
+G2c Bc3/2x/2 E3/2x/2F4-| \
+F2B AB3/2x/2 D3/2x/2E3/2x/2BA|
+G3/2x/2G FED CDE3/2x/2E3/2x/2| \
+x2A3/2x/2A3/2x/2 AAF3/2x/2F3/2x/2| \
+D3/2x/2B3/2x/2A4A4-|A8
+V:13
+% Tenor
+%%MIDI program 52
+x6 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+A,3/2x/2F3/2x/2D3/2x/2| \
+E3/2x/2F GF3/2x/2 F3/2x/2F3/2x/2FG| \
+A3/2x/2A3/2x/2A3/2x/2 E3/2x4x/2| \
+x6 E3/2x/2E3/2x/2EE|
+E3/2x/2E3/2x/2F8-| \
+F12-| \
+F12-| \
+F4B,3/2x/2 E3/2x/2^G3/2x/2EE|
+B,3/2x/2E3/2x/2E3/2x/2 C3/2x4x/2| \
+x12| \
+x6 ^G,3/2x/2D3/2x/2B,3/2x/2| \
+C3/2x/2D ED3/2x/2 D3/2x/2D3/2x/2DD|
+D3/2x/2^G,3/2x/2A,8-| \
+A,4C8-| \
+C12-| \
+C4F3/2x/2 F3/2x/2^D3/2x/2^D^D|
+B,3/2x/2B,3/2x/2B,3/2x/2 E3/2x4x/2| \
+x12| \
+x6 F,3/2x/2F, ^G,A,2-| \
+A,2^G, F,C3/2x/2 E=DC4-|
+C4A,3/2x/2 A,3/2x/2A,3/2x/2D3/2x/2| \
+C3/2x/2B,3-B,/2x/2 ^G,3/2x/2B,3/2x/2E3/2x/2| \
+D3/2x/2C3-C/2x/2 A,3/2x/2D3/2x/2F3/2x/2| \
+E3/2x/2D3-D/2x/2 B,3/2x/2E3/2x/2^G3/2x/2|
+C3/2x/2E3/2x/2A,8-| \
+A,8A,3/2x/2A,3/2x/2| \
+A,3/2x/2A,3/2x/2A,8-| \
+A,12-|
+A,12-| \
+A,3/2x/2B,3/2x/2E,8| \
+x2B,3/2x/2C3/2x/2 A,3/2x/2C3/2x/2E3/2x/2| \
+A,4-A,3/2x/2 ^G,3/2x/2B,3/2x/2D3/2x/2|
+^G,4-^G,3/2x/2 F,3/2x/2A,3/2x/2C3/2x/2| \
+F,4-F,3/2x/2 B,4B,B,| \
+B,3/2x/2B,3/2x/2B,3/2x/2 ^G,3/2x2x/2B,3/2x/2| \
+C3/2x/2D3/2x/2CD CB,A,3/2x/2C3/2x/2|
+B,3/2x/2D3/2x/2C4x2E3/2x/2| \
+A3/2x/2E3/2x/2CB, CDE3/2x/2C3/2x/2| \
+E3/2x/2C3/2x/2A,3/2x/2 CB,A,3/2x/2C3/2x/2| \
+D3/2x/2F3/2x/2B,3/2x/2 DCB,3/2x/2D3/2x/2|
+E3/2x/2=G3/2x/2C3/2x/2 EDC3/2x/2E3/2x/2| \
+A,3/2x/2G3/2x/2F3/2x/2 EFD3/2x2x/2| \
+xG,F, E,D,C, D,E,F, E,D,E,| \
+F,E,D, E,F,D, E,F,G, A,B,A,|
+CB,A, G,A,G, F,G,A, B,CB,| \
+DCB, A,B,A, ^G,A,B, CDC| \
+EDC B,A,C DEF4-| \
+FED CB,D CB,E4-|
+EDC B,A,C B,A,D FED| \
+E3/2x/2^G,3/2x/2A,3/2x/2 E3/2x/2A3/2x/2E3/2x/2| \
+CD2<E2D CDE3/2x/2A,3/2x/2| \
+A,4-A,3/2x/2 =G,A,B, CA,B,|
+G,4-G,F, E,F,G, F,E,D,| \
+E,3/2x/2C4<D4CB,| \
+A,3/2x/2A,3/2x/2A,3/2x/2 DCD4-| \
+DB,A, G,F,3/2x/2 A,3/2x/2D4-|
+D=CB, A,G,4-G, F,G,F,| \
+E,3/2x/2A,3B, =CB,A, G,F,G,| \
+A,3/2x/2A,3/2x/2D3/2x/2 F,3/2x/2B,3/2x/2GF| \
+E3/2x/2G3/2x/2F4-F GEF|
+D3/2x/2F3/2x/2ED ^C4B,C| \
+^A,3/2x/2F,3/2x2x/2 C3/2x/2C3/2x/2^A,^A,| \
+F,3/2x/2E3/2x/2D3/2x/2 G3/2x/2F3/2x/2ED| \
+E3/2x/2C3/2x/2D4x4|
+x12| \
+x12| \
+x12| \
+x4B,8|
+B,4x2 B,3/2x/2B,3/2x/2B,3/2x/2| \
+E3/2x/2E3/2x/2C4x4| \
+x12| \
+x4F,8|
+F,4x2 C3/2x/2^G,3/2x/2=F,=F,| \
+C,3/2x/2C,3/2x/2^F,3/2x/2 =A,3/2x4x/2| \
+x2F3/2x/2C3/2x/2 CCC4-| \
+C2C3/2x/2F8-|
+F12-| \
+F4^D8-| \
+^D4^G,8| \
+x2C3/2x/2C3/2x/2 CCF3/2x/2C3/2x/2|
+=D3/2x/2C3/2x/2C4x4| \
+x12| \
+x12| \
+x12|
+x12| \
+x6 F,3/2x/2B,3/2x/2F,3/2x/2| \
+D,E,F,3/2x/2F,4x4| \
+x12|
+x12| \
+x8x2B,3/2x/2| \
+E3/2x/2B,3/2x/2^G,F, ^G,A,B,3/2x/2^G,3/2x/2| \
+B,3/2x/2^G,3/2x/2E,3/2x/2 ^G,F,E,3/2x/2^G,3/2x/2|
+A,3/2x/2C3/2x/2F,3/2x/2 A,^G,F,3/2x/2A,3/2x/2| \
+B,3/2x/2D3/2x/2^G,3/2x/2 B,A,^G,3/2x/2B,3/2x/2| \
+E,3/2x/2E3/2x/2C3/2x/2 B,CA,3/2x2x/2| \
+xDC B,A,^G, A,B,C B,A,B,|
+CB,A, B,CB, A,B,C DED| \
+FED CDC B,CD EFE| \
+=GFE DED CDE FGF| \
+AGF ED6CB,|
+A,3/2x/2A,3-A,/2x/2 DCD4-| \
+DB,A, G,F,3/2x/2 A,3/2x/2D4-| \
+D=CB, A,G,4-G, F,G,F,| \
+E,3/2x/2A,3B, =CB,A, G,F,G,|
+A,3/2x/2A,3/2x/2B,A, B,=CD3/2x/2B,3/2x/2| \
+GFE DEF2<G2 FED| \
+^CB,A, G,A,B, C4A,3/2x/2| \
+FED C^DE2<F2 E^DC|
+B,3/2x/2B,3/2x/2B,A, G,A,B,3/2x/2B,3/2x/2| \
+F3/2x/2B,3/2x/2C3/2x/2 E=DC B,A,3/2x/2| \
+D3/2x/2A,3-A,/2x/2 D3/2x/2F3/2x2x/2| \
+x6 D3/2x/2D3/2x/2DD|
+D3/2x/2D3/2x/2D8-| \
+D12-| \
+D12-| \
+D3/2x/2E3/2x/2A,8|
+x2A,3/2x/2A,3/2x/2 DCD3/2x/2F3/2x/2| \
+E3/2x/2D3-D/2x/2 G3/2x/2B,3/2x/2G3/2x/2| \
+F3/2x/2E3-E/2x/2 A3/2x/2C3/2x/2A3/2x/2| \
+G3/2x/2F3-F/2x/2 G3/2x/2D3/2x/2B,3/2x/2|
+C3/2x/2D3/2x/2C3/2x/2 CB,C3/2x/2C3/2x/2| \
+D3/2x/2A GF3/2x/2 D3/2x2x/2A,3/2x/2| \
+D4-D3/2x/2 C3/2x/2E3/2x/2G3/2x/2| \
+C4-C3/2x/2 B,3/2x/2D3/2x/2F3/2x/2|
+B,4-B,3/2x/2 E3/2x/2E3/2x/2E3/2x/2| \
+A3/2x/2A3/2x/2A3/2x/2 E3/2x2x/2E3/2x/2| \
+F3/2x/2C CB,C DEF3/2x/2B,3/2x/2| \
+E4F8-|
+F4
+V:14
+% Bass
+%%MIDI program 52
+x12| \
+x4| \
+x2 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D,3/2x/2| \
+D3/2x/2D, E,F,3/2x/2 A,3/2x/2C3/2x/2A,3/2x/2|
+x8x2A,,3/2x/2| \
+A,3/2x/2A,, B,,C,3/2x/2 A,,3/2x/2D,3/2x/2D3/2x/2| \
+A,3/2x/2F,3/2x/2D,3/2x/2 F,3/2x/2B,,3/2x/2B,3/2x/2| \
+F,3/2x/2D,3/2x/2B,,3/2x/2 D,3/2x/2F,,3/2x/2F,3/2x/2|
+D,3/2x/2A,,3/2x/2F,3/2x/2 D,3/2x/2A,/2^G,/2 A,/2^G,/2A,/2^G,/2A,/2^G,/2| \
+A,/2^G,/2A,/2^G,/2A,/2^G,/2 A,/2^G,/2A,/2^G,/2A,/2^G,/2 A,/2^G,/2A,/2^G,/2A,3/2x/2E,3/2x/2| \
+C3/2x/2A,3/2x/2B,3/2x/2 CDC3/2x/2A,3/2x/2| \
+A,3/2x/2A,, B,,C,3/2x/2 E,3/2x/2^G,3/2x/2E,3/2x/2|
+x8x2E,3/2x/2| \
+E3/2x/2E, F,^G,3/2x/2 E,3/2x/2A,,3/2x/2A,3/2x/2| \
+E,3/2x/2C,3/2x/2A,,3/2x/2 C,3/2x/2F,,3/2x/2F,3/2x/2| \
+C,3/2x/2A,3/2x/2F,3/2x/2 A,3/2x/2C,3/2x/2C3/2x/2|
+A,3/2x/2E,3/2x/2C,3/2x/2 E,3/2x/2^D,3/2x/2^D3/2x/2| \
+B,3/2x/2F,3/2x/2^D,3/2x/2 B,,3/2x/2E,3/2x/2E,3/2x/2| \
+E,3/2x/2E,3/2x/2E,3/2x/2 E,3/2x/2=F,4| \
+x8x2^F,3/2x/2|
+F,3/2x/2F,3/2x/2F,3/2x/2 F,3/2x/2C,4| \
+x8x2=D,3/2x/2| \
+D,3/2x/2B,,3/2x/2C,3/2x/2 D,3/2x/2E, D,E,D,| \
+E,3/2x/2C,3/2x/2D,3/2x/2 E,3/2x/2F, E,F,E,|
+F,3/2x/2D,3/2x/2E,3/2x/2 F,3/2x/2^G, F,^G,F,| \
+^G,3/2x/2E,3/2x/2F,3/2x/2 ^G,3/2x/2A,4-| \
+A,12| \
+=G,3/2x/2G,3/2x/2G,3/2x/2 G,3/2x/2F,4-|
+F,8E,4-| \
+E,8^D,4-| \
+^D,8=D,4-| \
+D,4x2 D,3/2x/2C,3/2x/2A,B,|
+A,3/2x/2^G,3/2x/2F,3/2x/2 E,3/2x/2D, F,^G,A,| \
+^G,3/2x/2F,3/2x/2E,3/2x/2 D,3/2x/2C, E,F,^G,| \
+F,3/2x/2E,3/2x/2D,3/2x/2 C,3/2x/2B,, C,D,C,| \
+B,,3/2x/2B, A,^G,3/2x/2 ^G,F,E,3/2x/2E,F,|
+^G,3/2x/2E,3/2x/2A,3/2x/2 E,3/2x/2F,3/2x/2E,D,| \
+C,3/2x/2D,3/2x/2E,4A,,4| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x2A,3/2x/2D3/2x/2 A,3/2x/2F, E,F,=G,|
+A,3/2x/2F,3/2x/2A,3/2x/2 F,3/2x/2D,3/2x/2F,E,| \
+D,3/2x/2F,3/2x/2G,3/2x/2 B,3/2x/2E,3/2x/2G,F,| \
+E,3/2x/2G,3/2x/2A,3/2x/2 =C3/2x/2F,3/2x/2A,G,| \
+F,3/2x/2A,3/2x/2D,3/2x/2 D3/2x/2B,3/2x/2A,B,|
+G,3/2x3x/2^C, D,E,F, E,D,E,| \
+F,^G,A, F,B,A, ^G,F,^G, F,E,F,| \
+^G,^A,B, ^A,CB, ^A,^G,^A, ^G,F,^G,| \
+^A,B,C ^A,DC B,^A,B,3/2x/2B,,C,|
+D,3/2x/2E,3/2x/2F,4B,,4| \
+x12| \
+x12| \
+x12|
+x8B,4-| \
+B,4B,,4x2E,3/2x/2| \
+E,3/2x/2E,3/2x/2E,3/2x/2 E,3/2x/2=A,,4| \
+x12|
+x8^D,4-| \
+^D,4^D,4x2=F,3/2x/2| \
+=F,3/2x/2=F, =F,=F,3/2x/2 =F,3/2x/2^F,3/2x/2F,3/2x/2| \
+x6 F,3/2x/2E,3/2x/2E,E,|
+E,6 E,3/2x/2^D,4-| \
+^D,8C,4-| \
+C,8=C,4-| \
+=C,8B,,4-|
+B,,4x2 B,3/2x/2A,3/2x/2=F,=F,| \
+^F,3/2x/2A,,3/2x/2B,,3/2x/2 ^C,3/2x/2F,,4| \
+x12| \
+x12|
+x12| \
+x12| \
+x6 ^A,3/2x/2B,3/2x/2F,3/2x/2| \
+=D,E,F,3/2x/2B,,3/2x6x/2|
+x2B,,3/2x/2B,4-B, =A,=G,F,| \
+E,3/2x/2E, E,A,3/2x/2 A,3/2x/2A, ^G,F,^G,| \
+A,3/2x/2F,3/2x/2^G,3/2x/2 E,3/2x/2D4| \
+D4x2 B,3/2x/2E3/2x/2B,3/2x/2|
+^G,A,B,3/2x/2E,3/2x6x/2| \
+x12| \
+x12| \
+x12|
+x6 ^G,3/2x/2A,3/2x/2E,3/2x/2| \
+C,D,E,3/2x/2A,,3/2x6x/2| \
+x12| \
+x12|
+x12| \
+x2A,3/2x/2D3/2x/2 A,3/2x/2F, E,F,=G,| \
+A,3/2x/2F,3/2x/2A,3/2x/2 F,3/2x/2D,3/2x/2F,E,| \
+D,3/2x/2F,3/2x/2G,3/2x/2 B,3/2x/2E,3/2x/2G,F,|
+E,3/2x/2G,3/2x/2A,3/2x/2 =C3/2x/2F,3/2x/2A,G,| \
+F,3/2x/2A,3/2x/2D,3/2x/2 D3/2x/2B,3/2x/2B,A,| \
+G,3/2x/2B,3/2x/2G,3/2x/2 B,3/2x/2E, D,^C,D,| \
+E,F,G, F,A,G, F,E,F,3/2x/2F,E,|
+F,3/2x/2A,3/2x/2F,3/2x/2 A,3/2x/2^D, C,B,,C,| \
+^D,E,F, E,G,F, E,^D,E,3/2x/2E,3/2x/2| \
+x2E,3/2x/2F,3/2x/2 ^G,3/2x/2A,3/2x/2A,,3/2x/2| \
+x2A,3/2x/2B,3/2x/2 C3/2x/2=D4|
+D,3/2x8x/2=C,3/2x/2| \
+=C3/2x/2=C =C=C3/2x/2 =C3/2x/2B,4-| \
+B,8A,4-| \
+A,8^G,4-|
+^G,8=G,4-| \
+G,4x2 G,3/2x/2F, G,A,G,| \
+F,3/2x/2D,3/2x/2E,3/2x/2 F,3/2x/2G, A,B,A,| \
+G,3/2x/2E,3/2x/2F,3/2x/2 G,3/2x/2A, B,^CB,|
+A,3/2x/2F,3/2x/2G,3/2x/2 A,3/2x/2B, CDC| \
+B,3/2x/2G,3/2x/2A,3/2x/2 B,3/2x/2C DED| \
+C3/2x/2A,3/2x/2B,3/2x/2 C3/2x/2D3/2x/2DE| \
+D3/2x/2C3/2x/2B,3/2x/2 A,3/2x/2G, B,CD|
+C3/2x/2B,3/2x/2A,3/2x/2 G,3/2x/2F, A,B,C| \
+B,3/2x/2A,3/2x/2G,3/2x/2 F,3/2x/2E, F,G,F,| \
+E,3/2x/2D,3/2x/2C,3/2x/2 B,,3/2x/2A,,3/2x/2A,3/2x/2| \
+x2A,3/2x/2D3/2x/2 A,A,B,3/2x/2A,G,|
+F,3/2x/2G,3/2x/2A,4D,4-|D,8
+V:15
+% Organ
+%%MIDI program 19
+x4 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+D,,4x4| \
+x6 D,3/2x/2D,,3/2x/2D,3/2x/2| \
+D,,3/2x/2D,3/2x/2C,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2|
+A,,3/2x/2A,3/2x/2D,3/2x/2 DA,A, F,F,D,| \
+D,F,F, D,B,,3/2x/2 B,F,F, D,D,B,,| \
+B,,D,D, B,,F,,3/2x/2 F,D,D, A,,A,,F,,| \
+F,,A,,A,, F,,^G,,3/2x/2 ^G,E,E, B,,B,,^G,,|
+^G,,B,,B,, ^G,,A,,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2| \
+A,,3/2x/2A,3/2x/2^G,4x4| \
+x6 E,3/2x/2E,,3/2x/2E,3/2x/2|
+E,,3/2x/2E,3/2x/2A,,3/2x/2 A,E,E, C,C,A,,| \
+A,,C,C, A,,F,,3/2x/2 F,C,C, A,,A,,F,,| \
+F,,A,,A,, F,,C,,3/2x/2 C,A,,A,, E,,E,,C,,| \
+C,,E,,E,, C,,^D,,3/2x/2 ^D,B,,B,, F,,F,,^D,,|
+^D,,F,,F,, ^D,,E,,4x4| \
+x6 =F,3/2x/2=F,,3/2x/2=F,3/2x/2| \
+=F,,3/2x/2=F,3/2x/2^F,,4x4| \
+x6 A,3/2x/2A,,3/2x/2A,3/2x/2|
+A,,3/2x/2A,3/2x/2=D,,3/2x/2 D,C,D,3/2x/2B,,3/2x/2| \
+C,3/2x/2D,3/2x/2E,,3/2x/2 E,D,E,3/2x/2C,3/2x/2| \
+D,3/2x/2E,3/2x/2F,,3/2x/2 F,E,F,3/2x/2D,3/2x/2| \
+E,3/2x/2F,3/2x/2^G,,3/2x/2 ^G,F,^G,3/2x/2E,3/2x/2|
+F,3/2x/2^G,3/2x/2A,3/2x/2 A,,3/2x/2A,,3/2x/2A,,3/2x/2| \
+A,,3/2x/2A,,3/2x/2=G,3/2x/2 G,,3/2x/2G,,3/2x/2G,,3/2x/2| \
+G,,3/2x/2G,,3/2x/2F,3/2x/2 F,,3/2x/2F,,3/2x/2F,,3/2x/2| \
+F,,3/2x/2F,,3/2x/2E,3/2x/2 E,,3/2x/2E,,3/2x/2E,,3/2x/2|
+E,,3/2x/2E,,3/2x/2^D,3/2x/2 ^D,,3/2x/2^D,,3/2x/2^D,,3/2x/2| \
+^D,,3/2x/2^D,,3/2x/2=D,3/2x/2 D,,3/2x/2D,,3/2x/2D,,3/2x/2| \
+D,,3/2x/2D,,3/2x/2C,,3/2x/2 A,B,A,3/2x/2^G,3/2x/2| \
+F,3/2x/2E,3/2x/2D,3/2x/2 ^G,A,^G,3/2x/2F,3/2x/2|
+E,3/2x/2D,3/2x/2C,3/2x/2 F,^G,F,3/2x/2E,3/2x/2| \
+D,3/2x/2C,3/2x/2B,,C, D,C,B,,3/2x/2A,,3/2x/2| \
+^G,,3/2x/2F,,3/2x/2E,,3/2x/2 F,,3/2x/2^G,,3/2x/2E,,3/2x/2| \
+A,,3/2x/2E,3/2x/2F,3/2x/2 E,D,C,3/2x/2D,3/2x/2|
+E,3/2x/2E,,3/2x/2A,E, F,^G,A,3/2x/2E,3/2x/2| \
+C,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2A,B,| \
+C3/2x/2A,3/2x/2F,3/2x/2 F,,3/2x2x/2A,=G,| \
+F,3/2x/2D,3/2x/2G,3/2x/2 G,,3/2x2x/2B,A,|
+G,3/2x/2E,3/2x/2A,3/2x/2 A,,3/2x2x/2A,B,| \
+C3/2x/2A,3/2x/2D3/2x/2 A,G,F, G,A,G,| \
+F,E,D, C,D,3/2x/2 D,,3/2x2x/2F,E,| \
+D,3/2x/2F,3/2x/2B,,3/2x/2 E,3/2x2x/2E,3/2x/2|
+A,3/2x/2A,,3/2x/2D,4x4| \
+B,,4E,4x4| \
+^G,4A,3/2x/2 A,,3/2x2x/2F,3/2x/2| \
+B,,3/2x/2D,3/2x/2E,3/2x/2 E,,3/2x2x/2D,3/2x/2|
+C,3/2x/2A,,3/2x/2D,3/2x/2 D,,3/2x3/2 D,C,B,,| \
+C,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2A,,3/2x/2| \
+A,3/2x/2=G,3/2x/2F,3/2x/2 F,,3/2x2x/2A,,3/2x/2| \
+D,3/2x/2B,,3/2x/2G,,3/2x/2 G,3/2x2x/2F,,3/2x/2|
+E,,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2B,,3/2x/2| \
+C,3/2x/2A,,3/2x/2D,3/2x/2 D,,3/2x2x/2A,,3/2x/2| \
+D,3/2x/2A,,3/2x/2F,,3/2x/2 F,3/2x2x/2F,,3/2x/2| \
+A,,3/2x/2F,,3/2x/2D,,3/2x/2 D,3/2x2x/2F,,3/2x/2|
+G,,3/2x/2B,,3/2x/2E,,3/2x/2 E,3/2x2x/2G,,3/2x/2| \
+A,,3/2x/2=C,3/2x/2F,,3/2x/2 F,3/2x2x/2A,,3/2x/2| \
+D,,3/2x/2D,3/2x/2B,,3/2x/2 A,,B,,G,,3/2x/2G,3/2x/2| \
+^C,3/2x/2E,3/2x/2F,E, D,E,F, ^G,A,F,|
+B,A,^G, F,^G,F, E,F,^G, ^A,B,^A,| \
+CB,^A, ^G,^A,^G, F,^G,^A, B,C^A,| \
+DCB, ^A,B,3/2x/2 B,,C,D,3/2x/2E,3/2x/2| \
+F,3/2x/2F,,3/2x/2B,,4x4|
+x6 B,3/2x/2B,,3/2x/2B,3/2x/2| \
+B,,3/2x/2B,3/2x/2^A,4x4| \
+x6 F,3/2x/2F,,3/2x/2F,3/2x/2| \
+F,,3/2x/2F,3/2x/2B,,4x4|
+x6 E,3/2x/2E,,3/2x/2E,3/2x/2| \
+E,,3/2x/2E,3/2x/2=A,,3/2x/2 A,E,E, C,C,A,,| \
+A,,C,C, A,,F,,3/2x/2 F,C,C, A,,A,,F,,| \
+F,,A,,A,, F,,^D,,3/2x/2 ^D,B,,B,, F,,F,,^D,,|
+^D,,F,,F,, ^D,,=F,,3/2x/2 =F,C,C, ^G,,^G,,=F,,| \
+=F,,^G,,^G,, =F,,^F,,3/2x/2 F,3/2x/2F,3/2x/2F,3/2x/2| \
+F,3/2x/2F,3/2x/2E,,3/2x/2 E,3/2x/2E,3/2x/2E,3/2x/2| \
+E,3/2x/2E,3/2x/2^D,,3/2x/2 ^D,3/2x/2^D,3/2x/2^D,3/2x/2|
+^D,3/2x/2^D,3/2x/2C,,3/2x/2 C,3/2x/2C,3/2x/2C,3/2x/2| \
+C,3/2x/2C,3/2x/2=C,,3/2x/2 =C,3/2x/2=C,3/2x/2=C,3/2x/2| \
+=C,3/2x/2=C,3/2x/2B,,3/2x/2 B,3/2x/2B,3/2x/2B,3/2x/2| \
+B,3/2x/2B,3/2x/2A,3/2x/2 =F,3/2x/2^F,3/2x/2A,,3/2x/2|
+B,,3/2x/2^C,3/2x/2F,,3/2x/2 F,3/2x2x/2F,^G,| \
+A,3/2x/2F,3/2x/2=D,3/2x/2 D,,3/2x2x/2D,C,| \
+D,3/2x/2B,,3/2x/2E,3/2x/2 E,,3/2x2x/2E,D,| \
+E,3/2x/2C,3/2x/2F,3/2x/2 F,,3/2x2x/2F,^G,|
+^A,3/2x/2F,3/2x/2B,3/2x/2 B,,3/2x2x/2DC| \
+B,3/2x/2^A,3/2x/2B,3/2x/2 F,3/2x/2D, E,F,3/2x/2| \
+B,,3/2x/2D, F,B,3/2x/2 B,,3/2x2x/2B,3/2x/2| \
+B,3/2x/2B,3/2x/2B,3/2x/2 B,,3/2x2x/2B,3/2x/2|
+=A,3/2x/2A,3/2x/2A,3/2x/2 A,,3/2x2x/2F,3/2x/2| \
+^G,3/2x/2E,3/2x/2DD,2<D2 EDC| \
+B,CB, A,^G,^G,,2<^G,2 A,^G,F,| \
+E,F,^G, E,C,3/2x/2 D,3/2x/2C,3/2x/2B,,3/2x/2|
+A,,3/2x/2A,3/2x/2D,3/2x/2 E,3/2x/2D,3/2x/2C,3/2x/2| \
+B,,3/2x/2B,3/2x/2E,3/2x/2 ^G,F,E,3/2x/2D,3/2x/2| \
+C,3/2x/2E,3/2x/2A,,3/2x/2 A,3/2x2x/2CB,| \
+A,3/2x/2^G,3/2x/2A,3/2x/2 E,3/2x/2C, D,E,3/2x/2|
+A,,3/2x/2C,3/2x/2F,,3/2x/2 =G,,3/2x/2F,,3/2x/2E,,3/2x/2| \
+D,,3/2x/2D,3/2x/2G,,3/2x/2 A,,3/2x/2G,,3/2x/2F,,3/2x/2| \
+E,,3/2x/2E,3/2x/2A,,3/2x/2 C,B,,A,,3/2x/2G,,3/2x/2| \
+F,,3/2x/2A,,3/2x/2D,3/2x/2 D,,3/2x/2F,,3/2x/2A,,3/2x/2|
+D,3/2x/2A,,3/2x/2F,,E,, F,,G,,A,,3/2x/2F,,3/2x/2| \
+A,,3/2x/2F,,3/2x/2D,,3/2x/2 F,,E,,D,,3/2x/2F,,3/2x/2| \
+G,,3/2x/2B,,3/2x/2E,,3/2x/2 G,,F,,E,,3/2x/2G,,3/2x/2| \
+A,,3/2x/2=C,3/2x/2F,,3/2x/2 A,,G,,F,,3/2x/2A,,3/2x/2|
+D,,3/2x/2=C,3/2x/2B,,=C, B,,A,,G,,3/2x/2G,F,| \
+G,3/2x/2B,3/2x/2E,D, ^C,D,E, F,G,F,| \
+A,G,F, E,F,3/2x/2 F,,3/2x2x/2F,E,| \
+F,3/2x/2A,3/2x/2^D,C, B,,C,^D, E,F,E,|
+G,F,E, ^D,E,3/2x/2 E,,3/2x2x/2E,3/2x/2| \
+F,3/2x/2^G,3/2x/2A,3/2x/2 A,,3/2x2x/2A,3/2x/2| \
+B,3/2x/2C3/2x/2=D3/2x/2 D,3/2x/2D,3/2x/2D,3/2x/2| \
+D,3/2x/2D,3/2x/2=C3/2x/2 =C,3/2x/2=C,3/2x/2=C,3/2x/2|
+=C,3/2x/2=C,3/2x/2B,3/2x/2 B,,3/2x/2B,,3/2x/2B,,3/2x/2| \
+B,,3/2x/2B,,3/2x/2A,3/2x/2 A,,3/2x/2A,,3/2x/2A,,3/2x/2| \
+A,,3/2x/2A,,3/2x/2^G,3/2x/2 ^G,,3/2x/2^G,,3/2x/2^G,,3/2x/2| \
+^G,,3/2x/2^G,,3/2x/2=G,3/2x/2 G,,3/2x/2G,,3/2x/2G,,3/2x/2|
+G,,3/2x/2G,,3/2x/2F,,3/2x/2 F,E,F,3/2x/2D,3/2x/2| \
+E,3/2x/2F,3/2x/2G,,3/2x/2 G,F,G,3/2x/2E,3/2x/2| \
+F,3/2x/2G,3/2x/2A,,3/2x/2 A,G,A,3/2x/2F,3/2x/2| \
+G,3/2x/2A,3/2x/2B,,3/2x/2 B,A,B,3/2x/2G,3/2x/2|
+A,3/2x/2B,3/2x/2^C,3/2x/2 CB,C3/2x/2A,3/2x/2| \
+B,3/2x/2C3/2x/2D,3/2x/2 DED3/2x/2C3/2x/2| \
+B,3/2x/2A,3/2x/2G,3/2x/2 CDC3/2x/2B,3/2x/2| \
+A,3/2x/2G,3/2x/2F,3/2x/2 B,CB,3/2x/2A,3/2x/2|
+G,3/2x/2F,3/2x/2E,F, G,F,E,3/2x/2D,3/2x/2| \
+C,3/2x/2B,,3/2x/2A,,3/2x/2 B,,3/2x/2C,3/2x/2A,,3/2x/2| \
+D,3/2x/2A,,3/2x/2B,,3/2x/2 A,,G,,F,,3/2x/2G,,3/2x/2| \
+A,,4D,,8-|
+D,,4
+V:16
+% Oboe
+%%MIDI program 68
+x12| \
+x4| \
+x4| \
+x2 
+%     Mass in B Minor          Johann Sebastion Bach  No. 11 Chor, Cum Sancto    seq by David Siu  dss@po.cwru.edu      
+M: 3/4
+L: 1/16
+A3/2x/2|
+d3/2x/2e fef edc BA^G| \
+ABc dc3/2x4x/2A3/2x/2| \
+e3/2x/2f =gf3/2x/2 f3/2x/2a3/2x/2d'3/2x/2| \
+a3/2x/2f3/2x2x/2 d3/2x/2f3/2x/2b3/2x/2|
+f3/2x/2d4<A4Bc| \
+def dB4-B A^GA| \
+Bcd Bc3/2x6x/2| \
+x6 c3/2x/2e3/2x/2a3/2x/2|
+e3/2x/2d cd3/2x6x/2| \
+x6 d3/2x/2^g3/2x/2b3/2x/2| \
+d3/2x/2c Bc4x2AB| \
+cde ca3/2x/2 A3/2x2x/2F^G|
+ABc Ae3/2x/2 c3/2x/2e3/2x/2a3/2x/2| \
+e3/2x/2c3/2x2x/2 B3/2x/2f3/2x/2a3/2x/2| \
+f3/2x/2B3/2x2x/2 ^g4fe| \
+f3 ^g/2a/2^g8-|
+^g4x2 AB/2c/2c3/2x/2AB/2c/2| \
+c3/2x4x/2 cd/2e/2e3/2x/2cd/2e/2| \
+e3/2x/2d cd3/2x/2 DEF ^GAF| \
+BA^G F^GF EF^G ABA|
+cBA ^GA^G F^GA BcB| \
+dcB ABA ^GAB cdc| \
+edc BcB cde3/2x2x/2| \
+x4cB cde3/2x2x/2|
+x4fe f^ga3/2x2x/2| \
+x4a^g ab=c'3/2x2x/2| \
+x4fe f^ga3/2x2x/2| \
+x4ed ef^g3/2x2x/2|
+x4xE F^GA B^cd| \
+ef=g efe dcB A^GA| \
+Bcd Bed cBA ^GF^G| \
+ABc AdE F^GA F^GA|
+Bcd B^Ge dcB A^GF| \
+EF^G EAB cde dfe| \
+dcB cA4x4| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x12| \
+x12| \
+x12|
+x12| \
+x6 f4ed| \
+e3 f/2=g/2f3/2x/2 d3/2x/2f3/2x/2b3/2x/2| \
+f3/2x/2e de3/2x/2 F3/2x/2F3/2x/2F3/2x/2|
+F3/2x/2F3/2x/2F3/2x/2 e3/2x/2^a3/2x/2c'3/2x/2| \
+e3/2x/2d cd3/2x/2 de/2f/2f3/2x/2de/2f/2| \
+f3/2x/2e d^g4x4| \
+x6 c3/2x/2e3/2x/2=a3/2x/2|
+e3/2x/2c3/2x2x/2 A3/2x/2c3/2x/2f3/2x/2| \
+c3/2x/2A4<F4^GA| \
+Bcd B^G4-^G F=F^F| \
+^GAB ^GA3/2x/2 c3/2x/2f3/2x/2a3/2x/2|
+f3/2x/2c3/2x2x/2 f3/2x/2a3/2x/2c'3/2x/2| \
+a3/2x/2f3/2x2x/2 a3/2x/2f3/2x/2^d3/2x/2| \
+f3/2x/2a3/2x2x/2 a3/2x/2f3/2x/2c3/2x/2| \
+f3/2x/2a3/2x2x/2 a3/2x/2f3/2x/2^d3/2x/2|
+f3/2x/2^g3/2x2x/2 ^g3/2x/2=f3/2x/2c3/2x/2| \
+=f3/2x/2^g3/2x2x/2 c3/2x/2A3/2x/2c3/2x/2| \
+^f3/2x/2c3/2x/2A^G ABc3/2x/2A3/2x/2| \
+c3/2x/2A3/2x/2F3/2x/2 A^GF3/2x/2A3/2x/2|
+B3/2x/2=d3/2x/2^G3/2x/2 BA^G3/2x/2B3/2x/2| \
+c3/2x/2e3/2x/2^A3/2x/2 cB^A3/2x/2c3/2x/2| \
+F3/2x/2f3/2x/2e/2d/2e/2d/2 cdB3/2x/2F3/2x/2| \
+D3/2x/2F3/2x/2B^A Bcd cBc|
+dcB cdc Bcd efe| \
+=gfe ded cde fgf| \
+=agf efe ^def ^ga^g| \
+ba^g fe3/2x/2 B3/2x/2e3/2x/2B3/2x/2|
+^GAB3/2x/2B3/2x/2 B3/2x/2e3/2x/2B3/2x/2| \
+^GA2<B2A ^GAB e=de| \
+c4-cA def =gef| \
+d4-dc Bcd cBA|
+B3/2x/2a ^ga4x2e3/2x/2| \
+a3/2x/2e3/2x/2cB cde3/2x/2c3/2x/2| \
+e3/2x/2c3/2x/2A3/2x/2 cBA3/2x/2c3/2x/2| \
+d3/2x/2f3/2x/2B3/2x/2 dcB3/2x/2d3/2x/2|
+e3/2x/2=g3/2x/2c3/2x/2 edc3/2x/2e3/2x/2| \
+A3/2x/2g3/2x/2f3/2x/2 efd3/2x/2A3/2x/2| \
+F3/2x/2A3/2x/2DE DEF EDE| \
+FED EFE DEF GAG|
+BAG FGF EFG ABA| \
+=cBA GAG FGA B=cB| \
+d=cB AGF GAB4-| \
+B6 BAG3/2x/2B3/2x/2|
+^c3/2x/2e3/2x/2AG FGA4-| \
+A6 AGF3/2x/2A3/2x/2| \
+B3/2x/2F3/2x/2GF EFG ABc| \
+dcB ccB ABc def|
+gfe gf3/2x/2 A3/2x/2d3/2x/2f3/2x/2| \
+d3/2x/2A3/2x2x/2 d3/2x/2f3/2x/2a3/2x/2| \
+f3/2x/2d3/2x2x/2 =f3/2x/2d3/2x/2B3/2x/2| \
+d3/2x/2=f3/2x2x/2 =f3/2x/2d3/2x/2A3/2x/2|
+d3/2x/2=f3/2x2x/2 =f3/2x/2d3/2x/2B3/2x/2| \
+d3/2x/2e3/2x2x/2 e3/2x/2c3/2x/2A3/2x/2| \
+c3/2x/2e3/2x/2a3/2x/2 ^FGA B=cB| \
+d=cB ABA GAB ^cdc|
+edc BcB ABc ded| \
+fed cdc Bcd efe| \
+gfe ded cde fgf| \
+agf ef3/2x/2 fef4-|
+f6 ede4-| \
+e6 dcd4-| \
+d4-dc Bcd Bcd| \
+efg eca gfe dcB|
+ABc Ade fga gba| \
+gfe fd8-|d4

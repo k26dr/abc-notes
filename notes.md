@@ -25,19 +25,23 @@ cat nottingham_files/* > nottingham.abc
 2. Execute in Javascript console
 
 ```js
-links = [...document.querySelectorAll('a')]
-    .filter(a => a.textContent == 'abc')
-    .map(a => a.href)
-    .join('\n')
+[...document.querySelectorAll('a')]
+.map(a => a.href)
+.map(a => a.match("bach.+mid"))
+.filter(a => a)
+.map(a => a.input)
+.join('\n')
 ```
 
 3. Copy output to bach_files.txt. The `bach_files.txt` file in the repo contains a couple additional URLs that have been manually aggregated from the internet. 
 
-4. In terminal. There are about 400 files that require to be downloaded with this.
+4. In terminal. There are about 250 files that require to be downloaded with this.
 
 ```bash
-wget -i bach_files.txt -P bach_files
-cat bach_files/* > bach.abc
+mkdir -p bach_files/midi bach_files/abc
+wget -i url_files/bach_files.txt -P bach_files/midi
+
+cat bach_files/abc/* > abc/bach.abc
 ```
 
 5. Replace all the useless crap in the file with these regex

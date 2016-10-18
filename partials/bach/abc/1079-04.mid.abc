@@ -1,0 +1,123 @@
+X: 1
+T: from ./1079-04.mid
+M: 4/4
+L: 1/8
+Q:1/4=130
+K:Eb % 3 flats
+% untitled
+% Canon a 2 Violini all'unisono 
+% Voce 1   
+% Voce 2   
+% Voce 3   
+V:1
+%%MIDI program 40
+x2 
+% untitled
+% Canon a 2 Violini all'unisono 
+% Voce 1   
+% Voce 2   
+% Voce 3   
+g2 c3d/2e/2| \
+d/2c/2=B/2=A/2 GF ED D/2 (3C/2D/2C/2=B,/2| \
+[D/2-C/2]D4-D/2F ED| \
+Dd c=B =B_a gf|
+g4- g=B cA| \
+Ge fd eg af| \
+g3=B cc' d=b| \
+c'C EG c2 x2|
+x2 g2 c3d/2e/2| \
+d/2c/2=B/2=A/2 GF ED D/2 (3C/2D/2C/2=B,/2| \
+[D/2-C/2]D4-D/2F ED| \
+Dd c=B =B_a gf|
+g4- g=B cA| \
+Ge fd eg af| \
+g3=B cc' d=b| \
+c'C EG c2 
+V:2
+% --------------------------------------
+%%MIDI program 40
+x8| \
+x2 
+% untitled
+% Canon a 2 Violini all'unisono 
+% Voce 1   
+% Voce 2   
+% Voce 3   
+g2 c3d/2e/2| \
+d/2c/2=B/2=A/2 GF ED D/2 (3C/2D/2C/2=B,/2| \
+[D/2-C/2]D4-D/2F ED|
+Dd c=B =B_a gf| \
+g4- g=B cA| \
+Ge fd eg af| \
+g3=B cc' d=b|
+c'C EG c2 x2| \
+x2 g2 c3d/2e/2| \
+d/2c/2=B/2=A/2 GF ED D/2 (3C/2D/2C/2=B,/2| \
+[D/2-C/2]D4-D/2F ED|
+Dd c=B =B_a gf| \
+g4- g=B cA| \
+Ge fd eg af| \
+g3=B cc' d=b|
+c'8|
+V:3
+% Johann Sebastian Bach  (1685-1750)
+%%MIDI program 42
+% untitled
+% Canon a 2 Violini all'unisono 
+% Voce 1   
+% Voce 2   
+% Voce 3   
+C,4 E,4| \
+G,4 A,4| \
+=B,,4 x2 G,2| \
+_G,4 F,4|
+=E,4 _E,4-| \
+E,2 D,2 _D,2 C,2| \
+=B,,2 =G,,2 C,2 F,2-| \
+F,2 E,4 =D,2|
+C,4 E,4| \
+G,4 A,4| \
+=B,,4 x2 G,2| \
+_G,4 F,4|
+=E,4 _E,4-| \
+E,2 D,2 _D,2 C,2| \
+=B,,2 =G,,2 C,2 F,2-| \
+F,2 E,4 =D,2|
+C,8|
+V:4
+% A Musical Offering - BWV 1079
+%%MIDI program 6
+% untitled
+% Canon a 2 Violini all'unisono 
+% Voce 1   
+% Voce 2   
+% Voce 3   
+C,4 E,4| \
+G,4 A,4| \
+=B,,4 x2 G,2| \
+_G,4 F,4|
+=E,4 _E,4-| \
+E,2 D,2 _D,2 C,2| \
+=B,,2 =G,,2 C,2 F,2-| \
+F,2 E,4 =D,2|
+C,4 E,4| \
+G,4 A,4| \
+=B,,4 x2 G,2| \
+_G,4 F,4|
+=E,4 _E,4-| \
+E,2 D,2 _D,2 C,2| \
+=B,,2 =G,,2 C,2 F,2-| \
+F,2 E,4 =D,2|
+C,8|
+% --------------------------------------
+% Canones diversi super thema regium. a 2 Violini in unisono
+% --------------------------------------
+% Original sequence by an unknown author
+% Modified with Cakewalk Pro Audio by
+% David J. Grossman - dave@unpronounceable.com
+% This and other Bach MIDI files can be found at:
+% Dave's J.S. Bach Page
+% http://www.unpronounceable.com/bach
+% --------------------------------------
+% Original Filename: 1079-04.mid
+% Last Modified: February 28, 1998

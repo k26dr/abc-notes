@@ -1,0 +1,514 @@
+X: 1
+T: from ./vp3-4min.mid
+M: 3/4
+L: 1/8
+Q:1/4=110
+K:E % 4 sharps
+% untitled
+% I A
+% I A'
+% I B
+% I B'
+% II A
+% II A'
+% II B
+% II B'
+V:1
+% Solo Violin
+%%MIDI program 40
+% untitled
+% I A
+g2g fg2| \
+e2x4| \
+B2c2d2| \
+ede fef|
+g2f2fg/2a/2| \
+gfg abg| \
+e2a2g2| \
+f6|
+% I A'
+g2g fg2| \
+e2x4| \
+B2c2d2| \
+ede fef|
+g2f2fg/2a/2| \
+gfg abg| \
+e2a2g2| \
+f6|
+% I B
+b2b ^ab2| \
+d2e cd2| \
+b2b ^ab2| \
+x6|
+=a2g2f2| \
+e2e fg2| \
+gfa2g2| \
+fef def|
+g2x4| \
+G3 x3| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+g2g fg2| \
+e2x4|
+x6| \
+x6| \
+x6| \
+x4E2|
+A2G2B,2| \
+E6| \
+% I B'
+b2b ^ab2| \
+d2e cd2|
+b2b ^ab2| \
+x6| \
+=a2g2f2| \
+e2e fg2|
+gfa2g2| \
+fef def| \
+g2x4| \
+G3 x3|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+g2g fg2| \
+e2x4| \
+x6| \
+x6|
+x6| \
+x4E2| \
+A2G2B,2| \
+E6|
+% II A
+B6-| \
+B6-| \
+B6| \
+A6|
+x6| \
+x6| \
+x6| \
+x6|
+G2A GFE| \
+FGA4| \
+GEE GGB| \
+^ABc2F2|
+Bdd ffb| \
+cde g^Af| \
+edc BF^A| \
+B,6|
+% II A'
+B6-| \
+B6-| \
+B6| \
+=A6|
+x6| \
+x6| \
+x6| \
+x6|
+G2A GFE| \
+FGA4| \
+GEE GGB| \
+^ABc2F2|
+Bdd ffb| \
+cde g^Af| \
+edc BF^A| \
+B,6|
+% II B
+=A2x4| \
+G2x4| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+d2x4| \
+e2x4| \
+x6| \
+x6|
+g2a gfe| \
+fdb4| \
+x6| \
+x6|
+% II B'
+A2x4| \
+G2x4| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+d2x4| \
+e2x4| \
+x6| \
+x6|
+g2a gfe| \
+fdb4|
+V:2
+% --------------------------------------
+%%MIDI program 40
+% untitled
+% I A
+e2d2B2| \
+c2f de2| \
+G2A2F2| \
+Ex4x|
+e2d2B2| \
+ex4x| \
+c2d2e2| \
+B6|
+% I A'
+e2d2B2| \
+c2f de2| \
+G2A2F2| \
+Ex4x|
+e2d2B2| \
+ex4x| \
+c2d2e2| \
+B6|
+% I B
+d2c2B2| \
+A2x4| \
+G2F2E2| \
+D6|
+D2x4| \
+C2x4| \
+x6| \
+x6|
+x6| \
+x3 edf| \
+GAB c=dE| \
+A,E=d BcA|
+FGA BcA| \
+G,Fc ABG| \
+EFG ABG| \
+AEF A^DF|
+GBc efa| \
+ede dcB| \
+e2d2B2| \
+c2f de2|
+GBE GB=d| \
+A,E=d BcA| \
+Fe^d faE| \
+DBf ag2|
+f2x2d2| \
+e6| \
+% I B'
+d2c2B2| \
+A2x4|
+G2F2E2| \
+D6| \
+D2x4| \
+C2x4|
+x6| \
+x6| \
+x6| \
+x3 edf|
+GAB c=dE| \
+A,E=d BcA| \
+FGA BcA| \
+G,Fc ABG|
+EFG ABG| \
+AEF A^DF| \
+GBc efa| \
+ede dcB|
+e2d2B2| \
+c2f de2| \
+GBE GB=d| \
+A,E=d BcA|
+Fe^d faE| \
+DBf ag2| \
+f2x2d2| \
+e6|
+% II A
+G2A GFE| \
+FGA4| \
+GFA GFE| \
+DEF2B,2|
+EGG BBe| \
+dBB ddf| \
+fga fb2| \
+aga gfe|
+B6-| \
+B6| \
+e6-| \
+e6|
+x6| \
+x6| \
+x6| \
+x6|
+% II A'
+G2A GFE| \
+FGA4| \
+GFA GFE| \
+DEF2B,2|
+EGG BBe| \
+dBB ddf| \
+fga fb2| \
+aga gfe|
+B6-| \
+B6| \
+e6-| \
+e6|
+x6| \
+x6| \
+x6| \
+x6|
+% II B
+d2e dcB| \
+efg abg| \
+f=f^f =fdc| \
+^fga cF2|
+=Fcb ga^f| \
+gc=d B=Fc| \
+bga ^fc=f| \
+^fcF cfg|
+a2b agf| \
+gab =dG=d| \
+cea fge| \
+^dce dcB|
+E2x4| \
+x6| \
+x6| \
+x6|
+% II B'
+d2e dcB| \
+efg abg| \
+f=f^f =fdc| \
+^fga cF2|
+=Fcb ga^f| \
+gc=d B=Fc| \
+bga ^fc=f| \
+^fcF cfg|
+a2b agf| \
+gab =dG=d| \
+cea fge| \
+^dce dcB|
+E2
+V:3
+% Johann Sebastian Bach  (1685-1750)
+%%MIDI program 40
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+% untitled
+% I A
+% I A'
+% I B
+e2d2c2| \
+B6|
+=c2x4| \
+^c2c de2| \
+d2c2=c2| \
+^c2x2A2|
+E2F2G2| \
+C3 x3| \
+x6| \
+x6|
+x6| \
+x6| \
+C2x4| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x4B2|
+c2B2F2| \
+B6| \
+x6| \
+x6|
+% I B'
+e2d2c2| \
+B6| \
+=c2x4| \
+^c2c de2|
+d2c2=c2| \
+^c2x2A2| \
+E2F2G2| \
+C3 x3|
+x6| \
+x6| \
+x6| \
+x6|
+C2x4| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x4B2| \
+c2B2F2| \
+B6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+% II A
+% II A'
+% II B
+B2=d2x2| \
+B2x4| \
+A2x4|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+B2x4| \
+AxA4| \
+GBc AF^d| \
+e6|
+x6| \
+% II B'
+B2=d2x2| \
+B2x4| \
+A2x4|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+B2x4| \
+AxA4| \
+GBc AF^d| \
+e6|
+V:4
+% Six Sonatas and Partitas for Solo Violin
+%%MIDI program 40
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+% untitled
+% I A
+% I A'
+% I B
+G2x4| \
+x6| \
+x4c2|
+c2c2=c2| \
+^c3 x3| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+% I B'
+G2x4|
+x6| \
+x4c2| \
+c2c2=c2| \
+^c3 
+% --------------------------------------
+% Partita No. 3 in E major - BWV 1006
+% 4th Movement: Minuet I/II
+% --------------------------------------
+% Sequenced with Cakewalk Pro Audio by
+% David J. Grossman - dave@unpronounceable.com
+% This and other Bach MIDI files can be found at:
+% Dave's J.S. Bach Page
+% http://www.unpronounceable.com/bach
+% --------------------------------------
+% Original Filename: vp3-4min.mid
+% Last Modified: February 22, 1997

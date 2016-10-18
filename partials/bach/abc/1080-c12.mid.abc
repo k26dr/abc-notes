@@ -1,0 +1,410 @@
+X: 1
+T: from ./1080-c12.mid
+M: 9/16
+L: 1/16
+Q:1/4=100
+K:F % 1 flats
+% untitled
+% :
+% ?
+% ?ornament
+% ?appogiatura
+% ??
+% :
+% :
+V:1
+%%MIDI program 56
+% untitled
+A3 D_D=D EDE| \
+FEF GFG AGA| \
+Bx2 Ax2 Gx2| \
+GF4E F2G|
+% :
+A2g f2A G2e| \
+d2F E2d _d2E| \
+E=D_D =DEF GAB| \
+BAG A=B_d =def|
+fde e_d=d d=Bc| \
+cA_B BGA AFG| \
+G2<F2GA BAG| \
+d2<_d2=de fed|
+a/2_a/2_g/2_a/2=a/2_a/2 =a/2_a/2=a/2_a/2=a/2_a/2 =a/2_a/2=a/2_a/2=a/2_a/2| \
+=a2x3_d =d2e| \
+A=B_d =def =G3-| \
+Ggf ed_d =d3-|
+d=B_d =def efd| \
+_d=de A4_BG| \
+FGE FAd cBA| \
+Bdg _deA BAG|
+FGE F2=d G2F| \
+EAG FED D/2_D/2=D/2_D/2=D/2_D/2| \
+=D2x6x| \
+x8x|
+d3 A_A=A =BA=B| \
+% ?
+c=B_d =d_d=d ede| \
+fx2 ex2 dx2| \
+d_d4A =B2_d|
+=dc=B c2a _a2d| \
+e2g fed _d2_b| \
+=af=d dgc cfB| \
+BAG A_de gfe|
+fe=d edc dc=B| \
+cde def efg| \
+fda _Beg Adf| \
+G_de FAG BA_d|
+=def 
+% ?ornament
+A/2_A/2F/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2F/2_A/2| \
+=A2x3=B c2A| \
+d2f fed cd=B| \
+e3 A3 x3|
+A3 efe ded| \
+cdc =Bc=B A=BA| \
+_Ax2 =Ax2 =Bx2| \
+=Bc4d c2=B|
+AEA cAc e2_A| \
+=A2f G2e F2d| \
+E=Bd c=BA _Adf| \
+edc =B=A_A =AE=B|
+c=BA e4=Bd| \
+dca c=Bg =BAf| \
+A_A=B E2x4| \
+x3 d4cd|
+edc =Bcd e_g_a| \
+=aec d=g=B cfA| \
+=Bed c=BA =BA_A| \
+=A_A_G _AE_A =Bed|
+c=B=A d4c=B| \
+cx2 fx2 ex2| \
+d2_A =A2c _A/2F/2_A/2F/2E/2F/2| \
+E2x6x|
+xDE F=GF E3-| \
+EFG =A_BA GAG| \
+FGF EFE DED| \
+_Dx2 =Dx2 Ex2|
+% ?appogiatura
+F4-FA A/2G/2A/2G/2F| \
+GFE d/2_d/2B/2_d/2=d/2_d/2 =d/2_d/2=d/2_d/2B/2_d/2| \
+=dBg cAf BGe| \
+% ??
+AGe AFd GE_d|
+=dAF DEF EFD| \
+E4FG FGE| \
+Fx2 Ex2 Dx2| \
+_Dx2 =Dx2 Ex2|
+FED BAG _d2x| \
+xG=D _D=DE A,=B,_D| \
+=DG,_B, CF,A, B,E,G,| \
+A,AG Fdc BAB|
+A3 D_D=D EDE| \
+FEF GFG AGA| \
+Bx2 Ax2 Gx2| \
+GF4E F2G|
+% :
+A2g f2A G2e| \
+d2F E2d _d2E| \
+E=D_D =DEF GAB| \
+BAG A=B_d =def|
+fde e_d=d d=Bc| \
+cA_B BGA AFG| \
+G2<F2GA BAG| \
+d2<_d2=de fed|
+a/2_a/2_g/2_a/2=a/2_a/2 =a/2_a/2=a/2_a/2=a/2_a/2 =a/2_a/2=a/2_a/2=a/2_a/2| \
+=a2x3_d =d2e| \
+A=B_d =def =G3-| \
+Ggf ed_d =d3-|
+d=B_d =def efd| \
+_d=de A4_BG| \
+FGE FAd cBA| \
+Bdg _deA BAG|
+FGE F2=d G2F| \
+EAG FED D/2_D/2=D/2_D/2=D/2_D/2| \
+=D2x6x| \
+x8x|
+d3 A_A=A =BA=B| \
+c=B_d =d_d=d ede| \
+fx2 ex2 dx2| \
+d_d4A =B2_d|
+=dc=B c2a _a2d| \
+e2g fed _d2_b| \
+=af=d dgc cfB| \
+BAG A_de gfe|
+fe=d edc dc=B| \
+cde def efg| \
+fda _Beg Adf| \
+G_de FAG BA_d|
+=def A/2_A/2F/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2F/2_A/2| \
+=A2x3=B c2A| \
+d2f fed cd=B| \
+e3 A3 x3|
+A3 efe ded| \
+cdc =Bc=B A=BA| \
+_Ax2 =Ax2 =Bx2| \
+=Bc4d c2=B|
+AEA cAc e2_A| \
+=A2f G2e F2d| \
+E=Bd c=BA _Adf| \
+edc =B=A_A =AE=B|
+c=BA e4=Bd| \
+dca c=Bg =BAf| \
+A_A=B E2x4| \
+x3 d4cd|
+edc =Bcd e_g_a| \
+=aec d=g=B cfA| \
+=Bed c=BA =BA_A| \
+=A_A_G _AE_A =Bed|
+c=B=A d4c=B| \
+cx2 fx2 ex2| \
+d2_A =A2c _A/2F/2_A/2F/2E/2F/2| \
+E2x6x|
+xDE F=GF E3-| \
+EFG =A_BA GAG| \
+FGF EFE DED| \
+_Dx2 =Dx2 Ex2|
+F4-FA A/2G/2A/2G/2F| \
+GFE d/2_d/2B/2_d/2=d/2_d/2 =d/2_d/2=d/2_d/2B/2_d/2| \
+=dBg cAf BGe| \
+AGe AFd GE_d|
+=dAF DEF EFD| \
+E4FG FGE| \
+Fx2 Ex2 Dx2| \
+_Dx2 =Dx2 Ex2|
+FED BAG _d2x| \
+xG=D _D=DE A,=B,_D| \
+=DG,_B, CF,A, B,E,G,| \
+A,AG Fdc BAB|
+A3 D_D=D EDE| \
+FEF GFG AGA| \
+Bx2 Ax2 Gx2| \
+GF4E F2G|
+% :
+A2g f2A G2e| \
+d2F E2d _d2E| \
+E=D_D =DEF GAB| \
+BAG A=B_d =def|
+fde e_d=d d=Bc| \
+cA_B BGA AFG| \
+G2<F2GA BAG| \
+d2<_d2=de fed|
+a/2_a/2_g/2_a/2=a/2_a/2 =a/2_a/2=a/2_a/2=a/2_a/2 =a/2_a/2=a/2_a/2=a/2_a/2| \
+=a2x3_d =d2e| \
+A=B_d =def =G3-| \
+Ggf ed_d =d3-|
+d=B_d =def efd| \
+_d=de A4_BG| \
+FGE FAd cBA| \
+Bdg _deA BAG|
+FGE F2=d G2F| \
+EAG FED D/2_D/2=D/2_D/2=D/2_D/2| \
+=D2x3B A2f| \
+GAB A_de gfe|
+a2_d =def B_ed| \
+_d=d=e A2x A,,2x| \
+D,,6 
+V:2
+% --------------------------------------
+%%MIDI program 56
+x8x| \
+x8x| \
+x8x| \
+x8x|
+% untitled
+% :
+A,3 D,_D,=D, E,D,E,| \
+F,E,F, G,F,G, A,G,A,| \
+B,x2 A,x2 G,x2| \
+G,F,4E, F,2G,|
+A,2G F2A, G,2E| \
+D2F, E,2D _D2E,| \
+E,=D,_D, =D,E,F, G,A,B,| \
+B,A,G, A,=B,_D =DEF|
+FDE E_D=D D=B,C| \
+CA,_B, B,G,A, A,F,G,| \
+G,2<F,2G,A, B,A,G,| \
+D2<_D2=DE FED|
+A/2_A/2_G/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2=A/2_A/2| \
+=A2x3_D =D2E| \
+A,=B,_D =DEF =G,3-| \
+G,GF ED_D =D3-|
+D=B,_D =DEF EFD| \
+_D=DE A,4_B,G,| \
+F,G,E, F,A,D CB,A,| \
+B,DG _DEA, B,A,G,|
+F,G,E, F,2=D G,2F,| \
+% ?
+E,A,G, F,E,D, D,/2_D,/2=D,/2_D,/2=D,/2_D,/2| \
+=D,2x6x| \
+x8x|
+D3 A,_A,=A, =B,A,=B,| \
+C=B,_D =D_D=D EDE| \
+Fx2 Ex2 Dx2| \
+D_D4A, =B,2_D|
+=DC=B, C2A _A2D| \
+E2G FED _D2_B| \
+=AF=D DGC CFB,| \
+B,A,G, A,_DE GFE|
+FE=D 
+% ?ornament
+EDC DC=B,| \
+CDE DEF EFG| \
+FDA _B,EG A,DF| \
+G,_DE F,A,G, B,A,_D|
+=DEF A,/2_A,/2F,/2_A,/2=A,/2_A,/2 =A,/2_A,/2=A,/2_A,/2F,/2_A,/2| \
+=A,2x3=B, C2A,| \
+D2F FED CD=B,| \
+E3 A,3 x3|
+A,3 EFE DED| \
+CDC =B,C=B, A,=B,A,| \
+_A,x2 =A,x2 =B,x2| \
+=B,C4D C2=B,|
+A,E,A, CA,C E2_A,| \
+=A,2F G,2E F,2D| \
+E,=B,D C=B,A, _A,DF| \
+EDC =B,=A,_A, =A,E,=B,|
+C=B,A, E4=B,D| \
+DCA C=B,G =B,A,F| \
+A,_A,=B, E,2x4| \
+x3 D4CD|
+EDC =B,CD E_G_A| \
+=AEC D=G=B, CFA,| \
+=B,ED C=B,A, =B,A,_A,| \
+=A,_A,_G, _A,E,_A, =B,ED|
+C=B,=A, D4C=B,| \
+Cx2 Fx2 Ex2| \
+D2_A, =A,2C _A,/2F,/2_A,/2F,/2E,/2F,/2| \
+E,2x6x|
+x
+% ?appogiatura
+D,E, F,=G,F, E,3-| \
+E,F,G, =A,_B,A, G,A,G,| \
+F,G,F, E,F,E, D,E,D,| \
+% ??
+_D,x2 =D,x2 E,x2|
+F,4-F,A, A,/2G,/2A,/2G,/2F,| \
+G,F,E, D/2_D/2B,/2_D/2=D/2_D/2 =D/2_D/2=D/2_D/2B,/2_D/2| \
+=DB,G CA,F B,G,E| \
+A,G,E A,F,D G,E,_D|
+=DA,F, D,E,F, E,F,D,| \
+E,4F,G, F,G,E,| \
+F,x2 E,x2 D,x2| \
+_D,x2 =D,x2 E,x2|
+F,E,D, B,A,G, _D2x| \
+xG,=D, _D,=D,E, A,,=B,,_D,| \
+=D,G,,_B,, C,F,,A,, B,,E,,G,,| \
+A,,A,G, F,DC B,A,B,|
+% :
+A,3 D,_D,=D, E,D,E,| \
+F,E,F, G,F,G, A,G,A,| \
+B,x2 A,x2 G,x2| \
+G,F,4E, F,2G,|
+A,2G F2A, G,2E| \
+D2F, E,2D _D2E,| \
+E,=D,_D, =D,E,F, G,A,B,| \
+B,A,G, A,=B,_D =DEF|
+FDE E_D=D D=B,C| \
+CA,_B, B,G,A, A,F,G,| \
+G,2<F,2G,A, B,A,G,| \
+D2<_D2=DE FED|
+A/2_A/2_G/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2=A/2_A/2| \
+=A2x3_D =D2E| \
+A,=B,_D =DEF =G,3-| \
+G,GF ED_D =D3-|
+D=B,_D =DEF EFD| \
+_D=DE A,4_B,G,| \
+F,G,E, F,A,D CB,A,| \
+B,DG _DEA, B,A,G,|
+F,G,E, F,2=D G,2F,| \
+E,A,G, F,E,D, D,/2_D,/2=D,/2_D,/2=D,/2_D,/2| \
+=D,2x6x| \
+x8x|
+D3 A,_A,=A, =B,A,=B,| \
+C=B,_D =D_D=D EDE| \
+Fx2 Ex2 Dx2| \
+D_D4A, =B,2_D|
+=DC=B, C2A _A2D| \
+E2G FED _D2_B| \
+=AF=D DGC CFB,| \
+B,A,G, A,_DE GFE|
+FE=D EDC DC=B,| \
+CDE DEF EFG| \
+FDA _B,EG A,DF| \
+G,_DE F,A,G, B,A,_D|
+=DEF A,/2_A,/2F,/2_A,/2=A,/2_A,/2 =A,/2_A,/2=A,/2_A,/2F,/2_A,/2| \
+=A,2x3=B, C2A,| \
+D2F FED CD=B,| \
+E3 A,3 x3|
+A,3 EFE DED| \
+CDC =B,C=B, A,=B,A,| \
+_A,x2 =A,x2 =B,x2| \
+=B,C4D C2=B,|
+A,E,A, CA,C E2_A,| \
+=A,2F G,2E F,2D| \
+E,=B,D C=B,A, _A,DF| \
+EDC =B,=A,_A, =A,E,=B,|
+C=B,A, E4=B,D| \
+DCA C=B,G =B,A,F| \
+A,_A,=B, E,2x4| \
+x3 D4CD|
+EDC =B,CD E_G_A| \
+=AEC D=G=B, CFA,| \
+=B,ED C=B,A, =B,A,_A,| \
+=A,_A,_G, _A,E,_A, =B,ED|
+C=B,=A, D4C=B,| \
+Cx2 Fx2 Ex2| \
+D2_A, =A,2C _A,/2F,/2_A,/2F,/2E,/2F,/2| \
+E,2x6x|
+xD,E, F,=G,F, E,3-| \
+E,F,G, =A,_B,A, G,A,G,| \
+F,G,F, E,F,E, D,E,D,| \
+_D,x2 =D,x2 E,x2|
+F,4-F,A, A,/2G,/2A,/2G,/2F,| \
+G,F,E, D/2_D/2B,/2_D/2=D/2_D/2 =D/2_D/2=D/2_D/2B,/2_D/2| \
+=DB,G CA,F B,G,E| \
+A,G,E A,F,D G,E,_D|
+=DA,F, D,E,F, E,F,D,| \
+E,4F,G, F,G,E,| \
+F,x2 E,x2 D,x2| \
+_D,x2 =D,x2 E,x2|
+F,E,D, B,A,G, _D2x| \
+xG,=D, _D,=D,E, A,,=B,,_D,| \
+=D,G,,_B,, C,F,,A,, B,,E,,G,,| \
+A,,A,G, F,DC B,A,B,|
+% :
+A,3 D,_D,=D, E,D,E,| \
+F,E,F, G,F,G, A,G,A,| \
+B,x2 A,x2 G,x2| \
+G,F,4E, F,2G,|
+A,2G F2A, G,2E| \
+D2F, E,2D _D2E,| \
+E,=D,_D, =D,E,F, G,A,B,| \
+B,A,G, A,=B,_D =DEF|
+FDE E_D=D D=B,C| \
+CA,_B, B,G,A, A,F,G,| \
+G,2<F,2G,A, B,A,G,| \
+D2<_D2=DE FED|
+A/2_A/2_G/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2=A/2_A/2 =A/2_A/2=A/2_A/2=A/2_A/2| \
+=A2x3_D =D2E| \
+A,=B,_D =DEF =G,3-| \
+G,GF ED_D =D3-|
+D=B,_D =DEF EFD| \
+_D=DE A,4_B,G,| \
+F,G,E, F,A,D CB,A,| \
+B,DG _DEA, B,A,G,|
+F,G,E, F,2=D G,2F,| \
+E,A,G, F,E,D, D,/2_D,/2=D,/2_D,/2=D,/2_D,/2| \
+=D,6 
+% Johann Sebastian Bach  (1685-1750)
+% The Art of Fugue - BWV 1080
+% --------------------------------------
+% Contrapunctus XII - Canon alla Ottava
+% --------------------------------------
+% Original sequence by an unknown author
+% Modified with Cakewalk Pro Audio by
+% David J. Grossman - dave@unpronounceable.com
+% This and other Bach MIDI files can be found at:
+% Dave's J.S. Bach Page
+% http://www.unpronounceable.com/bach
+% --------------------------------------
+% Original Filename: 1080-c12.mid
+% Last Modified: February 28, 1998

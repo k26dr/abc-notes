@@ -1,0 +1,2697 @@
+X: 1
+T: from ./bjsbmm20.mid
+M: 3/8
+L: 1/16
+Q:1/4=96
+K:D % 2 sharps
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+V:1
+% Trumpet II and III
+%%MIDI program 56
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+[fD] d[eA]c| \
+[dA]x[ad] x[fA]x| \
+[eA]d[ee] f[eA]g|
+[fA]d[eA] f[ee]g| \
+[fd]x[gd] x[ae]x| \
+[af][ge][af] x3| \
+x6|
+x4[eA]x| \
+[dF]x[eA] x[fD]x| \
+[eA]x[AA] x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4[DD]x| \
+[AA]x[AA] [AA][AA][AA]|
+[dd]x[AA] x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4[DD]x| \
+[AA]x[AA] [AA][AA][AA]|
+[dd]x[AA] x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4Ax| \
+dxF xAx| \
+dcd ecd| \
+exA xdx|
+ede f[dA]e| \
+[f-D]f-[f-F] f-[f-A]f-| \
+[f-D]f4-f-| \
+f6-|
+f6| \
+f/2e/2f/2e/2f/2e/2 f/2e/2f/2e/2f/2e/2| \
+f/2e/2f/2e/2f/2e/2 f/2e/2f/2e/2f/2e/2| \
+[f/2A/2-][e/2A/2]f/2e/2[f/2A/2-][e/2A/2] [f/2A/2-][e/2A/2][f/2A/2-][e/2A/2][f/2A/2-][e/2A/2]|
+[f/2A/2-][e/2A/2]f/2e/2f/2e/2 f/2e/2f/2e/2f/2e/2| \
+dx[dA] c[dA]x| \
+[dA]x4x| \
+x6|
+x6| \
+x2[eA] d[eA]x| \
+[eA]x4x| \
+x6|
+x4[dA]x| \
+[dD]x3ex| \
+ex3[fF]x| \
+[dF]x[ed] f[gA]a|
+[fA-]A3x2| \
+x6| \
+x6| \
+x6|
+x4[fA]x| \
+[eA]d[ee] f[eA]g| \
+[fA]d[eA] f[ee]g| \
+[fd]x[gd] x[ae]x|
+[af][ge][af] x3| \
+x6| \
+x4[eA]x| \
+[fF]x[gD] [fF][eA]f|
+[d3-A3-] [d/2A/2]x2x/2| \
+x6| \
+x6| \
+x6|
+x4[eA]x| \
+[dA]x[AF] x[dA]x| \
+[fd]x[ge] x[fd]x| \
+[dF]f[eA] g[fA]a|
+[c'A-][aA-][eA-] AAx| \
+dxF xAx| \
+dcd eAd| \
+exA xdx|
+ede f[dA]e| \
+[f/2d/2-][g/2d/2]f/2g/2[f/2F/2-][g/2F/2] f/2g/2[f/2A/2-][g/2A/2]f/2g/2| \
+[f/2D/2-][g/2D/2]f/2g/2f/2g/2 f/2g/2f/2g/2f/2g/2| \
+f/2g/2f/2g/2f/2g/2 f/2g/2f/2g/2f/2g/2|
+f/2g/2f/2g/2f/2g/2 f/2g/2f/2g/2f/2g/2| \
+e/2f/2e/2f/2e/2f/2 e/2f/2e/2f/2e/2f/2| \
+e/2f/2e/2f/2e/2f/2 e/2f/2e/2f/2e/2f/2| \
+[e/2A/2-][f/2A/2]e/2f/2[e/2A/2-][f/2A/2] [e/2A/2-][f/2A/2][e/2A/2-][f/2A/2][e/2A/2-][f/2A/2]|
+[e/2A/2-][f/2A/2]e/2f/2e/2f/2 e/2f/2e/2f/2e/2f/2| \
+dx[dA] c[dA]x| \
+[dA]x4x| \
+x6|
+x6| \
+x2[eA] d[eA]x| \
+[eA]x4x| \
+x6|
+x4[dA]x| \
+[dD]x3ex| \
+ex3[fF]x| \
+[dF]x[ed] f[gA]a|
+[f6A6]|
+V:2
+% Trumpet I
+%%MIDI program 56
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+a fge| \
+fxd xax| \
+a6-|
+a6-| \
+axb xc'x| \
+d'c'd' x3| \
+x6|
+x4ax| \
+axa gab| \
+c'xA x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Dx| \
+AxA AAA|
+dxA x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Ax| \
+exe eee|
+axe x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Dx| \
+AxA AAA|
+dxA x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4ax| \
+fed feg| \
+fef gef| \
+gfe gfa|
+gfg afg| \
+a6-| \
+a6-| \
+a6-|
+a6| \
+a/2g/2a/2g/2a/2g/2 a/2g/2a/2g/2a/2g/2| \
+a/2g/2a/2g/2a/2g/2 a/2g/2a/2g/2a/2g/2| \
+a/2g/2a/2g/2a/2g/2 a/2g/2a/2g/2a/2g/2|
+a/2g/2a/2g/2a/2g/2 a/2g/2a/2g/2a/2g/2| \
+fxf efx| \
+fx4x| \
+x6|
+x6| \
+x2g fgx| \
+gx4x| \
+x6|
+x4f2-| \
+fxe xg2-| \
+gxf xax| \
+fxg fef|
+d4x2| \
+x6| \
+x6| \
+x6|
+x4ax| \
+a/2b/2a/2b/2a/2b/2 a/2b/2a/2b/2a/2b/2| \
+a/2b/2a/2b/2a/2b/2 a/2b/2a/2b/2a/2b/2| \
+axb xc'x|
+d'c'd' x3| \
+x6| \
+x4ax| \
+axb aga|
+f3- f/2x2x/2| \
+x6| \
+x6| \
+x6|
+x4ax| \
+fxd efg| \
+a6-| \
+axc' xd'x|
+e'xa xex| \
+fed feg| \
+fef gef| \
+gfe gfa|
+gfg afg| \
+a/2b/2a/2b/2a/2b/2 a/2b/2a/2b/2a/2b/2| \
+a/2b/2a/2b/2a/2b/2 a/2b/2a/2b/2a/2b/2| \
+a/2b/2a/2b/2a/2b/2 a/2b/2a/2b/2a/2b/2|
+a/2b/2a/2b/2a/2b/2 a/2b/2a/2b/2a/2b/2| \
+g/2a/2g/2a/2g/2a/2 g/2a/2g/2a/2g/2a/2| \
+g/2a/2g/2a/2g/2a/2 g/2a/2g/2a/2g/2a/2| \
+g/2a/2g/2a/2g/2a/2 g/2a/2g/2a/2g/2a/2|
+g/2a/2g/2a/2g/2a/2 g/2a/2g/2a/2g/2a/2| \
+fxf efx| \
+fx4x| \
+x6|
+x6| \
+x2g fgx| \
+gx4x| \
+x6|
+x4f2-| \
+fxe xg2-| \
+gxf xax| \
+fxg fef|
+d6|
+V:3
+% Timpani
+%%MIDI program 47
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+D, xA,,x| \
+D,xD, D,D,D,| \
+A,,xA,, xA,,x|
+D,xA,, A,,A,,A,,| \
+D,xD, xA,,x| \
+D,xD, x3| \
+x6|
+x4A,,x| \
+D,xA,, xD,x| \
+A,,xA,, x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+A,,xA,, A,,A,,A,,|
+D,xA,, x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+A,,xA,, A,,A,,A,,|
+D,xA,, x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4A,,x| \
+D,xD, D,D,D,| \
+D,x4x| \
+x6|
+x6| \
+x6| \
+x6| \
+A,,xA,, A,,A,,A,,|
+A,,x4x| \
+x2D, xA,,x| \
+D,x4x| \
+x6|
+x6| \
+x2A,, xA,,x| \
+A,,x4x| \
+x6|
+x4D,x| \
+D,x4x| \
+x4A,,x| \
+D,xD, xA,,x|
+D,4x2| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+A,,xA,, xA,,x| \
+D,xA,, A,,A,,A,,| \
+D,xD, xA,,x|
+D,xD, x3| \
+x6| \
+x4A,,x| \
+D,xD, xA,,x|
+D,3- D,/2x2x/2| \
+x6| \
+x6| \
+x6|
+x4A,,x| \
+D,xD, D,D,D,| \
+D,xA,, xD,x| \
+D,xA,, xD,x|
+A,,4x2| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+D,xD, D,D,D,| \
+D,x4x| \
+x6|
+x6| \
+x6| \
+x6| \
+A,,xA,, A,,A,,A,,|
+A,,x4x| \
+x2D, xA,,x| \
+D,x4x| \
+x6|
+x6| \
+x2A,, xA,,x| \
+A,,x4x| \
+x6|
+x4D,x| \
+D,x4x| \
+x4A,,x| \
+D,xD, xA,,x|
+D,6|
+V:4
+% Flute
+%%MIDI program 73
+x6| \
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+[af] [fd][ge][ec]| \
+[fd]e[dA] [fd][ec][ge]|
+[fd][ge][af] x[f/2c/2-][e/2c/2]f/2e/2| \
+[dA]x[d'F] x[ac]x| \
+[aA][gg][ff] [ee][dd][ff]| \
+[ee][dd][cc] [BB][cc][AA]|
+[ff][gg][aa] x[cc]x| \
+[dd]x[cc] [BB][AA][GG]| \
+[FF]x[DD] x3| \
+x6|
+x4[AA]x| \
+[aa]x[gg] x[ff]x| \
+[ee]x[aa] x3| \
+x2[d'a] x[c'a]x|
+[d'a]x4x| \
+x6| \
+x2[e'g] x[d'b]x| \
+[c'a]x4x|
+x6| \
+x2[fd] x[e^A]x| \
+[dF]x4x| \
+x4[dd]x|
+[=aa]x[aa] x[aa]x| \
+[d'd']x[aa] [ff][gg][ee]| \
+[ff][ee][ff] [gg][a2-a2-]| \
+[aa][bb][aa] [gg][aa][ee]|
+[ff][gg][aa] [gg][ff][ee]| \
+[dd][ee][cc] [dd][ee][cc]| \
+[dd][cc][dd] [ee][f2-f2-]| \
+[ff][gg][ff] [ee][ff][cc]|
+[dd][cc][BB] [cc][dd][ff]| \
+[ee][gg][ff] [ee][ff][aa]| \
+[gg][aa][bb] [=c'=c'][d'2-d'2-]| \
+[d'd']x[dd] [=c=c][d2-d2-]|
+[dd][ee][ff] [gg][aa][ff]| \
+[gg][ee][=c'=c'] x[^d^d]x| \
+[ee][=dd][ee] [ff][gg][ee]| \
+[aa]x[ge] x[ge]x|
+[ge]x4x| \
+x6| \
+x2[fd] x[bf]x| \
+[^ge]x4x|
+x6| \
+x2[^c'a] x[b=f]x| \
+[ac]x4x| \
+x4[AA]x|
+[ee]x[ee] [ee][ee][ee]| \
+[aa]x[ee] [cc][dd][BB]| \
+[cc][BB][cc] [dd][e2-e2-]| \
+[ee][^ff][ee] [dd][ee][BB]|
+[cc][dd][ee] [dd][cc][BB]| \
+[AA][BB][^G^G] [AA][BB][^G^G]| \
+[AA][^G^G][AA] [BB][c2-c2-]| \
+[cc][dd][cc] [BB][cc][^G^G]|
+[AA][^G^G][FF] [^G^G][AA][cc]| \
+[BB][dd][cc] [BB][cc][ee]| \
+[dd][ee][ff] [=gg][a2-a2-]| \
+[aa]x[AA] [^G^G][A2-A2-]|
+[AA][BB][cc] [dd][ee][cc]| \
+[dd][BB][=gg] x[cc]x| \
+[BB]x[FF] x3| \
+x2[gB] [eG][fA][^dF]|
+[eG]x4x| \
+x2[c'e] [ac][b=d][^gB]| \
+[ac]x4x| \
+x2[fA] [dF][e=G][cE]|
+[dF]x4x| \
+x2[bd] [gB][a=c][fA]| \
+[gB]x4x| \
+x2[eG] [^cE][dF][BD]|
+[cE]x4x| \
+x2[^ac] [f^A][^gB][=f^G]| \
+[^f^A]x4x| \
+x2[d'f] [bd][c'e][^ac]|
+[bd]x4x| \
+x2[^gB] [e^G][f=A][^dF]| \
+[e^G]x3[ee]x| \
+[cc][BB][AA] [cc][BB][=dd]|
+[cc][BB][cc] [dd][BB][cc]| \
+[dd]x[AA] [dd][cc][ee]| \
+[dd]x3[aA]x| \
+[=ge]x3[fd]x|
+[ec]x3[aa]x| \
+[aa]x[aa] x[aa]x| \
+[d'd']x[aa] [ff][gg][ee]| \
+[ff]x[ff] x[ff]x|
+[=c'=c']x[bb] [gg][aa][ff]| \
+[gg]x[ee] x[ee]x| \
+[e'e']x[d'd'] [^c'c'][d'd'][bb]| \
+[c'c']x[AA] x[AA]x|
+[aa]x[gg] [ff][gg][ee]| \
+[ff][ee][ff] [gg][aa][ff]| \
+[dd][cc][dd] [ee][ff][dd]| \
+[BB]x[bb] x[aa]x|
+[gg][ff][e4-e4-]| \
+[ee][dd][ee] [ff][gg][ee]| \
+[cc][BB][cc] [dd][ee][cc]| \
+[AA]x[aa] x[gg]x|
+[ff][ee][dd] x[=c2-=c2-]| \
+[=c=c][BB][ee] [^cc][dd][BB]| \
+[cc][AA][ff] [dd][ee][cc]| \
+[dd]x[ee] x[cc]x|
+[d4d4]x2| \
+x6| \
+x6| \
+x6|
+x4[dd]x| \
+[ee][dd][cc] [BB][cc][AA]| \
+[ff][gg][aa] x[cc]x| \
+[dd]x[cc] [BB][AA][GG]|
+[FF]x[DD] x3| \
+x6| \
+x4[aa]x| \
+[ff]x[dd] x[cc]x|
+[d3-d3-] [d/2d/2]x/2[dd]x| \
+[aa]x[aa] x[aa]x| \
+[d'd']x[aa] [ff][gg][ee]| \
+[ff]x[ff] x[ff]x|
+[aa]x[ff] [dd][ee][cc]| \
+[dd]x[dd] x[dd]x| \
+[dd][ff][ee] [cc][dd][ee]| \
+[ff][aa][gg] [ee][ff][dd]|
+[AA]x3[ge]x| \
+[fd]x3[ec]x| \
+[dd]x3[aA]x| \
+[ge]x3[fd]x|
+[ec]x3[dd]x| \
+[aa]x[aa] x[aa]x| \
+[d'd']x[aa] [ff][gg][ee]| \
+[ff]x[ff] x[ff]x|
+[=c'=c']x[bb] [gg][aa][ff]| \
+[gg]x[ee] x[ee]x| \
+[e'e']x[d'd'] [^c'c'][d'd'][bb]| \
+[c'c']x[AA] x[AA]x|
+[aa]x[gg] [ff][gg][ee]| \
+[ff][ee][ff] [gg][aa][ff]| \
+[dd][cc][dd] [ee][ff][dd]| \
+[BB]x[bb] x[aa]x|
+[gg][ff][e4-e4-]| \
+[ee][dd][ee] [ff][gg][ee]| \
+[cc][BB][cc] [dd][ee][cc]| \
+[AA]x[aa] x[gg]x|
+[ff][ee][dd] x[=c2-=c2-]| \
+[=c=c][BB][ee] [^cc][dd][BB]| \
+[cc][AA][ff] [dd][ee][cc]| \
+[dd]x[ee] x[cc]x|
+[d6d6]|
+V:5
+% Bassoon
+%%MIDI program 70
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+A, F,G,E,| \
+F,xD, xA,x| \
+DxF, xA,x|
+D,xF,, xA,,x| \
+D,xF,, xA,,x| \
+D,,xD, E,F,D,| \
+A,xA, xA,x|
+DxA, F,G,E,| \
+F,xG, xA,x| \
+D,xD,, E,,F,,D,,| \
+G,,xG, F,^G,E,|
+A,xA,, F,,=G,,E,,| \
+F,,xE,, xD,,x| \
+A,,xA, B,CA,| \
+DxF, xA,x|
+D,xD x=Cx| \
+B,xB,, xD,x| \
+G,,xG, xE,x| \
+A,xA, xA,x|
+A,xG, xF,x| \
+B,xD, xF,x| \
+B,,A,,B,, ^C,A,,B,,| \
+C,B,,A,, C,B,,D,|
+C,B,,C, D,B,,C,| \
+D,xF,, xA,,x| \
+D,,C,,D,, E,,F,,G,,| \
+A,,G,,A,, B,,C,A,,|
+D,xA,, x^A,,x| \
+B,,xE,, xF,,x| \
+B,,^A,,B,, C,D,E,| \
+F,E,F, ^G,^A,F,|
+B,xB,, xB,,x| \
+B,,x=A,, xD,,x| \
+=G,,F,,G,, A,,B,,=C,| \
+D,=C,D, E,F,D,|
+G,xD, x^D,x| \
+E,xA,, xB,,x| \
+E,F,E, =D,^C,B,,| \
+A,,xC, xE,x|
+A,xA,, xG,,x| \
+F,,xF, xA,x| \
+DxD, xB,,x| \
+E,xE, xE,x|
+E,xD, xC,x| \
+F,xA,, xC,x| \
+F,E,F, ^G,E,F,| \
+^G,F,E, ^G,F,A,|
+^G,F,^G, A,F,^G,| \
+A,xC, xE,x| \
+A,,^G,,A,, B,,C,D,| \
+E,D,E, F,^G,E,|
+A,xE, x=F,x| \
+^F,xB,, xC,x| \
+F,,=F,,^F,, ^G,,A,,B,,| \
+C,B,,C, ^D,=F,C,|
+^F,xF,, xF,2-| \
+F,xE, xA,,x| \
+=D,C,D, E,F,=G,| \
+A,G,A, B,CA,|
+DxA, x^A,x| \
+B,xE, xF,x| \
+B,,^A,,B,, C,D,B,,| \
+E,xG, xB,x|
+E,xG, xE,x| \
+=A,xC, xE,x| \
+A,,xC, xA,,x| \
+D,xF, xA,x|
+D,xF, xD,x| \
+G,xB,, xD,x| \
+G,,xB,, xG,,x| \
+C,xE, xG,x|
+C,xE, xC,x| \
+F,,x^A,, xC,x| \
+F,,x^A,, xF,,x| \
+B,,xD, xF,x|
+B,,xD, xB,,x| \
+E,x^G,, xB,,x| \
+E,,x^G,, xE,,x| \
+=A,,6-|
+A,,xA, =G,F,E,| \
+D,6-| \
+D,xF, xA,x| \
+C,4D,2-|
+D,xC, xA,x| \
+DxA, F,G,E,| \
+F,xD, xA,x| \
+=CxF, ^D,E,^C,|
+^D,x^D xB,x| \
+ExB, G,A,F,| \
+G,xE, xG,x| \
+A,xE, C,=D,B,,|
+C,xA,, xC,x| \
+D,xD xCx| \
+B,xB,, xA,,x| \
+G,,xG, xF,x|
+E,xE,, xD,,x| \
+C,,xC, xB,,x| \
+A,,xA, xG,x| \
+F,xF,, xE,,x|
+D,,xF, xD,x| \
+G,,xG, xE,x| \
+A,,xA, xF,x| \
+B,,xG,, xA,,x|
+D,,xD, E,F,D,| \
+A,x3A,,x| \
+B,,x3B,x| \
+G,x3E,x|
+C,xA,, xD,x| \
+A,xA, xA,x| \
+DxA, F,G,E,| \
+F,xG, xA,x|
+D,xD,, E,,F,,D,,| \
+G,,xG, F,^G,E,| \
+A,xA,, B,,C,A,,| \
+D,xF,, xA,,x|
+D,,3- D,,/2x/2D,x| \
+A,xA, xA,x| \
+DxA, F,=G,E,| \
+F,xF, xF,x|
+A,xF, D,E,C,| \
+D,xD, xD,x| \
+D,F,E, C,D,E,| \
+F,A,G, E,F,D,|
+A,,x4x| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+DxA, F,G,E,| \
+F,xD, xA,x| \
+=CxF, ^D,E,^C,|
+^D,x^D xB,x| \
+ExB, G,A,F,| \
+G,xE, xG,x| \
+A,xE, C,=D,B,,|
+C,xA,, xC,x| \
+D,xD xCx| \
+B,xB,, xA,,x| \
+G,,xG, xF,x|
+E,xE,, xD,,x| \
+C,,xC, xB,,x| \
+A,,xA, xG,x| \
+F,xF,, xE,,x|
+D,,xF,, xD,,x| \
+G,,xG, xE,x| \
+A,,xA, xF,x| \
+B,,xG,, xA,,x|
+D,,6|
+V:6
+% Violin I
+%%MIDI program 48
+x6| \
+x6| \
+x6| \
+x6|
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+a fge| \
+fed feg| \
+fga xdx| \
+cxe dec|
+dxc dec| \
+dxc BAG| \
+FxD x3| \
+x6|
+x4Ax| \
+axg xfx| \
+exc x3| \
+x6|
+x6| \
+x2d x=cx| \
+Bx4x| \
+x6|
+x2e xfx| \
+dx4x| \
+x6| \
+x2A xdx|
+axa xax| \
+d'xa fge| \
+fgf ede| \
+fba gae|
+fde xfx| \
+dxe de^c| \
+dxB x3| \
+x6|
+x4dx| \
+exg/2f/2 g/2f/2g/2f/2e/2f/2| \
+g4x2| \
+x6|
+x4Bx| \
+GxF GAF| \
+G6-| \
+G6-|
+GxE xAx| \
+dxA xGx| \
+Fx4x| \
+x6|
+x2B xcx| \
+Ax4x| \
+x6| \
+x2E xAx|
+exe eee| \
+axe cdB| \
+cxe xc2-| \
+cxB xex|
+d/2c/2d/2c/2B xcx| \
+AxB x^Gx| \
+A6-| \
+Ax^G xcx|
+AxF x3| \
+x6| \
+x4d2-| \
+dxc dec|
+dxc x3| \
+x6| \
+x2d efd| \
+=gx4x|
+bx4x| \
+ax4x| \
+ex4x| \
+fx4x|
+ax4x| \
+gx4x| \
+dx4x| \
+ex4x|
+gx4x| \
+fx4x| \
+cx4x| \
+dx4x|
+fx4x| \
+ex4x| \
+Bx4x| \
+cBA cBd|
+cBc dBc| \
+dxD x3| \
+x4Dx| \
+CxA x3|
+x4Ax| \
+axa xax| \
+d'xa fge| \
+fxf xfx|
+=c'xb gaf| \
+gxe xex| \
+e'xd' ^c'd'b| \
+c'xA xAx|
+axg fge| \
+fef gaf| \
+dcd efd| \
+Bxb xax|
+gfe4-| \
+ede fge| \
+cBc dec| \
+Axa xgx|
+fed x=c2-| \
+=cBe ^cdB| \
+cAf dec| \
+dxe xcx|
+d4x2| \
+x6| \
+x6| \
+x6|
+x4dx| \
+cxe dec| \
+dxc dec| \
+dxc BAG|
+FxD x3| \
+x6| \
+x4ax| \
+fxd xcx|
+d3- d/2x/2Dx| \
+AxA xAx| \
+dxA FGE| \
+FxF xFx|
+AxF DEC| \
+DxD xDx| \
+DFE CDE| \
+FAG EFD|
+A,x3Cx| \
+DxA, x3| \
+x4Dx| \
+CxA x3|
+x4dx| \
+axa xax| \
+d'xa fge| \
+fxf xfx|
+=c'xb gaf| \
+gxe xex| \
+e'xd' ^c'd'b| \
+c'xA xAx|
+axg fge| \
+fef gaf| \
+dcd efd| \
+Bxb xax|
+gfe4-| \
+ede fge| \
+cBc dec| \
+Axa xgx|
+fed x=c2-| \
+=cBe ^cdB| \
+cAf dec| \
+dxe xcx|
+d6|
+V:7
+% Violin II
+%%MIDI program 48
+x6| \
+x6| \
+x6| \
+x6|
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+f dec| \
+dxA dce| \
+def gax| \
+AxA xAx|
+AxA xAx| \
+AxG xEx| \
+DxA, x3| \
+x6|
+x4ex| \
+dxc xdx| \
+cxA x3| \
+x6|
+x6| \
+x2B xAx| \
+Gx4x| \
+x6|
+x2c x^Ax| \
+Fx4x| \
+x6| \
+x2E xDx|
+=AxA xAx| \
+dxA FGE| \
+FxD xd2-| \
+dxc dec|
+ABc xcx| \
+Bxc x^Ax| \
+BxF x3| \
+x6|
+x4Fx| \
+GxB/2=A/2 B/2A/2B/2A/2G/2A/2| \
+B4x2| \
+x6|
+x4Fx| \
+ExE xB,x| \
+B,xC xDx| \
+E6-|
+ExC xEx| \
+AxF xEx| \
+Dx4x| \
+x6|
+x2^G x=Fx| \
+Cx4x| \
+x6| \
+x2B xAx|
+exe eee| \
+axe cdB| \
+cdc BA2-| \
+Ax^G AB^G|
+Ax^G ^F^Gx| \
+Fx^G x=Fx| \
+^F6-| \
+Fx=F x^Gx|
+^FxC x3| \
+x6| \
+x4F2-| \
+FxE xAx|
+FxE x3| \
+x6| \
+x2C xCx| \
+Cx4x|
+Fx4x| \
+cx4x| \
+Ax4x| \
+Ax4x|
+dx4x| \
+Bx4x| \
+=Gx4x| \
+Gx4x|
+ex4x| \
+cx4x| \
+^Ax4x| \
+Bx4x|
+dx4x| \
+Bx4x| \
+^Gx4x| \
+EDC EDF|
+EDE FDE| \
+FxD x3| \
+x4Dx| \
+Cx=A x3|
+x4Ax| \
+Adf dec| \
+ax4x| \
+AB=c B=cA|
+Fx4x| \
+BA=G BA=c| \
+Bx4x| \
+AB^c edf|
+ex4x| \
+x2D xFx| \
+B6-| \
+BAB c^dB|
+e^de fge| \
+axA xBx| \
+c=de4-| \
+ecA BcA|
+dxA GAF| \
+DxB xGx| \
+Exc xAx| \
+FxB xEx|
+F4x2| \
+x6| \
+x6| \
+x6|
+x4Ax| \
+AxA xAx| \
+AxA xAx| \
+AxG xEx|
+DxA, x3| \
+x6| \
+x4ex| \
+AxA xAx|
+A3- A/2x/2Dx| \
+AxA xAx| \
+dxA FGE| \
+FxF xFx|
+AxF DEC| \
+DxD xDx| \
+DFE CDE| \
+FAG EFD|
+A,x3Cx| \
+DxA, x3| \
+x4Dx| \
+CxA x3|
+x4Ax| \
+def dec| \
+ax4x| \
+AB=c B=cA|
+Fx4x| \
+BAG BA=c| \
+Bx4x| \
+AB^c edf|
+ex4x| \
+x2D xFx| \
+B6-| \
+BAB c^dB|
+e^de fge| \
+axA xBx| \
+c=de4-| \
+ecA BcA|
+dxA GAF| \
+DxB xGx| \
+Exc xAx| \
+FxB xEx|
+F6|
+V:8
+% Viola
+%%MIDI program 48
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+A, xA,x| \
+A,xD xDx| \
+ExE xCx|
+A,xA, xA,x| \
+A,xD xCx| \
+A,xF, x3| \
+x6|
+x4Cx| \
+A,xE xAx| \
+AxE x3| \
+x6|
+x6| \
+x2G xFx| \
+Dx4x| \
+x6|
+x2A xcx| \
+Bx4x| \
+x6| \
+x2C xDx|
+AxA xAx| \
+dxA FGE| \
+FxA, xA2-| \
+AxE xAx|
+AxA xCx| \
+FxG xFx| \
+FxD x3| \
+x6|
+x4Dx| \
+=CB,=C EDx| \
+D4x2| \
+x6|
+x4B,x| \
+BxA xFx| \
+E4Dx| \
+^CDE CDB,|
+CxE xCx| \
+A,xD xCx| \
+A,x4x| \
+x6|
+x2E x^Gx| \
+Fx4x| \
+x6| \
+x2^G xAx|
+exe eee| \
+Axe cdB| \
+cxA xE2-| \
+ExE xEx|
+ExE x^Gx| \
+CxD xCx| \
+C6-| \
+CxC xCx|
+CxF x3| \
+x6| \
+x4A,x| \
+AxA xA,x|
+A,xA x3| \
+x6| \
+x2F xFx| \
+Ex4x|
+=Gx4x| \
+Ex4x| \
+Cx4x| \
+Dx4x|
+Fx4x| \
+Dx4x| \
+B,x4x| \
+Cx4x|
+Cx4x| \
+^Ax4x| \
+Fx4x| \
+Fx4x|
+Bx4x| \
+^Gx4x| \
+Ex4x| \
+EDC EDF|
+EDE FDE| \
+FxD x3| \
+x4Dx| \
+Cx=A x3|
+x4Ax| \
+A,xD xAx| \
+Dx4x| \
+DxA, xA,x|
+Ax4x| \
+ExB xBx| \
+ExB xBx| \
+ExE xAx|
+Ax4x| \
+x2A, xDx| \
+FEF =GAF| \
+DxG xAx|
+BAG ABG| \
+ExC xE2-| \
+ExA, B,C2-| \
+CxD xEx|
+A,xD xFx| \
+GxG xBx| \
+AxA xcx| \
+BxE xAx|
+A4x2| \
+x6| \
+x6| \
+x6|
+x4Dx| \
+ExE xCx| \
+A,xA, xA,x| \
+A,xD xCx|
+A,xF, x3| \
+x6| \
+x4A,x| \
+A,xD xEx|
+F3- F/2x/2Dx| \
+AxA xAx| \
+dxA FGE| \
+FxF xFx|
+AxF DEC| \
+DxD xDx| \
+DFE CDE| \
+FAG EFD|
+A,x3Cx| \
+DxA, x3| \
+x4Dx| \
+CxA x3|
+x4Fx| \
+FxA xAx| \
+Dx4x| \
+DxA, xA,x|
+Ax4x| \
+ExB xBx| \
+Ex4x| \
+ExE xAx|
+Ax4x| \
+x2A, xDx| \
+FEF GAF| \
+DxG xAx|
+BAG ABG| \
+ExC xE2-| \
+ExA, B,C2-| \
+CxD xEx|
+A,xD xFx| \
+GxG xBx| \
+AxA xcx| \
+BxE xAx|
+A6|
+V:9
+% Cello
+%%MIDI program 48
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+A, F,G,E,| \
+F,xD, xA,x| \
+DxF, xA,x|
+D,xF,, xA,,x| \
+D,xF,, xA,,x| \
+D,,xD, E,F,D,| \
+A,xA, xA,x|
+DxA, F,G,E,| \
+F,xG, xA,x| \
+D,xD,, E,,F,,D,,| \
+G,,xG, F,^G,E,|
+A,xA,, F,,=G,,E,,| \
+F,,xE,, xD,,x| \
+A,,xA, B,CA,| \
+DxF, xA,x|
+D,xD x=Cx| \
+B,xB,, xD,x| \
+G,,xG, xE,x| \
+A,xA, xA,x|
+A,xG, xF,x| \
+B,xD, xF,x| \
+B,,A,,B,, ^C,A,,B,,| \
+C,B,,A,, C,B,,D,|
+C,B,,C, D,B,,C,| \
+D,xF,, xA,,x| \
+D,,C,,D,, E,,F,,G,,| \
+A,,G,,A,, B,,C,A,,|
+D,xA,, x^A,,x| \
+B,,xE,, xF,,x| \
+B,,^A,,B,, C,D,E,| \
+F,E,F, ^G,^A,F,|
+B,xB,, xB,,x| \
+B,,x=A,, xD,,x| \
+=G,,F,,G,, A,,B,,=C,| \
+D,=C,D, E,F,D,|
+G,xD, x^D,x| \
+E,xA,, xB,,x| \
+E,F,E, =D,^C,B,,| \
+A,,xC, xE,x|
+A,xA,, xG,,x| \
+F,,xF, xA,x| \
+DxD, xB,,x| \
+E,xE, xE,x|
+E,xD, xC,x| \
+F,xA,, xC,x| \
+F,E,F, ^G,E,F,| \
+^G,F,E, ^G,F,A,|
+^G,F,^G, A,F,^G,| \
+A,xC, xE,x| \
+A,,^G,,A,, B,,C,D,| \
+E,D,E, F,^G,E,|
+A,xE, x=F,x| \
+^F,xB,, xC,x| \
+F,,=F,,^F,, ^G,,A,,B,,| \
+C,B,,C, ^D,=F,C,|
+^F,xF,, xF,2-| \
+F,xE, xA,,x| \
+=D,C,D, E,F,=G,| \
+A,G,A, B,CA,|
+DxA, x^A,x| \
+B,xE, xF,x| \
+B,,^A,,B,, C,D,B,,| \
+E,xG, xB,x|
+E,xG, xE,x| \
+=A,xC, xE,x| \
+A,,xC, xA,,x| \
+D,xF, xA,x|
+D,xF, xD,x| \
+G,xB,, xD,x| \
+G,,xB,, xG,,x| \
+C,xE, xG,x|
+C,xE, xC,x| \
+F,,x^A,, xC,x| \
+F,,x^A,, xF,,x| \
+B,,xD, xF,x|
+B,,xD, xB,,x| \
+E,x^G,, xB,,x| \
+E,,x^G,, xE,,x| \
+=A,,6-|
+A,,xA, =G,F,E,| \
+D,6-| \
+D,xF, xA,x| \
+C,4D,2-|
+D,xC, xA,x| \
+DxA, F,G,E,| \
+F,xD, xA,x| \
+=CxF, ^D,E,^C,|
+^D,x^D xB,x| \
+ExB, G,A,F,| \
+G,xE, xG,x| \
+A,xE, C,=D,B,,|
+C,xA,, xC,x| \
+D,xD xCx| \
+B,xB,, xA,,x| \
+G,,xG, xF,x|
+E,xE,, xD,,x| \
+C,,xC, xB,,x| \
+A,,xA, xG,x| \
+F,xF,, xE,,x|
+D,,xF, xD,x| \
+G,,xG, xE,x| \
+A,,xA, xF,x| \
+B,,xG,, xA,,x|
+D,,xD, E,F,D,| \
+A,x3A,,x| \
+B,,x3B,x| \
+G,x3E,x|
+C,xA,, xD,x| \
+A,xA, xA,x| \
+DxA, F,G,E,| \
+F,xG, xA,x|
+D,xD,, E,,F,,D,,| \
+G,,xG, F,^G,E,| \
+A,xA,, B,,C,A,,| \
+D,xF,, xA,,x|
+D,,3- D,,/2x/2D,x| \
+A,xA, xA,x| \
+DxA, F,=G,E,| \
+F,xF, xF,x|
+A,xF, D,E,C,| \
+D,xD, xD,x| \
+D,F,E, C,D,E,| \
+F,A,G, E,F,D,|
+A,,x4x| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+DxA, F,G,E,| \
+F,xD, xA,x| \
+=CxF, ^D,E,^C,|
+^D,x^D xB,x| \
+ExB, G,A,F,| \
+G,xE, xG,x| \
+A,xE, C,=D,B,,|
+C,xA,, xC,x| \
+D,xD xCx| \
+B,xB,, xA,,x| \
+G,,xG, xF,x|
+E,xE,, xD,,x| \
+C,,xC, xB,,x| \
+A,,xA, xG,x| \
+F,xF,, xE,,x|
+D,,xF,, xD,,x| \
+G,,xG, xE,x| \
+A,,xA, xF,x| \
+B,,xG,, xA,,x|
+D,,6|
+V:10
+% Soprano I
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+Dx| \
+AxA xAx| \
+dxA x3| \
+x6|
+x6| \
+x6| \
+x4dx| \
+cxe dec|
+dxc dec| \
+dxc BAG| \
+FxD xdx| \
+=cBA Gx2|
+x4Ax| \
+axg xfx| \
+exA x3| \
+x6|
+x4Ax| \
+BAG BA=c| \
+BAB ^cAB| \
+ced fed|
+cBc def| \
+def dec| \
+dxB xfx| \
+exE xGx|
+GxA FGx| \
+FxA xcx| \
+d6-| \
+dxc dec|
+fxe xfx| \
+dxe dec| \
+d6-| \
+dxc xfx|
+dcB cdB| \
+exf efx| \
+g6-| \
+gxf ed=c|
+BxA xBx| \
+GxF GAF| \
+G6-| \
+G6-|
+GxE xAx| \
+dxf de^c| \
+dxD x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Ax| \
+exe xex|
+axe x3| \
+x6| \
+x4Fx| \
+cxc xcx|
+fxc x3| \
+x6| \
+x4Dx| \
+AxA xAx|
+dxA x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4dx| \
+BAG BA=c| \
+BAB ^c^AB| \
+cB^A cBd|
+c6-| \
+c6-| \
+cxc xcx| \
+Bxd xfx|
+BxB x3| \
+x4Bx| \
+BxE xex| \
+cx=A x3|
+x4Ax| \
+AxA xAx| \
+dxA x3| \
+x6|
+x4ax| \
+fxd x3| \
+x4ex| \
+f6-|
+fxB x3| \
+x4Bx| \
+exg xex| \
+Axc eg2-|
+gxe xax| \
+fef gaf| \
+dcd efd| \
+Bxe x^dx|
+efg xBx| \
+e=de fge| \
+cBc dec| \
+Axd xcx|
+dxA xdx| \
+dxB x3| \
+x4fx| \
+dxe xcx|
+dxA xdx| \
+dxc x3| \
+x2d xfx| \
+fxe x3|
+x4dx| \
+cxe dec| \
+dxc dec| \
+dxc BAG|
+FxD x=cx| \
+=cBB x3| \
+x2e xax| \
+fxd x^cx|
+d3- d/2
+V:11
+% Soprano II
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+Dx| \
+AxA xAx| \
+dxA x3| \
+x6|
+x6| \
+x6| \
+x4dx| \
+exc BcA|
+fga xcx| \
+dxc BAG| \
+FxD x3| \
+x4ex|
+dcB Aex| \
+fxc xdx| \
+cde x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Dx| \
+AxA xAx|
+dxA x3| \
+x6| \
+x4B,x| \
+FxF xFx|
+BxF x3| \
+x6| \
+x4Gx| \
+dxd xdx|
+gxd x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4^Gx| \
+A^GF A^GB| \
+A^GA B^GA| \
+BA^G BAc|
+BAB cAB| \
+cBA cBd| \
+c6-| \
+cxB xex|
+cxB xcx| \
+AxB AB^G| \
+A6-| \
+Ax^G xcx|
+A^GF ^GAF| \
+Bxc Bcx| \
+d6-| \
+dxc dec|
+dxc xcx| \
+BxB x^Ax| \
+BxB x3| \
+x4^dx|
+exB x3| \
+x4ex| \
+exc x3| \
+x4cx|
+=dx=A x3| \
+x4dx| \
+dxB x=gx| \
+edc edf|
+ede fde| \
+cBc f=f^g| \
+^f6-| \
+f6-|
+fxf xfx| \
+ex^G xBx| \
+ExE xBx| \
+cxe cdB|
+cxA x3| \
+x6| \
+x4Ax| \
+AxA xAx|
+exA x3| \
+x4cx| \
+dxf xex| \
+f6-|
+fef =gfa| \
+gxe x3| \
+x4Bx| \
+cxe xex|
+axc x3| \
+x4Ax| \
+BAB cd2-| \
+dxe xfx|
+gfe x3| \
+x4Gx| \
+AGA Bc2-| \
+cxd xex|
+fed x3| \
+x4ex| \
+exc xAx| \
+fxg xex|
+def x3| \
+x4ex| \
+exd x3| \
+x2e xgx|
+gxf efd| \
+edc BcA| \
+fga xcx| \
+dxc BAG|
+FxD x3| \
+x4dx| \
+dcc xex| \
+fxg fef|
+d3- d/2
+V:12
+% Alto I
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+Dx| \
+AxA xAx| \
+dxA x3| \
+x6|
+x6| \
+x6| \
+x4Ax| \
+A6-|
+AxA xAx| \
+AxG xEx| \
+DxF xAx| \
+GxD x3|
+x4Ax| \
+Axc xFx| \
+AxE xEx| \
+FED FEG|
+FEF GEF| \
+GxD GFA| \
+GFG AFG| \
+ExA xBx|
+ExA xcx| \
+F6-| \
+FxF EF^G| \
+A6-|
+A6-| \
+Axd xAx| \
+A6-| \
+AxA xAx|
+AxA xcx| \
+Bxc x^Ax| \
+B6-| \
+Bx^A xcx|
+BxF EFD| \
+=Gx=A GAx| \
+B6-| \
+BxA GAF|
+GxF xFx| \
+ExE x^Dx| \
+E6-| \
+E6-|
+ExC xEx| \
+AxA FGE| \
+FxF x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4A,x| \
+ExE xEx|
+AxE x3| \
+x6| \
+x4Fx| \
+cxC xCx|
+FxC x3| \
+x6| \
+x4=Dx| \
+AxA xAx|
+dxA x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Ax| \
+FED FEG|
+FEF GEF| \
+GxD GFA| \
+G6-| \
+G6-|
+GxG x^Gx| \
+Fx^A, xCx| \
+FxF x3| \
+x4Fx|
+DxB, xDx| \
+ExE x^Dx| \
+^GxB x^Gx| \
+ExC x3|
+x4=Ax| \
+AxA xAx| \
+=dxA x3| \
+x6|
+x4Ax| \
+AxF x3| \
+x4Ax| \
+A6-|
+AxF x3| \
+x4Bx| \
+BxB xBx| \
+ExA =GA2-|
+AxA x3| \
+x6| \
+x4Fx| \
+GxG xAx|
+BxB x3| \
+x6| \
+x4Ex| \
+FxF xGx|
+AxA xAx| \
+GxG x3| \
+x4cx| \
+BxB xAx|
+AxF xFx| \
+FxE x3| \
+x2F xAx| \
+AxG x3|
+x4Ax| \
+A6-| \
+A6-| \
+AxG xEx|
+DxF xAx| \
+AGG x3| \
+x2A xAx| \
+A6|
+A3- A/2
+V:13
+% Tenor I
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+D,x| \
+A,xA, xA,x| \
+DxA, x3| \
+x6|
+x6| \
+x6| \
+x4Fx| \
+ExG FGE|
+FxE xEx| \
+DxD xCx| \
+A,xA, xDx| \
+DxB, x3|
+x4Cx| \
+DxE xA,x| \
+CxC x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4Cx| \
+DCB, DCE| \
+DCD ECD| \
+EDC EDF|
+EDE FDE| \
+FED FEG| \
+F6-| \
+FxE xEx|
+DxC xFx| \
+FxG xFx| \
+F6-| \
+FxF xFx|
+FED CB,D| \
+=CB,=C EDx| \
+D6-| \
+D6-|
+DxD xB,x| \
+B,x=C xB,x| \
+B,x^C xDx| \
+CDE CDB,|
+CxE xCx| \
+A,xA, xA,x| \
+A,xA, x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4A,x| \
+ExE xEx|
+AxE x3| \
+x6| \
+x4F,x| \
+CxC xCx|
+FxC x3| \
+x6| \
+x4D,x| \
+A,xA, xA,x|
+DxA, x3| \
+x6| \
+x6| \
+x6|
+x4Ex| \
+CB,A, CB,D| \
+CB,C DB,C| \
+DxA, DCE|
+D6-| \
+D6-| \
+DxD xDx| \
+CxE xGx|
+CxC x3| \
+x4Cx| \
+^A,xF, x^A,x| \
+B,xB, x3|
+x6| \
+x4B,x| \
+B,xE xEx| \
+Ex=A x3|
+x4A,x| \
+A,xA, xA,x| \
+DxA, x3| \
+x6|
+x4Ex| \
+DxA x3| \
+x4Cx| \
+Dx=C xA,x|
+F,xB, x3| \
+x4Ex| \
+ExB, xEx| \
+^CxA, CE2-|
+ExE x3| \
+x6| \
+x4Dx| \
+DxB, xA,x|
+ExE x3| \
+x6| \
+x4Cx| \
+CxA, xG,x|
+DxD xFx| \
+DxD x3| \
+x4Fx| \
+FxE xEx|
+FxD xD,x| \
+A,G,A, B,CA,| \
+DCD EDC| \
+B,=CB, A,G,F,|
+E,xE xFx| \
+ExG FGE| \
+FxE xEx| \
+DxD x^Cx|
+A,xA, xDx| \
+DxD x3| \
+x2E xEx| \
+D4Ex|
+F3- F/2
+V:14
+% Bass I
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+D,x| \
+A,xA, xA,x| \
+DxA, x3| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+A,xA, xA,x|
+DxA, F,G,E,| \
+F,xG, xA,x| \
+D,xD, xF,x| \
+G,xG,, x3|
+x4G,x| \
+F,xE, xD,x| \
+A,xA, x3| \
+x6|
+x6| \
+x6| \
+x4G,x| \
+A,G,F, A,^G,B,|
+A,^G,A, B,^G,^A,| \
+B,xF, B,^A,C| \
+B,=A,B, CA,B,| \
+CB,A, CB,D|
+CB,C DB,C| \
+DxF, xA,x| \
+D,C,D, E,F,=G,| \
+A,G,A, B,CA,|
+DxA, x^A,x| \
+B,xE, xF,x| \
+B,,^A,,B,, C,D,E,| \
+F,E,F, ^G,^A,F,|
+B,xB,, xB,x| \
+B,x=A, xD,x| \
+=G,,F,,G,, A,,B,,=C,| \
+D,=C,D, E,F,D,|
+G,xD, x^D,x| \
+E,xA,, xB,,x| \
+E,F,E, =D,^C,B,,| \
+A,,xC, xE,x|
+A,xA,, xG,x| \
+F,G,A, xA,,x| \
+D,xD, x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4A,,x| \
+E,xE, xE,x|
+A,xE, x3| \
+x6| \
+x4F,,x| \
+C,xC, xC,x|
+F,xC, x3| \
+x6| \
+x4D,x| \
+A,xA, xA,x|
+DxA, x3| \
+x6| \
+x4B,x| \
+G,F,E, G,F,A,|
+G,F,G, A,F,^G,| \
+A,xE, A,^G,B,| \
+A,6-| \
+A,6-|
+A,xA, xA,x| \
+=G,xB, xDx| \
+G,xG, x3| \
+x4G,x|
+E,xC, xE,x| \
+F,xF, x3| \
+x6| \
+x6|
+x6| \
+x4B,,x| \
+E,x^G, xE,x| \
+A,xA,, x3|
+x4A,x| \
+A,xA, xA,x| \
+DxA, x3| \
+x6|
+x4A,x| \
+DxD, x3| \
+x4A,x| \
+=CxA, xF,x|
+^D,x^D, x3| \
+x4B,x| \
+=G,xE, xG,x| \
+A,6-|
+A,xA,, x3| \
+x6| \
+x4A,x| \
+G,xG, xF,x|
+E,xE, x3| \
+x6| \
+x4G,x| \
+F,xF, xE,x|
+=D,xF, xD,x| \
+G,xG,, x3| \
+x4F,x| \
+B,xG, xA,x|
+DxD, x3| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+A,xA, xA,x| \
+DxA, xG,x| \
+F,xG, xA,x|
+D,xD, xF,x| \
+G,xG,, x3| \
+x2A, x^Cx| \
+DxF, xA,x|
+D,3- D,/2
+V:15
+% Organ
+%%MIDI program 20
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+A, F,G,E,| \
+F,xD, xA,x| \
+DxF, xA,x|
+D,xF,, xA,,x| \
+D,xF,, xA,,x| \
+D,,xD, E,F,D,| \
+A,xA, xA,x|
+DxA, F,G,E,| \
+F,xG, xA,x| \
+D,xD,, E,,F,,D,,| \
+G,,xG, F,^G,E,|
+A,xA,, F,,=G,,E,,| \
+F,,xE,, xD,,x| \
+A,,xA, B,CA,| \
+DxF, xA,x|
+D,xD x=Cx| \
+B,xB,, xD,x| \
+G,,xG, xE,x| \
+A,xA, xA,x|
+A,xG, xF,x| \
+B,xD, xF,x| \
+B,,A,,B,, ^C,A,,B,,| \
+C,B,,A,, C,B,,D,|
+C,B,,C, D,B,,C,| \
+D,xF,, xA,,x| \
+D,,C,,D,, E,,F,,G,,| \
+A,,G,,A,, B,,C,A,,|
+D,xA,, x^A,,x| \
+B,,xE,, xF,,x| \
+B,,^A,,B,, C,D,E,| \
+F,E,F, ^G,^A,F,|
+B,xB,, xB,,x| \
+B,,x=A,, xD,,x| \
+=G,,F,,G,, A,,B,,=C,| \
+D,=C,D, E,F,D,|
+G,xD, x^D,x| \
+E,xA,, xB,,x| \
+E,F,E, =D,^C,B,,| \
+A,,xC, xE,x|
+A,xA,, xG,,x| \
+F,,xF, xA,x| \
+DxD, xB,,x| \
+E,xE, xE,x|
+E,xD, xC,x| \
+F,xA,, xC,x| \
+F,E,F, ^G,E,F,| \
+^G,F,E, ^G,F,A,|
+^G,F,^G, A,F,^G,| \
+A,xC, xE,x| \
+A,,^G,,A,, B,,C,D,| \
+E,D,E, F,^G,E,|
+A,xE, x=F,x| \
+^F,xB,, xC,x| \
+F,,=F,,^F,, ^G,,A,,B,,| \
+C,B,,C, ^D,=F,C,|
+^F,xF,, xF,2-| \
+F,xE, xA,,x| \
+=D,C,D, E,F,=G,| \
+A,G,A, B,CA,|
+DxA, x^A,x| \
+B,xE, xF,x| \
+B,,^A,,B,, C,D,B,,| \
+E,xG, xB,x|
+E,xG, xE,x| \
+=A,xC, xE,x| \
+A,,xC, xA,,x| \
+D,xF, xA,x|
+D,xF, xD,x| \
+G,xB,, xD,x| \
+G,,xB,, xG,,x| \
+C,xE, xG,x|
+C,xE, xC,x| \
+F,,x^A,, xC,x| \
+F,,x^A,, xF,,x| \
+B,,xD, xF,x|
+B,,xD, xB,,x| \
+E,x^G,, xB,,x| \
+E,,x^G,, xE,,x| \
+=A,,6-|
+A,,xA, =G,F,E,| \
+D,6-| \
+D,xF, xA,x| \
+C,4D,2-|
+D,xC, xA,x| \
+DxA, F,G,E,| \
+F,xD, xA,x| \
+=CxF, ^D,E,^C,|
+^D,x^D xB,x| \
+ExB, G,A,F,| \
+G,xE, xG,x| \
+A,xE, C,=D,B,,|
+C,xA,, xC,x| \
+D,xD xCx| \
+B,xB,, xA,,x| \
+G,,xG, xF,x|
+E,xE,, xD,,x| \
+C,,xC, xB,,x| \
+A,,xA, xG,x| \
+F,xF,, xE,,x|
+D,,xF, xD,x| \
+G,,xG, xE,x| \
+A,,xA, xF,x| \
+B,,xG,, xA,,x|
+D,,xD, E,F,D,| \
+A,x3A,,x| \
+B,,x3B,x| \
+G,x3E,x|
+C,xA,, xD,x| \
+A,xA, xA,x| \
+DxA, F,G,E,| \
+F,xG, xA,x|
+D,xD,, E,,F,,D,,| \
+G,,xG, F,^G,E,| \
+A,xA,, B,,C,A,,| \
+D,xF,, xA,,x|
+D,,3- D,,/2x/2D,x| \
+A,xA, xA,x| \
+DxA, F,=G,E,| \
+F,xF, xF,x|
+A,xF, D,E,C,| \
+D,xD, xD,x| \
+D,F,E, C,D,E,| \
+F,A,G, E,F,D,|
+A,,x4x| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+DxA, F,G,E,| \
+F,xD, xA,x| \
+=CxF, ^D,E,^C,|
+^D,x^D xB,x| \
+ExB, G,A,F,| \
+G,xE, xG,x| \
+A,xE, C,=D,B,,|
+C,xA,, xC,x| \
+D,xD xCx| \
+B,xB,, xA,,x| \
+G,,xG, xF,x|
+E,xE,, xD,,x| \
+C,,xC, xB,,x| \
+A,,xA, xG,x| \
+F,xF,, xE,,x|
+D,,xF,, xD,,x| \
+G,,xG, xE,x| \
+A,,xA, xF,x| \
+B,,xG,, xA,,x|
+D,,6|
+V:16
+% Oboe
+%%MIDI program 68
+x6| \
+x6| \
+x6| \
+x2
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+[af] [fd][ge][ec]|
+[fd]e[dA] [fd][ec][ge]| \
+[fd][ge][af] x[f/2A/2-][e/2A/2]f/2e/2| \
+[dA]x[AF] x[dA]x| \
+[cA]x[eG] [dF][eG][cE]|
+[dF]x[ec] d[ec]c| \
+[dA]x[cG] B[AE]G| \
+[FD]x[DD] x3| \
+x6|
+x4[ec]x| \
+[dA]x[ec] x[dA]x| \
+[cA][dB][ec] x3| \
+x6|
+x2[AF] x[dA]x| \
+[GD]x4x| \
+x6| \
+x2[dA] x[BD]x|
+[cE]x4x| \
+x6| \
+x2[dB] x[fB]x| \
+[ae]x3[DD]x|
+[AA]x[AA] x[AA]x| \
+[dd]x[AA] [FF][GG][EE]| \
+[FF]x[dA] x[d2-F2-]| \
+[dF]x[cE] d[eA-][cA-]|
+[fA]B[ec] x3| \
+x6| \
+x4[d2-B2-]| \
+[dB]x[c^A] x[fc]x|
+[dB]x[BF] x3| \
+x6| \
+x4[g2-B2-]| \
+[gB]x[f=A] [eG][dA][=cF]|
+[BG]x[AF] x3| \
+x6| \
+x6| \
+x6|
+x2[e^c] x[AE]x| \
+[dA]x4x| \
+x6| \
+x2[ae] x[fA]x|
+[eB]x4x| \
+x6| \
+x2[AF] x[fc]x| \
+[eB]x3[AA]x|
+[ee]x[ee] [ee][ee][ee]| \
+[aa]x[ee] [cc][dd][BB]| \
+[c-c]c-[c-E] c-[c2-A2-]| \
+[cA]x[B^G] A[eB]^G|
+[d/2A/2-][c/2A/2]d/2c/2[B^G] F[c^G]x| \
+[AF]x[B^G] x[^G=F]x| \
+[A^F]x[FF] x3| \
+x6|
+x4[AF]x| \
+[BD]x[d/2F/2][c/2E/2] [d/2F/2][c/2E/2][d/2F/2][c/2E/2][B/2D/2][c/2E/2]| \
+[d4F4]x2| \
+x6|
+x4[cF]x| \
+[BF]x[BE] D[^AE]x| \
+[BD]c[dB] x3| \
+x6|
+x2[eB] x[B^G]x| \
+[cE]x4x| \
+x2[=ae] x[ec]x| \
+[fA]x4x|
+x2[dA] x[AF]x| \
+[BD]x4x| \
+x2[=gd] x[dB]x| \
+[eB]x4x|
+x2[cE] x[e^G]x| \
+[c^A]x4x| \
+x2[fc] x[c^A]x| \
+[dF]x4x|
+x2[BD] x[dF]x| \
+[B^G]x4x| \
+x2[eB] x[B^G]x| \
+[cE][BD][=AE] [cA][BD][dF]|
+[cE][BD][cE] [dF][BD][cE]| \
+[dF][e=G][fA] [dF][eG][cE]| \
+[dF]x[AD] x[AF]x| \
+x2[eA] x[dA]x|
+x2[ec] x[cA]x| \
+[aA]d[af] d[ae]c| \
+[d'a]xa fge| \
+[fA]B[f=c] B[f=c]A|
+[=c'F]xb gaf| \
+[gB]A[eG] B[eA]=c| \
+[e'B]xd' ^c'd'b| \
+[c'A]B[cA] e[dA]f|
+[ae]xg fge| \
+fe[fD] g[aF]f| \
+[dB-][cB-][dB-] [eB-][fB-][dB-]| \
+[BB]A[bB] c[a^d]B|
+[ge][f^d][e-e] [fe-][ge-][e-e]| \
+[ae]=d[eA] f[gB]e| \
+[cc][dB][e-c] [e-d][e-e][e-c]| \
+[eA]c[aA] B[gc]A|
+[fd]e[dA] G[=c-A][=c-F]| \
+[=cD]B[eB] ^c[dG]B| \
+[cE]A[fc] d[eA]c| \
+[dF]x[eB] x[cE]x|
+[d4F4]x2| \
+x6| \
+x6| \
+x6|
+x4[dA]x| \
+[cA]x[eG] [dF][eG][cE]| \
+[dF]x[ec] d[ec]c| \
+[dA]x[cG] B[AE]G|
+[FD]x[DD] x3| \
+x6| \
+x4[eA]x| \
+[fA]x[gd] f[ec]f|
+[d3-d3-] [d/2d/2]x/2[DD]x| \
+[AA]x[AA] x[AA]x| \
+[dd]x[AA] [FF][GG][EE]| \
+[FF]x[FF] x[FF]x|
+[AA]x[FF] [DD][EE][CC]| \
+[DD]x[DD] x[DD]x| \
+[DD][FF][EE] [CC][DD][EE]| \
+[FF][AA][GG] [EE][FF][DD]|
+[A6-A6-]| \
+[A6-A6-]| \
+[A6-A6-]| \
+[A6-A6-]|
+[A4A4][dA]x| \
+[ad]e[af] d[ae]c| \
+[d'a]xa fge| \
+[fA]B[f=c] B[f=c]A|
+[=c'F]xb gaf| \
+[gB]A[eG] B[eA]=c| \
+[e'B]xd' ^c'd'b| \
+[c'A]B[cA] e[dA]f|
+[ae]xg fge| \
+fe[fD] g[aF]f| \
+[dB-][cB-][dB-] [eB-][fB-][dB-]| \
+[BB]A[bB] c[a^d]B|
+[ge][f^d][e-e] [fe-][ge-][e-e]| \
+[ae]=d[eA] f[gB]e| \
+[cc][dB][e-c] [e-d][e-e][e-c]| \
+[eA]c[aA] B[gc]A|
+[fd]e[dA] G[=c-A][=c-F]| \
+[=cD]B[eB] ^c[dG]B| \
+[cE]A[fc] d[eA]c| \
+[dF]x[eB] x[cE]x|
+[d6F6]|
+V:17
+% Tenor II
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+D,x| \
+A,xA, xA,x| \
+DxA, x3| \
+x6|
+x6| \
+x6| \
+x4F,x| \
+CxA, xEx|
+DxE xAx| \
+DxD xCx| \
+A,xF, x3| \
+x4Ex|
+ExC xEx| \
+DxG, xDx| \
+ExE x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+A,xA, xA,x|
+DxA, x3| \
+x6| \
+x4B,x| \
+FxF, xF,x|
+B,xF, x3| \
+x6| \
+x4G,x| \
+DxD xDx|
+GxD x3| \
+x6| \
+x4B,x| \
+CB,A, CB,D|
+CB,C DB,C| \
+DxA, DCE| \
+DCD ECD| \
+B,xE xFx|
+B,xE x^Gx| \
+C6-| \
+CxC B,CA,| \
+E6-|
+E6-| \
+ExA xEx| \
+E6-| \
+ExE xEx|
+ExE xCx| \
+CxD xCx| \
+C6-| \
+CxC xCx|
+CDC B,CA,| \
+DxE DEx| \
+F6-| \
+FxE xEx|
+FxE xFx| \
+DxC DEC| \
+DxD x3| \
+x4F,x|
+ExE x3| \
+x4B,x| \
+CxA, x3| \
+x4Ex|
+FxD x3| \
+x4A,x| \
+B,x=G, x3| \
+x6|
+x6| \
+x6| \
+x4Fx| \
+DCB, DCE|
+DCD ECD| \
+B,A,B, E^DF| \
+E6-| \
+ExE xEx|
+ExC x3| \
+x6| \
+x4A,x| \
+A,xA, xA,x|
+ExA, x3| \
+x4Ex| \
+A,x=D xCx| \
+DxA, xF,x|
+Fx^D xFx| \
+ExB, x3| \
+x4Ex| \
+ExC xCx|
+CxE xEx| \
+=DxA, xA,x| \
+DxB, x3| \
+x6|
+x4Ex| \
+ExA, xB,x| \
+CxC x3| \
+x6|
+x6| \
+x4Gx| \
+ExE xFx| \
+FxB, xCx|
+A,xD x3| \
+x6| \
+x4D,x| \
+G,F,G, A,B,G,|
+CDC B,A,B,| \
+CxA, xEx| \
+DxE xAx| \
+DxD xCx|
+A,xF, x3| \
+x4Ex| \
+ExE xCx| \
+A,6|
+A,3- A,/2
+V:18
+% Alto II
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+Dx| \
+AxA xAx| \
+dxA x3| \
+x6|
+x6| \
+x6| \
+x4dx| \
+AxE xAx|
+ABc xEx| \
+AxG xEx| \
+DxA, x3| \
+x4Bx|
+AxE xCx| \
+A,xE xAx| \
+ABc x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4Dx| \
+AxA xAx|
+dxA x3| \
+x6| \
+x4B,x| \
+FxF xFx|
+BxF x3| \
+x6| \
+x4Gx| \
+dxD xDx|
+GxD x3| \
+x6| \
+x6| \
+x6|
+x4Ex| \
+FED FEG| \
+FEF ^GEF| \
+^GBA cBA|
+^GF^G ABc| \
+ABc AB^G| \
+AxF xcx| \
+BxB, xDx|
+DxE CDx| \
+CxE x^Gx| \
+A6-| \
+Ax^G AB^G|
+Ax^G x^Gx| \
+Fx^G x=Fx| \
+^F6-| \
+Fx=F xCx|
+cBA ^G^FA| \
+=GFG BAx| \
+A6-| \
+A6-|
+AxA xFx| \
+FxG xFx| \
+FxF x3| \
+x4Bx|
+BxG x3| \
+x4^Gx| \
+ExE x3| \
+x4Ax|
+AxF x3| \
+x4Fx| \
+DxD x3| \
+x6|
+x4cx| \
+^A^GF ^A^GB| \
+^A^G^A B^G^A| \
+FEF B^Ac|
+B6-| \
+B6-| \
+BxB xBx| \
+=Axc AB^G|
+AxE x3| \
+x6| \
+x4Ax| \
+AxA xAx|
+exA x3| \
+x4Ax| \
+AxA xAx| \
+A6-|
+AxF xB2-| \
+Bx=G x3| \
+x4Gx| \
+GxG xEx|
+ExA xAx| \
+AxF xFx| \
+FxD x3| \
+x6|
+x4Gx| \
+GxE xEx| \
+ExC x3| \
+x6|
+x6| \
+x4Bx| \
+AxA xCx| \
+DxG xGx|
+FGA x3| \
+x4Gx| \
+GxF x3| \
+x2B xBx|
+BxA GA2-| \
+AxE xAx| \
+ABc xEx| \
+AxG xEx|
+DxA, x3| \
+x4Bx| \
+BAA xAx| \
+AxB AGA|
+F3- F/2
+V:19
+% Bass II
+%%MIDI program 52
+x4
+% Bach's B minor Mass: 20. Osanna
+% seq. by David Siu   dss@po.cwru.edu
+D,x| \
+A,xA, xA,x| \
+DxA, x3| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+A,xA, xA,x|
+DxA, F,G,E,| \
+F,xG, xA,x| \
+D,xD, x3| \
+x4^G,x|
+A,xA,, x=G,x| \
+F,xE, xD,x| \
+A,xA,, x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+A,xA, xA,x|
+DxA, x3| \
+x6| \
+x4B,,x| \
+F,xF, xF,x|
+B,xF, x3| \
+x6| \
+x4G,,x| \
+D,xD, xD,x|
+G,xD, x3| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x4D,x| \
+E,D,C, E,^D,F,|
+E,^D,E, F,^D,=F,| \
+^F,xC, F,=F,^G,| \
+^F,E,F, ^G,E,F,| \
+^G,F,E, ^G,F,A,|
+^G,F,^G, A,F,^G,| \
+A,xC, xE,x| \
+A,,^G,,A,, B,,C,=D,| \
+E,D,E, F,^G,E,|
+A,xE, x=F,x| \
+^F,xB,, xC,x| \
+F,=F,^F, ^G,A,B,| \
+CxC, ^D,=F,C,|
+^F,6-| \
+F,xE, xA,,x| \
+=D,C,D, E,F,=G,| \
+A,G,A, B,CA,|
+DxA, x^A,x| \
+B,xE, xF,x| \
+B,xB,, x3| \
+x4B,x|
+ExE, x3| \
+x4E,x| \
+=A,xA,, x3| \
+x4A,x|
+DxD, x3| \
+x4D,x| \
+G,xG,, x3| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x4B,x| \
+^G,F,E, ^G,F,A,| \
+^G,F,^G, A,F,^G,| \
+A,xE, A,^G,B,|
+A,xA, xA,x| \
+A,6-| \
+A,6-| \
+A,xA, xA,x|
+ExA, x3| \
+x4=G,x| \
+F,xD, xA,x| \
+=CxF, xA,x|
+^D^C^D EC^D| \
+ExE, x3| \
+x4E,x| \
+A,xA,, xA,,x|
+A,xA, xCx| \
+=DxD, xC,x| \
+B,,xB, x3| \
+x6|
+x4Dx| \
+CxC, xB,,x| \
+A,,xA, x3| \
+x6|
+x6| \
+x4E,x| \
+A,xA,, xF,x| \
+B,xG, xA,x|
+F,xD x3| \
+x6| \
+x6| \
+x6|
+x4D,x| \
+A,xA, xA,x| \
+DxA, xG,x| \
+F,xG, xA,x|
+D,xD, x3| \
+x4^G,x| \
+A,xA,, xC,x| \
+D,xF, xA,x|
+D,3- D,/2

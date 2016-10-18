@@ -1,0 +1,343 @@
+X: 1
+T: from ./1080-c01.mid
+M: 4/4
+L: 1/8
+Q:1/4=115
+K:F % 1 flats
+% untitled
+V:1
+% String Quartet
+%%MIDI program 40
+x8| \
+x8| \
+x8| \
+x8|
+% untitled
+A4 d4| \
+c4 A4| \
+_A4 =A2 =B2| \
+c4- cd c_B|
+AD d4 _d2| \
+=dA2<c2A B2-| \
+BE A6| \
+Ac2=B c4-|
+cD2<c2A =B2-| \
+=B2 A_A =A4| \
+=B4 c2 d2| \
+G_B2<A2B AG-|
+GE FD B4-| \
+BG A2 d4-| \
+d=B c2 f4-| \
+fd e2 A2 d2-|
+d=B c2 F2 _B2| \
+A4 D2 G2-| \
+GE Fd E4-| \
+ED A4 G2|
+A4 x4| \
+x8| \
+x8| \
+x8|
+A4 e4| \
+c4 A4| \
+_A4 =A2 =B2| \
+c4- cd c_B|
+A2 x4 A2-| \
+Ac BA BA G_G| \
+=G3B2<E2_G| \
+=G3E2<_D2A|
+=D3F2<E2c| \
+F3A2<G2e| \
+A3c2<=B2g| \
+_d4 =d2 e2-|
+e_d =d4- de| \
+fe2<g2f ed| \
+_dA2<=d2=B c2| \
+c2 _B2 A2 x2|
+x8| \
+x8| \
+x8| \
+x8|
+e4 a4| \
+f4 d4| \
+_d4 =d2 e2| \
+f4- fg fe|
+d3e _d2 =df| \
+B4- BB AG| \
+F4 B4| \
+A6 e2-|
+e_d =de fd g2-| \
+ge ag fe d_d| \
+=dc BA G4-| \
+GE FD A4-|
+A_G =GB c4-| \
+cA Bd _e2 d2| \
+_d2 a3=d g2-| \
+g_d2<f2=d =e2-|
+e_d2<=d2=B c2-| \
+c2 _B2 A3A| \
+df eg fe d2-| \
+df2e fd e2-|
+ed c=B2<c2a| \
+g_g =g_b _d2 x2| \
+x4 =d2 x2| \
+x4 d4-|
+d4- d=B _d2| \
+=d3c2<_B2A| \
+D4 xG Ac-| \
+cB c_e2d _ga-|
+a=g/2a/2 b_d =d4-|d8|
+V:2
+% --------------------------------------
+%%MIDI program 40
+% untitled
+D4 A4| \
+F4 D4| \
+_D4 =D2 =E2| \
+F4- FG FE|
+D2 E2 F2 G2| \
+A2 A,=B, CA, F2-| \
+F=B,2<E2F ED| \
+E2 _G2 =G4-|
+G2 F2 E4| \
+D3E2<F2D| \
+G3G FE D_D| \
+=D2 G4 C2|
+F3E2<F2_A,| \
+E6 DC| \
+DF ED C2 x2| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+D4 =A4| \
+F4 D4|
+_D4 =D2 E2| \
+F4- FG FE| \
+D2 G3E F2| \
+E2 A3_G =G2|
+_G3d _A4| \
+=A2 xA, C2 A,2| \
+D2 F2 E2 D2| \
+C2 A4 D2|
+E2 A3=G FE| \
+D8-| \
+DD2<G2G C2-| \
+CA, _B,2 A,4-|
+A,F, G,2 C4-| \
+CA, =B,2 E4-| \
+E_D =D2 G4-| \
+GA _B2 A4-|
+A4- AF G2| \
+A3B A2 G2-| \
+G2 FD2<A2G| \
+_GD2<=G2E F2-|
+FD2<G2E A2-| \
+AF2<B2G A2-| \
+AF G4 FD| \
+A4 d4-|
+d_d =B_d =dA e2-| \
+eA d2 xF _B2-| \
+BE2<A2G FE| \
+DA d=B GE c2-|
+c2 _B2 A4| \
+G3F E4-| \
+E2 D_D =D2 G2-| \
+G3F2<E2E|
+A6 GB| \
+A4- AG FE| \
+D6 E2| \
+A,2 x4 _E2|
+D4 x2 _G2| \
+=G_G =G2 x2 B2-| \
+BA fd =B2 =e_d| \
+A2 =dA2<_B2G|
+A3F2<E2G| \
+_GD2<=G2E F2-| \
+Fd c4- cc| \
+BA _A2 =A3E|
+A2 G4- Gc| \
+A2 G4 x2| \
+x4 A2 x2| \
+x4 =B4|
+A6- AG| \
+_G=G2<A2G c2-| \
+c_G =G_B _E4| \
+D2 A,2 B,2 C2|
+D2 G,3B AG-| \
+G_G =E=G _G4|
+V:3
+% Johann Sebastian Bach  (1685-1750)
+%%MIDI program 41
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+% untitled
+A,4 D4| \
+C4 A,4| \
+_A,4 =A,2 =B,2| \
+C4- CD C_B,|
+A,4- A,F, =G,2| \
+C4- CA, =B,2| \
+E4- E_D =D2| \
+G4- GE F2|
+E3A2<D2E| \
+_D2 =DA,2<=B,2_D| \
+=D2 A,6-| \
+A,4 _B,4|
+xE,2<A,2B, A,G,| \
+A,2 =B,2 C4-| \
+CA, _B,2 A,2 D2-| \
+D=B, C2 =B,2 E2-|
+EA,2<D2D C=B,| \
+CD2<E2E DC| \
+=B,4 C2 _A,2| \
+=A,G, _G,E, _G,2 =G,2-|
+G,G, F,E, F,E, D,_D,| \
+=D,2 x6| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+E,4 A,4|
+F,4 D,4| \
+_D,4 =D,2 E,2| \
+F,4- F,G, F,E,| \
+D,6 A,F,|
+_B,3G,2<C2A,| \
+D2 G,2 C2 F,2| \
+B,2 E,2 A,4| \
+E,2 A,3_A, _G,_A,|
+=A,3=G, F,E, D,_D,| \
+=D,2 F,D, B,2 G,E,| \
+A,3F =B,2 _D2| \
+=D2 =B,G, C2 A,F,|
+_B,D2<G2E F2-| \
+FF ED _D4| \
+=DC B,A, G,A, B,C| \
+DA,2<D2=B, _D2-|
+_DE A,_D =D2 _B,G,| \
+E,4 F,2 G,2| \
+A,4 =B,2 _D2| \
+=D2 x4 _G,2|
+=G,A, _B,2 x2 C2| \
+D4 xG,2F,| \
+E,4 x4| \
+x2 F,D,2<G,2_D,|
+F,3=D, A,4| \
+D,2 D4 A,F,| \
+B,4- B,_A, =A,2| \
+D4- D=B, C2|
+F4- FD _E2| \
+D4 =E2 x2| \
+x4 F2 x2| \
+x4 F4-|
+F2 ED E2 x2| \
+A,4 D4| \
+_B,4 G,4| \
+_G,4 =G,2 A,2|
+B,4- B,D CB,| \
+A,4<A,4|
+V:4
+% The Art of Fugue - BWV 1080
+%%MIDI program 42
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+% untitled
+D,4 A,4| \
+F,4 D,4| \
+_D,4 =D,2 E,2| \
+F,4- F,G, F,E,|
+D,4 x4| \
+x2 A,,=B,, C,A,, F,2-| \
+F,=B,,2<E,2F, E,D,| \
+E,G, _G,A, =G,4|
+D,6 E,D,| \
+E,2 F,E, _G,2 =G,_G,| \
+_A,2 =A,_A, =A,2 _B,A,| \
+=B,2 C=B, _D2 =D_A,|
+=A,4- A,F, =G,2-| \
+G,E,2<F,2D, E,2| \
+D,4- D,=B,, _D,2| \
+=D,3C, _B,,4|
+A,,3G,, F,,G,, F,,E,,| \
+D,,F,, E,,D,,2<A,,2F,,| \
+B,,3G,,2<D,2F,| \
+A,3A,, E,,4|
+x4 E,4| \
+A,4 F,4-| \
+F,F, E,D, C,D, C,=B,,| \
+A,,4 D,4|
+_D,4 A,,4| \
+_G,,4 =G,,2 A,,2| \
+_B,,4- B,,C, B,,A,,| \
+G,,4- G,,E,, F,,2|
+B,,4- B,,G,, A,,2| \
+=D,4- D,=B,, C,2| \
+F,4- F,D, E,2| \
+A,,3G, F,E, D,_D,|
+=D,3F,, _B,,4| \
+A,,8-| \
+A,,3B,, A,,G,, A,,2| \
+B,,3G,, D,4-|
+D,2 E,4 F,2-| \
+F,3D,2<E,2_D,| \
+=D,3=B,, _D,A,, =D,2-| \
+D,C, =B,,A,, =B,,4|
+A,,2 x6| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+D,4 A,4|
+F,4 D,4| \
+_D,4 =D,2 E,2| \
+F,4- F,G, F,E,| \
+D,4- D,_E, D,C,|
+_B,,4- B,,C, B,,A,,| \
+G,,6 G,,2-| \
+G,,8-| \
+G,,8-|
+G,,6 A,,2| \
+B,,3G,, D,4-| \
+D,B,, C,2 F,4-| \
+F,D, =E,2 A,4-|
+A,F, G,2 C4-| \
+CA, B,4 x2| \
+x4 A,2 x2| \
+x4 _A,4|
+=A,6 A,,2| \
+D,8-|D,8-|D,8-|
+D,8-|D,8|
+% --------------------------------------
+% Contrapunctus I
+% --------------------------------------
+% Original sequence by an unknown author
+% Modified with Cakewalk Pro Audio by
+% David J. Grossman - dave@unpronounceable.com
+% This and other Bach MIDI files can be found at:
+% Dave's J.S. Bach Page
+% http://www.unpronounceable.com/bach
+% --------------------------------------
+% Original Filename: 1080-c01.mid
+% Last Modified: March 20, 1997

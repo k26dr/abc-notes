@@ -1,0 +1,328 @@
+X: 1
+T: from ./vp1-5sa.mid
+M: 3/4
+L: 1/8
+Q:1/4=56
+K:D % 2 sharps
+% untitled
+% Copyright \0xa9 1996 by David J. Grossman
+% David J. Grossman
+% A
+% 1.
+% A'
+% 2.
+% B
+% B'
+V:1
+% Solo Violin
+%%MIDI program 40
+% untitled
+% Copyright \0xa9 1996 by David J. Grossman
+% David J. Grossman
+% A
+f2g2fe| \
+f3 edc| \
+Bed cdB| \
+^A3 GFE|
+D2C2B,2| \
+=A,4^A,2| \
+B,2x4| \
+% 1.
+f3 x3|
+% A'
+f2g2fe| \
+f3 edc| \
+Bed cdB| \
+^A3 GFE|
+D2C2B,2| \
+=A,4^A,2| \
+B,2x4| \
+% 2.
+f6|
+% B
+^a2^a2^a2| \
+x6| \
+B2c2e2| \
+=a3 x3|
+x6| \
+x4B2| \
+A2G2F2| \
+E3 x3|
+G2x2G2| \
+F2E2D2| \
+G,2x4| \
+x6|
+C2x4| \
+B,4A,2| \
+G,2x4| \
+x6|
+x6| \
+x6| \
+x4B2| \
+^ABc e^ae|
+d2c2B2| \
+^Agf ed2| \
+xc2<c2B| \
+B6|
+% B'
+^a2^a2^a2| \
+x6| \
+B2c2e2| \
+c3 x3|
+x6| \
+x4B2| \
+=A2G2F2| \
+E3 x3|
+G2x2G2| \
+F2E2D2| \
+G,2x4| \
+x6|
+C2x4| \
+B,4A,2| \
+G,2x4| \
+x6|
+x6| \
+x6| \
+x4B2| \
+^ABc e^ae|
+d2c2B2| \
+^Agf ed2| \
+xc2<c2B| \
+B6|
+V:2
+% --------------------------------------
+%%MIDI program 40
+% untitled
+% Copyright \0xa9 1996 by David J. Grossman
+% David J. Grossman
+% A
+d2d2c2| \
+d3 x3| \
+x6| \
+x6|
+B2=A2G/2F/2G| \
+c3 de2| \
+ede dcB| \
+% 1.
+c3 x3|
+% A'
+d2d2c2| \
+d3 x3| \
+x6| \
+x6|
+B2A2G/2F/2G| \
+c3 de2| \
+ede dcB| \
+% 2.
+c6|
+% B
+c2c2c2| \
+Bfb a^gf| \
+e2f2^g2| \
+c3 =gfe|
+^d=c'b e^da| \
+=c/2B/2=c/2A/2B ag2| \
+gff ee^d| \
+e3 x3|
+e2=d ^cBA| \
+x4A2| \
+B2c2d2| \
+c3 dec|
+B^A/2g/2f edc| \
+d3 ef2| \
+f2e dcB| \
+^A3 GFE|
+D2C2B,2| \
+x6| \
+E2D2C2| \
+x6|
+b2=a2g2| \
+Ex3F2| \
+x6| \
+F6|
+% B'
+c2c2c2| \
+Bfb a^gf| \
+e2f2^g2| \
+a3 =gfe|
+^d=c'b e^da| \
+=c/2B/2=c/2A/2B ag2| \
+gff ee^d| \
+e3 x3|
+e2=d ^cBA| \
+x4A2| \
+B2c2d2| \
+c3 dec|
+B^A/2g/2f edc| \
+d3 ef2| \
+f2e dcB| \
+^A3 GFE|
+D2C2B,2| \
+x6| \
+E2D2C2| \
+x6|
+b2=a2g2| \
+Ex3F2| \
+x6| \
+F6|
+V:3
+% Johann Sebastian Bach  (1685-1750)
+%%MIDI program 40
+% untitled
+% Copyright \0xa9 1996 by David J. Grossman
+% David J. Grossman
+% A
+F2E2A2| \
+D3 x3| \
+G2E2=F2| \
+^F3 x3|
+F2E2x2| \
+G4F2| \
+F2G4| \
+% 1.
+F3 x3|
+% A'
+F2E2A2| \
+D3 x3| \
+G2E2=F2| \
+^F3 x3|
+F2E2x2| \
+G4F2| \
+F2G4| \
+% 2.
+F6|
+% B
+F2E2F2| \
+Dx4x| \
+D2C2B,2| \
+A,3 x3|
+x6| \
+x6| \
+=c2B2A2| \
+x6|
+^c2x4| \
+d3 ef2| \
+b2g2f2| \
+e3 fg2|
+x6| \
+x4c2| \
+B2x2E2| \
+F3 x3|
+F2^A2B2| \
+E^GB d^gd| \
+c/2B/2cd/2c/2 de2| \
+e2x4|
+x6| \
+x6| \
+x6| \
+x6|
+% B'
+F2E2F2| \
+Dx4x| \
+D2C2B,2| \
+=A,3 x3|
+x6| \
+x6| \
+=c2B2A2| \
+x6|
+^c2x4| \
+d3 ef2| \
+b2=g2f2| \
+e3 fg2|
+x6| \
+x4c2| \
+B2x2E2| \
+F3 x3|
+F2^A2B2| \
+E^GB d^gd| \
+c/2B/2cd/2c/2 de2| \
+e2
+V:4
+% Six Sonatas and Partitas for Solo Violin
+%%MIDI program 40
+% untitled
+% Copyright \0xa9 1996 by David J. Grossman
+% David J. Grossman
+% A
+B,2x4| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x3 
+% 1.
+EDC|
+% A'
+B,2x4| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x6| \
+% 2.
+% B
+^G2=A2x2| \
+E3 x3|
+A3 =GF2| \
+E2^D2E2| \
+A,2B,2B,2| \
+x3 =DCB,|
+A,2x4| \
+x6| \
+D2E2D2| \
+A4x2|
+E2x4| \
+F4F2| \
+G2x4| \
+x6|
+B2c2d2| \
+dx4x| \
+x4E2| \
+F2x4|
+F2E2D2| \
+Cx3B,2| \
+E2F4| \
+B,6|
+x6| \
+x6| \
+% B'
+^G2A2x2| \
+E3 x3|
+A3 =GF2| \
+E2^D2E2| \
+A,2B,2B,2| \
+x3 =DCB,|
+A,2x4| \
+x6| \
+D2E2D2| \
+A4x2|
+E2x4| \
+F4F2| \
+G2x4| \
+x6|
+B2c2d2| \
+dx4x| \
+x4E2| \
+F2x4|
+F2E2D2| \
+Cx3B,2| \
+E2F4| \
+B,6|
+% --------------------------------------
+% Partita No. 1 in B minor - BWV 1002
+% 5th Movement: Sarabande
+% --------------------------------------
+% Sequenced with Cakewalk Pro Audio by
+% David J. Grossman - dave@unpronounceable.com
+% This and other Bach MIDI files can be found at:
+% Dave's J.S. Bach Page
+% http://www.unpronounceable.com/bach
+% --------------------------------------
+% Original Filename: vp1-5sa.mid
+% Last Modified: February 22, 1997

@@ -1,0 +1,385 @@
+X: 1
+T: from ./brand22.mid
+M: 3/4
+L: 1/8
+Q:1/4=81
+% Last note suggests minor mode tune
+K:F % 1 flats
+% "That One Guy"\0xa8 Publishing Inc.
+% J.S. Bach
+% Brandenburg Concerto #2
+% (Andante)
+% Sequenced by Del Ahlin
+V:1
+% Violincello
+%%MIDI program 48
+x6| \
+% "That One Guy"\0xa8 Publishing Inc.
+% J.S. Bach
+% Brandenburg Concerto #2
+% (Andante)
+% Sequenced by Del Ahlin
+D,A,F, A,D,F,| \
+G,B,E, G,_D,E,-| \
+[E,/2=D,/2-]D,/2A,F, A,D,F,|
+G,E,_D,- [E,/2-_D,/2]E,/2A,,_D,| \
+=D,A,,F,, A,,D,,F,,| \
+G,,B,,E,, G,,A,,A,| \
+D,A,F, A,D,F,|
+_A,,=B,,E,, _A,,=A,,D,| \
+E,=B,_A, =B,=A,C| \
+DF=B, DG,=B,| \
+CEA, CF,A,|
+=B,D_A, =B,E,E| \
+=A,CF, A,D,=B,,| \
+E,D,E,2E,,2| \
+A,,E,C, E,A,,C,|
+_B,,-[D,/2-B,,/2]D,/2G,, B,,C,,C,| \
+F,,A,,G,, B,,A,,C,| \
+B,,D,>G,, B,,C,-[C/2-C,/2]C/2| \
+F,A,G, B,A,C|
+B,DG, B,_D,E,| \
+=D,-[A,/2-D,/2]A,/2F, A,D,F,| \
+E,F,G,2G,,2| \
+C,E,D, F,E,G,|
+F,D,=B,, D,G,,=B,,| \
+C,A,,_B,, _G,,=G,,B,,| \
+C,_E,A,, C,D,D,,| \
+G,,=E,F, _D,=D,F,|
+G,B,E, G,A,A,,| \
+D,A,F, A,D,F,| \
+G,B,_E, G,C,_E,| \
+F,A,D, F,B,,D,|
+_E,C,F,2F,,2| \
+B,,F,D, F,B,,D,| \
+F,,CA, CF,A,| \
+C,G,_E, G,C,_E,|
+G,,-[D/2-G,,/2]D/2B, DG,B,| \
+D,A,_G, A,=G,B,/2x/2| \
+C_EA, CF,A,| \
+B,DG, B,_E,G,|
+A,C_G, A,D,D-| \
+[D/2=G,/2-]G,/2B,_E, G,C,A,,| \
+D,C,D,2D,,x| \
+G,,DB, DG,B,|
+_D,=E,A,, _D,=D,G,,| \
+A,,E,_D, E,A,,_D,| \
+=D,,A,F, A,D,F,| \
+A,,E,_D, E,A,,_D,|
+=D,,A,F, A,D,F,| \
+A,,E,_D, E,A,,_D,| \
+=D,,A,_G, A,D,_G,| \
+=G,,D=B, DG,=B,|
+C,-[G,/2-C,/2]G,/2E, G,C,E,| \
+F,,CA, CF,A,| \
+_B,,F,D, F,B,,-[D,/2-B,,/2]D,/2| \
+E,,B,G, B,E,G,|
+A,,E,_D, E,A,,_D,| \
+=D,,A,F, A,D,-[F,/2-D,/2]F,/2| \
+G,B,E, G,C,E,| \
+F,A,D, F,B,,D,|
+E,G,_D, E,A,,A,| \
+=D,F,B,, D,G,,E,,| \
+A,,G,,A,,4| \
+B,,4-[=B,,/2-_B,,/2]=B,,3/2-|
+=B,,2A,,4| \
+x/2D,,4-D,,3/2-|D,,3 
+V:2
+% Flauto
+%%MIDI program 73
+x6| \
+x6| \
+x6| \
+x6|
+x6| \
+x4
+% "That One Guy"\0xa8 Publishing Inc.
+% J.S. Bach
+% Brandenburg Concerto #2
+% (Andante)
+% Sequenced by Del Ahlin
+a2| \
+_b2>a2g/2b/2a/2x/2| \
+g/2f/2g/2f/2-[f/2e/2-]e/2 da2|
+=b3 c'/2d'/2>c'/2=b/2c'/2x/2| \
+ (3a/2_a/2=a/2[a/2_a/2]=a/2_g e/2x/2c'3/2x/2| \
+c'=bx2=bc'/2d'/2| \
+=bax2a2|
+a_ax2_a3/2x/2| \
+_a=ax2a2| \
+a2>=b2e/2a/2_a| \
+=a2-a/2x3/2c'2|
+c'_bx2bc'/2d'/2| \
+ba/2x2x/2ax| \
+a=g3/2x3/2ga/2b/2| \
+gfx2c'2|
+d'3 e'/2f'/2e'/2g'/2f'| \
+f'2e'/2e'/2 d'c'=b| \
+g'2f' e'd'c'| \
+c'3 x3|
+x6| \
+x4d'2| \
+_e'3 d' (3c'_e'd'| \
+[c'/2_b/2-]b/2d'/2<_d'/2=d' f'/2=e'/2f'2|
+f'e'/2x2x/2e'f'/2g'/2| \
+f'/2x/2x/2[e'/2d'/2]x4| \
+x6| \
+x4f'2|
+g'3 f'_e'/2g'/2f'/2x/2| \
+_e'd'3/2x3/2d2| \
+dcx4| \
+x3/2g2-g/2c'2|
+c'b3/2x3/2b2| \
+ba3/2x3/2d'2| \
+_e'3 d'c'/2-[g'/2-c'/2]g'/2f'/2-| \
+[f'/2_e'/2-]_e'/2d'/2x/2[d'/2c'/2-c'/2]c'/2 b/2x/2ag-|
+[c'/2-g/2]c'3b/2a/2c'/2b/2x/2| \
+[b/2a/2-a/2]a/2gx2_e'2| \
+_e'd'c' bc'/2_e'/2d'/2x/2| \
+c'b/2x/2a g/2x2x/2|
+x4B3/2x/2| \
+BAx2g2| \
+gfx4| \
+x4G3/2x/2|
+GFx2f3/2x/2| \
+f=ex4| \
+x2a2c'2| \
+c'=b3/2x3/2=b3/2x/2|
+=bc'3/2x3x/2| \
+x2c2_e3/2x/2| \
+_edx2f2| \
+f=ex4|
+x2e2g2| \
+gfx2f3/2x/2| \
+fe/2x2x/2ef/2g/2-| \
+[g/2e/2-]e/2d/2x2x/2d2|
+d_dx2_d3/2x/2| \
+_d=dx2d2| \
+d3 eA/2d/2_d| \
+g2-g/2_b/2 a/2x/2g/2f3/2-|
+f/2_d/2=d3[d/2_d/2][_d/2_d/2]_d/2=d/2| \
+x/2d4-d3/2-|d2-d/2-
+V:3
+% Oboe
+%%MIDI program 68
+x6| \
+x6| \
+x6| \
+x4
+% "That One Guy"\0xa8 Publishing Inc.
+% J.S. Bach
+% Brandenburg Concerto #2
+% (Andante)
+% Sequenced by Del Ahlin
+A2|
+B3 AG/2-[B/2G/2]x/2A/2| \
+G/2x/2G/2<F/2E Df2| \
+fe3/2x3/2ef/2g/2| \
+edx2F2|
+FE3/2x3x/2| \
+x4e2| \
+f2>e2d/2-[a/2d/2]g| \
+fed c/2x/2[c/2c/2]=B/2-[=B/2A/2-]A/2|
+d2>c2=B/2d/2c/2x/2| \
+=BAx2f2| \
+fed cd/2f/2e| \
+dc/2x/2c/2[=B/2A/2-] A/2x/2c2|
+d3 e/2f/2e/2g/2f/2x/2| \
+f2x/2[f/2e/2] dcd| \
+c_Bx2Bc/2d/2| \
+BAx2A3/2x/2|
+AGx2GA/2B/2| \
+A/2G/2Fx2d3/2x/2| \
+dc/2x/2c =B=B-[=B/2A/2]=B/2| \
+c3/2x4x/2|
+x6| \
+x6| \
+x6| \
+x4A2|
+_B2>A2 (3GBA| \
+G/2F/2G/2F/2-[F/2E/2-]E/2 D/2x/2f2| \
+f_e3/2x3/2_ef/2g/2| \
+f/2_e/2[_e/2d/2]x2x/2d3/2x/2|
+dcx2cd/2_e/2| \
+cBf2b2| \
+ba3/2x3/2a3/2x/2| \
+agx4|
+x2d2g2| \
+g_gx4| \
+x6| \
+x4d2|
+_e3 d (3c_ed| \
+cBA =GAB/2c/2| \
+c/2B/2x/2B/2A/2x/2 AAB/2x/2| \
+G2x2d2|
+=e3 f/2g/2f/2e/2f/2x/2| \
+d/2_d/2[=d/2_d/2][=d/2_d/2]x/2=B/2- [=B/2A/2-]A/2x2| \
+x4=d3/2x/2| \
+d_dx2e3/2x/2|
+e=dx4| \
+x2E2G2| \
+G_Gx2_g2| \
+_g=gx4|
+x2G2_B3/2x/2| \
+BAx2A3/2x/2| \
+ABx4| \
+x2b2d2|
+d_dx2e3/2x/2| \
+e=d/2x4x/2| \
+x6| \
+x4d'2|
+b3 ag/2b/2a/2x/2| \
+gf/2x/2e d/2x/2ef/2g/2| \
+g/2f/2x/2g/2x/2f/2 [g/2f/2]e<ef/2| \
+x/2_d2-_d/2- [=d/2-_d/2]=d/2_A2-|
+_A=A/2x/2G/2F/2 F/2G/2[G/2F/2]ED/2-| \
+D/2D4-D3/2-|D2-D/2
+V:4
+% Violino
+%%MIDI program 48
+x6| \
+x4
+% "That One Guy"\0xa8 Publishing Inc.
+% J.S. Bach
+% Brandenburg Concerto #2
+% (Andante)
+% Sequenced by Del Ahlin
+A2| \
+B3 AG/2-[B/2-G/2][B/2A/2]x/2| \
+G/2>F/2[G/2F/2][G/2G/2][F/2E/2-]E/2 Df2|
+fe3/2x3/2ef/2g/2| \
+f/2[f/2e/2]e/2d/2x2d2| \
+d_dx2_d3/2x/2| \
+_d-[=d/2-_d/2]=d/2x4|
+x4F3/2x/2| \
+FEx4| \
+x6| \
+x4a2|
+f3 ed/2f/2e/2x/2| \
+dc=B A=Bc/2d/2| \
+ (3d/2c/2d/2[d/2c/2][d/2c/2]c/2[d/2c/2] =B/2x/2=Bc/2>=B/2| \
+A3- A/2x2x/2|
+x6| \
+x4c2| \
+d3 e/2f/2e/2g/2f/2x/2| \
+fxf/2<e/2 dcd|
+c_Bx2Bc/2d/2| \
+c/2B/2A/2x2x/2f3/2x/2| \
+fea g>fg| \
+e3/2x2x/2g2|
+a2>g2f/2a/2g/2x/2| \
+f/2[e/2e/2]g/2_g/2=g- [b/2g/2]a/2b2| \
+ba/2x2x/2ab/2c'/2| \
+a/2[b/2a/2][a/2g/2]x2x/2d'2|
+d'_d'/2x2x/2_d'3/2x/2| \
+_d'-[=d'/2-_d'/2]=d'x3/2A2| \
+B3 c/2d/2_e/2d/2_e| \
+B/2>A/2[B/2B/2A/2]B/2[A/2G/2-]G/2 FB3/2x/2|
+B2>c2B/2[B/2A/2]A/2[B/2A/2]| \
+[B/2A/2-]A/2B/2x4x/2| \
+x2c2f2| \
+f_ex2_e3/2x/2|
+_edx4| \
+x4b2| \
+ba3/2x3/2ab/2c'/2| \
+b/2a/2[a/2g/2-]g/2x2g3/2x/2|
+g_gx2_g3/2x/2| \
+_g=gx2g2| \
+g2>a2d/2g/2_g/2x/2| \
+_g/2=g2x3/2B3/2x/2|
+BAx4| \
+x4=e3/2x/2| \
+edx2F3/2x/2| \
+FEx4|
+x4d2| \
+d_d3/2x3/2_d2| \
+_d=d/2x4x/2| \
+x2d2f2|
+fex2e3/2x/2| \
+efx4| \
+x2f2a2| \
+agx2b3/2x/2|
+bax4| \
+x4A2| \
+B3 A (3Gdc| \
+BAG F/2>F/2E/2[F/2E/2][F/2E/2]D/2-|
+[G/2-D/2]G2x/2 F (3EGF| \
+[F/2E/2][F/2E/2]D/2x2x/2b2| \
+ba/2x/2g f/2x/2ga/2>f/2| \
+e/2f/2[f/2e/2]f/2[f/2e/2-]e/2 f/2x/2d2-|
+de/2f/2A GBA-| \
+A/2 (3_G/2=G/2_G/2[=G/2_G/2][=G/2_G/2][=G/2_G/2-] _G3-|_G2
+V:5
+% Cembalo
+%%MIDI program 6
+x6| \
+% "That One Guy"\0xa8 Publishing Inc.
+% J.S. Bach
+% Brandenburg Concerto #2
+% (Andante)
+% Sequenced by Del Ahlin
+D,A,F, A,D,F,| \
+=G,B,E, G,_D,E,-| \
+[E,/2=D,/2-]D,/2A,F, A,D,F,|
+G,E,_D,- [E,/2-_D,/2]E,/2A,,_D,| \
+=D,A,,F,, A,,D,,F,,| \
+G,,B,,E,, G,,A,,A,| \
+D,A,F, A,D,F,|
+_A,,=B,,E,, _A,,=A,,D,| \
+E,=B,_A, =B,=A,C| \
+DF=B, DG,=B,| \
+CEA, CF,A,|
+=B,D_A, =B,E,E| \
+=A,CF, A,D,=B,,| \
+E,D,E,2E,,2| \
+A,,E,C, E,A,,C,|
+_B,,-[D,/2-B,,/2]D,/2G,, B,,C,,C,| \
+F,,A,,G,, B,,A,,C,| \
+B,,D,>G,, B,,C,-[C/2-C,/2]C/2| \
+F,A,G, B,A,C|
+B,DG, B,_D,E,| \
+=D,-[A,/2-D,/2]A,/2F, A,D,F,| \
+E,F,G,2G,,2| \
+C,E,D, F,E,G,|
+F,D,=B,, D,G,,=B,,| \
+C,A,,_B,, _G,,=G,,B,,| \
+C,_E,A,, C,D,D,,| \
+G,,=E,F, _D,=D,F,|
+G,B,E, G,A,A,,| \
+D,A,F, A,D,F,| \
+G,B,_E, G,C,_E,| \
+F,A,D, F,B,,D,|
+_E,C,F,2F,,2| \
+B,,F,D, F,B,,D,| \
+F,,CA, CF,A,| \
+C,G,_E, G,C,_E,|
+G,,-[D/2-G,,/2]D/2B, DG,B,| \
+D,A,_G, A,=G,B,/2x/2| \
+C_EA, CF,A,| \
+B,DG, B,_E,G,|
+A,C_G, A,D,D-| \
+[D/2=G,/2-]G,/2B,_E, G,C,A,,| \
+D,C,D,2D,,x| \
+G,,DB, DG,B,|
+_D,=E,A,, _D,=D,G,,| \
+A,,E,_D, E,A,,_D,| \
+=D,,A,F, A,D,F,| \
+A,,E,_D, E,A,,_D,|
+=D,,A,F, A,D,F,| \
+A,,E,_D, E,A,,_D,| \
+=D,,A,_G, A,D,_G,| \
+=G,,D=B, DG,=B,|
+C,-[G,/2-C,/2]G,/2E, G,C,E,| \
+F,,CA, CF,A,| \
+_B,,F,D, F,B,,-[D,/2-B,,/2]D,/2| \
+E,,B,G, B,E,G,|
+A,,E,_D, E,A,,_D,| \
+=D,,A,F, A,D,-[F,/2-D,/2]F,/2| \
+G,B,E, G,C,E,| \
+F,A,D, F,B,,D,|
+E,G,_D, E,A,,A,| \
+=D,F,B,, D,G,,E,,| \
+A,,G,,A,,4| \
+B,,4-[=B,,/2-_B,,/2]=B,,3/2-|
+=B,,2A,,4| \
+x/2D,,4-D,,3/2-|D,,3 
